@@ -1,7 +1,5 @@
-![GitHub Profile Header](GitHubProfileHeader.png) <a href = https://www.linkedin.com/in/norzzielein> <img src = FacebookIcon.png alt = "Alt Text" width = "100" height = "100"> </a>
+![GitHub Profile Header](GitHubProfileHeader.png) <a href = norieneil_acosta@outlook.com> <img src = EmailIcon.png alt = "Email Address" width = "40" height = "40"></a> <a href = 09673581501> <img src = TelephoneIcon.png alt = "Contact Number" width = "40" height = "40"></a>
 
-
-[![Facebook Icon](FacebookIcon.png)]([https://github.com](https://www.linkedin.com/in/norzzielein))
 
 ### Hi there 👋
 
