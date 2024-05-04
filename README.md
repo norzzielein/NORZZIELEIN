@@ -1,4 +1,3 @@
-![GitHub Profile Header](GitHubProfileHeader.png)
 
 
 ### Hi there 👋
