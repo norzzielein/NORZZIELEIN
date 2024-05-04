@@ -1,4 +1,4 @@
-![GitHub Profile Header](GitHubProfileHeaderlogo.png)
+![GitHub Profile Header](GitHubProfileHeader.png)
 
 
 ### Hi there 👋
