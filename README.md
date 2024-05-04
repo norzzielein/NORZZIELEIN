@@ -1,4 +1,5 @@
-![GitHub Profile Header](GitHubProfileHeader.png) Hi there!!!!!
+![GitHub Profile Header](GitHubProfileHeader.png) [![Facebook Icon](FacebookIcon.png)]([https://github.com](https://www.linkedin.com/in/norzzielein))
+
 ### Hi there 👋
 
 <!--
