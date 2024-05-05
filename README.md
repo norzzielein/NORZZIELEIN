@@ -8,13 +8,13 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
 
 ### 🖥️ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗕𝗔𝗖𝗞𝗚𝗥𝗢𝗨𝗡𝗗
 
-#### **DE LA SALLE UNIVERSITY - DASMARIÑAS**
-  - 🎓 BS in Applied Mathematics
-  - 👨🏻‍🎓 Summa Cum Laude (Class 2023 Valedictorian)
-  - 📅 August 2019 - September 2023
-  - 🗺️ Dasmariñas Bagong Bayan – Area-B, 4115 West Avenue, Dasmariñas City, Cavite
+- #### <strong> DE LA SALLE UNIVERSITY - DASMARIÑAS </strong>
+    > 🎓 BS in Applied Mathematics<br>
+    > 👨🏻‍🎓 Summa Cum Laude (Class 2023 Valedictorian)<br>
+    > 📅 August 2019 - September 2023<br>
+    > 🗺️ Dasmariñas Bagong Bayan – Area-B, 4115 West Avenue, Dasmariñas City, Cavite
 
-  The very first Summa Cum Laude of the BS in Applied Mathematics program of De La Salle University - Dasmariñas. The batch valedictorian of Class of 2023 who have attained the highest cumulative grade point average (CGPA) in the history of DLSU-D. The Summa (highest) among the 43 Summa Cum Laude graduates of the batch. A consistent first honor Dean’s Lister from 2019 to 2023, an Academic Scholar, and a Financial Assistance Scholar of the University.
+    The very first Summa Cum Laude of the BS in Applied Mathematics program of De La Salle University - Dasmariñas. The batch valedictorian of Class of 2023 who have attained the highest cumulative grade point average (CGPA) in the history of DLSU-D. The Summa (highest) among the 43 Summa Cum Laude graduates of the batch. A consistent first honor Dean’s Lister from 2019 to 2023, an Academic Scholar, and a Financial Assistance Scholar of the University.
 
 
   
