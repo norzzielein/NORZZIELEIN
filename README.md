@@ -82,11 +82,11 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
 - #### DE LA SALLE UNIVERSITY ‒ DASMARIÑAS RESEARCH WEEK 2023 <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
 
     > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : May 2023<br>
-    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> : De La Salle University – Dasmariñas, Dasmariñas City, Cavite
+    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: De La Salle University – Dasmariñas, Dasmariñas City, Cavite
 
 - #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
 
     > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : January 2023<br>
-    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> : Fort Ilocandia Resort Hotel, Laoag City, Ilocos 	Norte, Philippines
+    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: Fort Ilocandia Resort Hotel, Laoag City, Ilocos 	Norte, Philippines
   
 <img src = "IMPORT FILES/GitHubProfileFooter.png" alt = "GitHub Profile Footer" width = "1000"></a>
