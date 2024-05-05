@@ -89,6 +89,8 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : January 2023<br>
     > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines
 
+***
+
 ### 🖥️ 𝗘𝗟𝗜𝗚𝗜𝗕𝗜𝗟𝗜𝗧𝗬 𝗔𝗡𝗗 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
 - #### HONOR GRADUATE ELIGIBILITY <br> Presidential Decree No. 907 (Honor Graduate)
