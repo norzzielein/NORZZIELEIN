@@ -9,8 +9,7 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
 ### 🖥️ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗕𝗔𝗖𝗞𝗚𝗥𝗢𝗨𝗡𝗗
 
 - #### DE LA SALLE UNIVERSITY - DASMARIÑAS <br> BS in Applied Mathematics
-  
-    > 🎓 BS in Applied Mathematics<br>
+
     > 👨🏻‍🎓 Summa Cum Laude (Class 2023 Valedictorian)<br>
     > 📅 August 2019 - September 2023<br>
     > 🗺️ Dasmariñas Bagong Bayan – Area-B, 4115 West Avenue, Dasmariñas City, Cavite
