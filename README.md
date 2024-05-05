@@ -75,7 +75,7 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/YellowSearchIcon.png" alt = "Yellow Search Icon" height = "20"> : DOI: 10.25147/ijcsr.2017.001.1.130<br>
     > <img src = "IMPORT FILES/YellowWebsiteIcon.png" alt = "Yellow Website Icon" height = "20"> : https://stepacademic.net/ijcsr/article/view/410
 
-    Acosta, NN., Lamadrid, CK., & Barrameda, R. (2023). Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm. International Journal of Com-puting Sciences Research, 7, 1937-1955.
+    Acosta, NN., Lamadrid, CK., & Barrameda, R. (2023). Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm. International Journal of Computing Sciences Research, 7, 1937-1955.
 
 ### 🖥️ 𝗦𝗣𝗘𝗔𝗞𝗘𝗥𝗦𝗛𝗜𝗣 𝗔𝗡𝗗 𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡𝗦
 
