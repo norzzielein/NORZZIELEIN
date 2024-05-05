@@ -6,6 +6,15 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
 ### 🖥️ 𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟𝗜𝗧𝗬 𝗔𝗥𝗖𝗛𝗘𝗧𝗬𝗣𝗘
 As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently drawn on logic, analysis, and strategic thinking. My natural inclination towards introspection and problem-solving aligns perfectly with the worlds of Data Science and Mathematics, where I am adept at synthesizing intricate data sets, employing rigorous methodologies to discern underlying patterns, and deriving actionable insights. My love for delving into enigmatic narratives of mystery novels hones my aptitude for deductive reasoning, which allows me to foster a discerning mindset that is invaluable in problem-solving scenarios. Furthermore, my penchant for exploring abstract philosophical concepts nurtures a capacity for critical thought and encourages innovative approaches to complex challenges. These multifaceted aspects of my persona converge to drive my relentless pursuit of intellectual inquiry and contribute to my effectiveness as a versatile thinker within both analytical and philosophical domains.
 
+### 🖥️ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗕𝗔𝗖𝗞𝗚𝗥𝗢𝗨𝗡𝗗
+
+#### 𝗗𝗘 𝗟𝗔 𝗦𝗔𝗟𝗟𝗘 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗜𝗧𝗬 - 𝗗𝗔𝗦𝗠𝗔𝗥𝗜Ñ𝗔𝗦
+- 🎓 BS in Applied Mathematics
+- 👨🏻‍🎓 Summa Cum Laude (Class 2023 Valedictorian)
+- 📅 August 2019 - September 2023
+- 🗺️ Dasmariñas Bagong Bayan – Area-B, 4115 West Avenue, Dasmariñas City, Cavite
+-   The very first Summa Cum Laude of the BS in Applied Mathematics program of De La Salle University - Dasmariñas. The batch valedictorian of Class of 2023 who have attained the highest cumulative grade point average (CGPA) in the history of DLSU-D. The Summa (highest) among the 43 Summa Cum Laude graduates of the batch. A consistent first honor Dean’s Lister from 2019 to 2023, an Academic Scholar, and a Financial Assistance Scholar of the University.
 
 
+  
 <img src = GitHubProfileFooter.png alt = "GitHub Profile Footer" width = "1000"></a>
