@@ -60,7 +60,9 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/GreenCalendarIcon.png" alt = "Green Calendar Icon" height = "20"> : August 2019 - September 2023<br>
     > <img src = "IMPORT FILES/GreenLocationIcon.png" alt = "Green Location Icon" height = "20"> &nbsp;: Dasmariñas Bagong Bayan – Area-B, 4115 West Avenue, Dasmariñas City, Cavite
 
+    <div align = "justify">
     The very first 𝗦𝘂𝗺𝗺𝗮 𝗖𝘂𝗺 𝗟𝗮𝘂𝗱𝗲 of the BS in Applied Mathematics program of De La Salle University - Dasmariñas. The batch valedictorian of Class of 2023 who have attained the highest cumulative grade point average (CGPA) in the history of DLSU-D. The Summa (highest) among the 43 Summa Cum Laude graduates of the batch. A consistent first honor Dean’s Lister from 2019 to 2023, an Academic Scholar, and a Financial Assistance Scholar of the University.
+    </div>
 
 ***
 
@@ -71,49 +73,63 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/VioletMedalIcon.png" alt = "Violet Medal Icon" height = "20"> : by Mayor Jennifer Barzaga and Congressman Elpidio Barzaga Jr. through the City Government of Dasmariñas, Cavite<br>
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : September 2023, May 2019, April 2013
 
+    <div align = "justify">
     The Dasmariñas City government’s initiative aimed at acknowledging academic excellence among the youth by providing cash rewards, certificates, and medals to graduates with honors in elementary and secondary levels, as well as tertiary and graduate or post-graduate students with honors, board topnotchers, and passers.
+    </div>
 
 - #### GOLDEN LEAF AWARD
 
     > <img src = "IMPORT FILES/VioletMedalIcon.png" alt = "Violet Medal Icon" height = "20"> : by De La Salle University – Dasmariñas<br>
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : September 2023
 
+    <div align = "justify">
     The highest award given by the DLSU-D College of Science and Computer Studies (CSCS) to a graduating Biology or Mathematics student who has achieved the highest cumulative GPA and has significantly contributed services to the College while maintaining Lasallian values.
+    </div>
 
 - #### NOTABLE GOLDEN MEDALIST AWARD
 
     > <img src = "IMPORT FILES/VioletMedalIcon.png" alt = "Violet Medal Icon" height = "20"> : by De La Salle University – Dasmariñas, Student 	Development and Activities Office (SDAO)<br>
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : August 2023
 
+    <div align = "justify">
     Award of recognition for my internationally published research titled "𝙈𝙪𝙡𝙩𝙞𝙫𝙖𝙧𝙞𝙖𝙩𝙚 𝙋𝙧𝙚𝙙𝙞𝙘𝙩𝙞𝙫𝙚 𝙈𝙤𝙙𝙚𝙡𝙡𝙞𝙣𝙜 𝙤𝙛 𝙈𝙖𝙩𝙝𝙚𝙢𝙖𝙩𝙞𝙘𝙨 𝙎𝙚𝙢𝙚𝙨𝙩𝙧𝙖𝙡 𝙂𝙧𝙖𝙙𝙚 𝙫𝙞𝙖 𝘽𝙖𝙮𝙚𝙨𝙞𝙖𝙣 𝙉𝙚𝙩𝙬𝙤𝙧𝙠𝙨 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝘼𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢" under the International Journal of Computing Sciences Research (IJCSR).
+    </div>
 
 - #### BEST IN THESIS AWARD
 
     > <img src = "IMPORT FILES/VioletMedalIcon.png" alt = "Violet Medal Icon" height = "20"> : by De La Salle University – Dasmariñas, College 	of Science and Computer Studies (CSCS)<br>
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : July 2023
 
+    <div align = "justify">
     This accolade highlights the exceptional merit and outstanding contribution of my thesis study with a title "𝙎𝙥𝙖𝙩𝙞𝙤𝙩𝙚𝙢𝙥𝙤𝙧𝙖𝙡 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨 𝙤𝙛 𝘿𝙚𝙣𝙜𝙪𝙚 𝘾𝙖𝙨𝙚𝙨 𝘿𝙞𝙨𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙤𝙣 𝙬𝙞𝙩𝙝 𝙂𝙚𝙤𝙜𝙧𝙖𝙥𝙝𝙞𝙘 𝘾𝙝𝙤𝙧𝙤𝙥𝙡𝙚𝙩𝙝 𝙈𝙖𝙥𝙥𝙞𝙣𝙜 𝙖𝙣𝙙 𝙀𝙢𝙚𝙧𝙜𝙞𝙣𝙜 𝙃𝙤𝙩𝙨𝙥𝙤𝙩 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨: 𝙏𝙝𝙚 𝘾𝙖𝙨𝙚 𝙤𝙛 𝘾𝙖𝙫𝙞𝙩𝙚, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨" to the field of public health research.
+    </div>
 
 - #### VIRTUS ET EXCELLENTIA AWARD
 
     > <img src = "IMPORT FILES/VioletMedalIcon.png" alt = "Violet Medal Icon" height = "20"> : by De La Salle University – Dasmariñas, College 	of Science and Computer Studies (CSCS)<br>
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : July 2023
 
+    <div align = "justify">
     The highest award given to the top graduating student who upholds the Lasallian values and have shown exceptional performance for the academics, co-curricular, and extra-curricular activities.
+    </div>
 
 - #### GAWAD TALINO EXCELLENCE IN MATHEMATICS AWARD
 
     > <img src = "IMPORT FILES/VioletMedalIcon.png" alt = "Violet Medal Icon" height = "20"> : by the Mercury Drugs Foundation, Inc. through 	the University of Perpetual Help – Molino<br>
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : April 2019
 
+    <div align = "justify">
     An academic recognition awarded to graduating senior high school students who excel in the field of Mathematics and Science. By honoring the students, Mercury Drugs Foundation, Inc. hopes to inspire and encourage them to maximize their potential, to pursue higher levels of education, and to aspire to become leaders in the next generation.
+    </div>
 
 - #### YOUTH LEADERSHIP EXCELLENCE AWARD
 
     > <img src = "IMPORT FILES/VioletMedalIcon.png" alt = "Violet Medal Icon" height = "20"> : by Senator Joseph Victor “JV” Ejercito through Dasmariñas East Integrated High School<br>
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : April 2017
 
+    <div align = "justify">
     This award by the Junior Chamber International (JCI) Philippines Inc. aims to recognize students from elementary and high school from both public and private schools who have shown extraordinary skills both academically and in extra-curricular activities.
+    </div>
 
 ***
 
@@ -125,8 +141,10 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/YellowSearchIcon.png" alt = "Yellow Search Icon" height = "20"> : DOI: 10.25147/ijcsr.2017.001.1.130<br>
     > <img src = "IMPORT FILES/YellowWebsiteIcon.png" alt = "Yellow Website Icon" height = "20"> : https://stepacademic.net/ijcsr/article/view/410
 
+    <div align = "justify">
     Acosta, NN., Lamadrid, CK., & Barrameda, R. (2023). Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm. International Journal of Computing Sciences Research, 7, 1937-1955.
-
+    </div>
+    
 ***
 
 ### 🖥️ 𝗦𝗣𝗘𝗔𝗞𝗘𝗥𝗦𝗛𝗜𝗣 𝗔𝗡𝗗 𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡𝗦
@@ -150,13 +168,17 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/BrownCertificateIcon.png" alt = "Brown Certificate Icon" height = "20"> : by the Civil Service Commission (CSC) of the Philippines<br>
     > <img src = "IMPORT FILES/BrownCalendarIcon.png" alt = "Brown Calendar Icon" height = "20"> : April 2024
 
+    <div align = "justify">
     𝗣𝗗 𝗡𝗼. 𝟵𝟬𝟳 explicitly provides among others, that it is considered that graduation with honors earned under the competitive atmosphere of the academic community is as good as qualifying mark in a competitive examination to determine merit and excellence for public employment.
+    </div>
   
 - #### TEST OF ENGLISH FOR INTERNATIONAL COMMUNICATION (TOEIC) CERTIFICATION <br> Common European Framework of Reference for Languages (CEFR)
 
     > <img src = "IMPORT FILES/BrownCertificateIcon.png" alt = "Brown Certificate Icon" height = "20"> : by the Hopkins International Partners Inc.<br>
     > <img src = "IMPORT FILES/BrownCalendarIcon.png" alt = "Brown Calendar Icon" height = "20"> : July 2023
 
+    <div align = "justify">
     𝗕𝟮 or 𝘂𝗽𝗽𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options.
+    </div>
     
 <img src = "IMPORT FILES/GitHubProfileFooter.png" alt = "GitHub Profile Footer"></a>
