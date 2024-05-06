@@ -1,8 +1,18 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="IMPORT FILES/GitHubProfileHeader.png" alt="GitHub Profile Header" style="width: 100%;" />
     <div style="display: flex; justify-content: space-between; width: 100%;">
-        <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" style="width: 50%;" />
-        <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" style="width: 50%;" />
+        <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" style="width: 35%;" />
+        <!-- E-MAIL -->
+        <a href = norieneil_acosta@outlook.com title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" style = "width:             4%;"></a>
+        <!-- PHONE -->
+        <a href = 09673381501 title = "PHONE: 09673381501"> <img src = "IMPORT FILES/TelephoneIcon.png" alt = "Contact Number" style = "width: 4%;"></a>
+        <!-- LINKEDIN -->
+        <a href = https://www.linkedin.com/in/norzzielein title = "LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src = "IMPORT FILES/LinkedInIcon.png" alt =                 "LinkedIn Account" style = "width: 4%;"></a>
+        <!-- GITHUB -->
+        <!-- FACEBOOK -->
+        <!-- INSTAGRAM -->
+        <!-- TWITTER -->
+        <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" style="width: 35%;" />
     </div>
 </div>
 
