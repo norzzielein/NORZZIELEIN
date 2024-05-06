@@ -1,13 +1,13 @@
 <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header"></a>
-<img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" height = "33"></a>
-<a href = norieneil_acosta@outlook.com title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" width = "34" height = "33"></a>
-<a href = 09673381501 title = "PHONE: 09673381501"> <img src = "IMPORT FILES/TelephoneIcon.png" alt = "Contact Number" width = "34" height = "33"></a>
-<a href = https://www.linkedin.com/in/norzzielein title = "LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src = "IMPORT FILES/LinkedInIcon.png" alt = "LinkedIn Account" width = "34" height = "33"></a>
-<a href = https://github.com/norzzielein title = "GITHUB: https://github.com/norzzielein"> <img src = "IMPORT FILES/GitHubIcon.png" alt = "GitHub Account" width = "34" height = "33"></a>
-<a href = https://www.facebook.com/norzzielein title = "FACEBOOK: https://www.facebook.com/norzzielein"> <img src = "IMPORT FILES/FacebookIcon.png" alt = "Facebook Account" width = "34" height = "33"></a>
-<a href = https://www.instagram.com/norzzielein title = "INSTAGRAM: https://www.instagram.com/norzzielein"> <img src = "IMPORT FILES/InstagramIcon.png" alt = "Instagram Account" width = "34" height = "33"></a>
-<a href = https://twitter.com/norzzielein title = "TWITTER: https://twitter.com/norzzielein"> <img src = "IMPORT FILES/TwitterIcon.png" alt = "Twitter Account" width = "34" height = "33"></a>
-<img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" height = "33"></a>
+<img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" height = "30"></a>
+<a href = norieneil_acosta@outlook.com title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" width = "30" height = "30"></a>
+<a href = 09673381501 title = "PHONE: 09673381501"> <img src = "IMPORT FILES/TelephoneIcon.png" alt = "Contact Number" width = "30" height = "30"></a>
+<a href = https://www.linkedin.com/in/norzzielein title = "LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src = "IMPORT FILES/LinkedInIcon.png" alt = "LinkedIn Account" width = "30" height = "30"></a>
+<a href = https://github.com/norzzielein title = "GITHUB: https://github.com/norzzielein"> <img src = "IMPORT FILES/GitHubIcon.png" alt = "GitHub Account" width = "30" height = "30"></a>
+<a href = https://www.facebook.com/norzzielein title = "FACEBOOK: https://www.facebook.com/norzzielein"> <img src = "IMPORT FILES/FacebookIcon.png" alt = "Facebook Account" width = "30" height = "30"></a>
+<a href = https://www.instagram.com/norzzielein title = "INSTAGRAM: https://www.instagram.com/norzzielein"> <img src = "IMPORT FILES/InstagramIcon.png" alt = "Instagram Account" width = "30" height = "30"></a>
+<a href = https://twitter.com/norzzielein title = "TWITTER: https://twitter.com/norzzielein"> <img src = "IMPORT FILES/TwitterIcon.png" alt = "Twitter Account" width = "30" height = "30"></a>
+<img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" height = "30"></a>
 
 ### 🖥️ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦
 
