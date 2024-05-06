@@ -1,5 +1,5 @@
 <img src="IMPORT FILES/GitHubProfileHeader.png" alt="GitHub Profile Header" style="width: 100%;">
-<table style="border-collapse: collapse; width: 100%; margin: 0;">
+<table style="border-collapse: collapse; width: 100%; margin: 30;">
   <tr>
     <td><img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer"></td>
     <td><a href="mailto:norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"><img src="IMPORT FILES/EmailIcon.png" alt="Email Address"></a></td>
