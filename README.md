@@ -1,15 +1,15 @@
 <img src="IMPORT FILES/GitHubProfileHeader.png" alt="GitHub Profile Header" style="width: 100%;">
 <table style="border-collapse: collapse; width: 100%; margin: 0;">
   <tr>
-    <td><img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer"></td>
-    <td><a href="mailto:norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"><img src="IMPORT FILES/EmailIcon.png" alt="Email Address"></a></td>
-    <td><a href="tel:09673381501" title="PHONE: 09673381501"><img src="IMPORT FILES/TelephoneIcon.png" alt="Contact Number"></a></td>
-    <td><a href="https://www.linkedin.com/in/norzzielein" title="LINKEDIN: https://www.linkedin.com/in/norzzielein"><img src="IMPORT FILES/LinkedInIcon.png" alt="LinkedIn Account"></a></td>
-    <td><a href="https://github.com/norzzielein" title="GITHUB: https://github.com/norzzielein"><img src="IMPORT FILES/GitHubIcon.png" alt="GitHub Account"></a></td>
-    <td><a href="https://www.facebook.com/norzzielein" title="FACEBOOK: https://www.facebook.com/norzzielein"><img src="IMPORT FILES/FacebookIcon.png" alt="Facebook Account"></a></td>
-    <td><a href="https://www.instagram.com/norzzielein" title="INSTAGRAM: https://www.instagram.com/norzzielein"><img src="IMPORT FILES/InstagramIcon.png" alt="Instagram Account"></a></td>
-    <td><a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"><img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account"></a></td>
-    <td><img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer"></td>
+    <td style="width: 11.11%;"><img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer"></td>
+    <td style="width: 11.11%;"><a href="mailto:norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"><img src="IMPORT FILES/EmailIcon.png" alt="Email Address"></a></td>
+    <td style="width: 11.11%;"><a href="tel:09673381501" title="PHONE: 09673381501"><img src="IMPORT FILES/TelephoneIcon.png" alt="Contact Number"></a></td>
+    <td style="width: 11.11%;"><a href="https://www.linkedin.com/in/norzzielein" title="LINKEDIN: https://www.linkedin.com/in/norzzielein"><img src="IMPORT FILES/LinkedInIcon.png" alt="LinkedIn Account"></a></td>
+    <td style="width: 11.11%;"><a href="https://github.com/norzzielein" title="GITHUB: https://github.com/norzzielein"><img src="IMPORT FILES/GitHubIcon.png" alt="GitHub Account"></a></td>
+    <td style="width: 11.11%;"><a href="https://www.facebook.com/norzzielein" title="FACEBOOK: https://www.facebook.com/norzzielein"><img src="IMPORT FILES/FacebookIcon.png" alt="Facebook Account"></a></td>
+    <td style="width: 11.11%;"><a href="https://www.instagram.com/norzzielein" title="INSTAGRAM: https://www.instagram.com/norzzielein"><img src="IMPORT FILES/InstagramIcon.png" alt="Instagram Account"></a></td>
+    <td style="width: 11.11%;"><a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"><img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account"></a></td>
+    <td style="width: 11.11%;"><img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer"></td>
   </tr>
 </table>
 
