@@ -3,7 +3,7 @@
     <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" style = "width: 100%;" />
     <div style="display: flex; justify-content: space-between; width: 100%;">
         <!-- TRAILER -->
-        <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 34%;" />
+        <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 35%;" />
         <!-- E-MAIL -->
         <a href = norieneil_acosta@outlook.com title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" style = "width: 4%;"></a>
         <!-- PHONE -->
@@ -19,11 +19,11 @@
         <!-- TWITTER -->
         <a href = https://twitter.com/norzzielein title = "TWITTER: https://twitter.com/norzzielein"> <img src = "IMPORT FILES/TwitterIcon.png" alt = "Twitter Account" style = "width: 4%;"></a>
         <!-- TRAILER -->
-        <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 34%;" />
+        <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 35%;" />
     </div>
 </div>
 
-
+<!--
 <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header"></a>
 <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" height = "32.2"></a>
 <a href = norieneil_acosta@outlook.com title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" width = "32.2" height = "32.2"></a>
@@ -34,6 +34,7 @@
 <a href = https://www.instagram.com/norzzielein title = "INSTAGRAM: https://www.instagram.com/norzzielein"> <img src = "IMPORT FILES/InstagramIcon.png" alt = "Instagram Account" width = "32.2" height = "32.2"></a>
 <a href = https://twitter.com/norzzielein title = "TWITTER: https://twitter.com/norzzielein"> <img src = "IMPORT FILES/TwitterIcon.png" alt = "Twitter Account" width = "32.2" height = "32.2"></a>
 <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" height = "32.2"></a>
+-->
 
 ### 🖥️ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦
 
