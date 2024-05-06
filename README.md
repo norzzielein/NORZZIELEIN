@@ -23,25 +23,14 @@
     </div>
 </div>
 
-<!--
-<img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header"></a>
-<img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" height = "32.2"></a>
-<a href = norieneil_acosta@outlook.com title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" width = "32.2" height = "32.2"></a>
-<a href = 09673381501 title = "PHONE: 09673381501"> <img src = "IMPORT FILES/TelephoneIcon.png" alt = "Contact Number" width = "32.2" height = "32.2"></a>
-<a href = https://www.linkedin.com/in/norzzielein title = "LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src = "IMPORT FILES/LinkedInIcon.png" alt = "LinkedIn Account" width = "32.2" height = "32.2"></a>
-<a href = https://github.com/norzzielein title = "GITHUB: https://github.com/norzzielein"> <img src = "IMPORT FILES/GitHubIcon.png" alt = "GitHub Account" width = "32.2" height = "32.2"></a>
-<a href = https://www.facebook.com/norzzielein title = "FACEBOOK: https://www.facebook.com/norzzielein"> <img src = "IMPORT FILES/FacebookIcon.png" alt = "Facebook Account" width = "32.2" height = "32.2"></a>
-<a href = https://www.instagram.com/norzzielein title = "INSTAGRAM: https://www.instagram.com/norzzielein"> <img src = "IMPORT FILES/InstagramIcon.png" alt = "Instagram Account" width = "32.2" height = "32.2"></a>
-<a href = https://twitter.com/norzzielein title = "TWITTER: https://twitter.com/norzzielein"> <img src = "IMPORT FILES/TwitterIcon.png" alt = "Twitter Account" width = "32.2" height = "32.2"></a>
-<img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" height = "32.2"></a>
--->
-
 ### 🖥️ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦
 
-<img src = "IMPORT FILES/SpatiotemporalAnalysisOfDengueCasesDistribution.png" alt = "Spatiotemporal Analysis of Dengue Cases Distribution" height = "35"></a>
-<img src = "IMPORT FILES/MathematicalModellingOfOnlineProductOfferings.png" alt = "Mathematical Modelling of Online Product Offerings" height = "35"></a>
-<img src = "IMPORT FILES/MultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "35"></a>
-<img src = "IMPORT FILES/MusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "35"></a>
+<div align="center" style="width: 100%;">
+    <img src = "IMPORT FILES/SpatiotemporalAnalysisOfDengueCasesDistribution.png" alt = "Spatiotemporal Analysis of Dengue Cases Distribution" height = "35"></a>
+    <img src = "IMPORT FILES/MathematicalModellingOfOnlineProductOfferings.png" alt = "Mathematical Modelling of Online Product Offerings" height = "35"></a>
+    <img src = "IMPORT FILES/MusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "35"></a>
+    <img src = "IMPORT FILES/MultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "35"></a>    
+</div>
 
 ***
 
