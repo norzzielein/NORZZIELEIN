@@ -1,50 +1,10 @@
-<img src="IMPORT FILES/GitHubProfileHeader.png" alt="GitHub Profile Header" style="width: 100%;">
-<table style="border-collapse: collapse; width: 100%; margin: 0; border: 1px solid transparent;">
-  <tr>
-    <td><img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer"></td>
-    <td><a href="mailto:norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"><img src="IMPORT FILES/EmailIcon.png" alt="Email Address"></a></td>
-    <td><a href="tel:09673381501" title="PHONE: 09673381501"><img src="IMPORT FILES/TelephoneIcon.png" alt="Contact Number"></a></td>
-    <td><a href="https://www.linkedin.com/in/norzzielein" title="LINKEDIN: https://www.linkedin.com/in/norzzielein"><img src="IMPORT FILES/LinkedInIcon.png" alt="LinkedIn Account"></a></td>
-    <td><a href="https://github.com/norzzielein" title="GITHUB: https://github.com/norzzielein"><img src="IMPORT FILES/GitHubIcon.png" alt="GitHub Account"></a></td>
-    <td><a href="https://www.facebook.com/norzzielein" title="FACEBOOK: https://www.facebook.com/norzzielein"><img src="IMPORT FILES/FacebookIcon.png" alt="Facebook Account"></a></td>
-    <td><a href="https://www.instagram.com/norzzielein" title="INSTAGRAM: https://www.instagram.com/norzzielein"><img src="IMPORT FILES/InstagramIcon.png" alt="Instagram Account"></a></td>
-    <td><a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"><img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account"></a></td>
-    <td><img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer"></td>
-  </tr>
-</table>
-
-
-
-<!-- Your HTML code with placeholders for header and trailers -->
-<img id="header" src="IMPORT FILES/GitHubProfileHeader.png" alt="GitHub Profile Header">
-<img class="trailer" src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" height="32.2">
-<a href="mailto:norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"> <img src="IMPORT FILES/EmailIcon.png" alt="Email Address" width="32.2" height="32.2"></a>
-<a href="tel:09673381501" title="PHONE: 09673381501"> <img src="IMPORT FILES/TelephoneIcon.png" alt="Contact Number" width="32.2" height="32.2"></a>
-<a href="https://www.linkedin.com/in/norzzielein" title="LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src="IMPORT FILES/LinkedInIcon.png" alt="LinkedIn Account" width="32.2" height="32.2"></a>
-<a href="https://github.com/norzzielein" title="GITHUB: https://github.com/norzzielein"> <img src="IMPORT FILES/GitHubIcon.png" alt="GitHub Account" width="32.2" height="32.2"></a>
-<a href="https://www.facebook.com/norzzielein" title="FACEBOOK: https://www.facebook.com/norzzielein"> <img src="IMPORT FILES/FacebookIcon.png" alt="Facebook Account" width="32.2" height="32.2"></a>
-<a href="https://www.instagram.com/norzzielein" title="INSTAGRAM: https://www.instagram.com/norzzielein"> <img src="IMPORT FILES/InstagramIcon.png" alt="Instagram Account" width="32.2" height="32.2"></a>
-<a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"> <img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account" width="32.2" height="32.2"></a>
-<img class="trailer" src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" height="32.2">
-
-<!-- CSS for styling -->
-<style>
-    /* Set width of trailers to 33.33% of header's width */
-    .trailer {
-        width: calc(33.33% - 8px); /* Subtracting 8px to accommodate for margins */
-        margin: 0 4px; /* Adding margins for spacing */
-    }
-</style>
-
-
-
-
-
-
-
-
-
-
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="IMPORT FILES/GitHubProfileHeader.png" alt="GitHub Profile Header" style="width: 100%;" />
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+        <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" style="width: 50%;" />
+        <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" style="width: 50%;" />
+    </div>
+</div>
 
 
 <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header"></a>
