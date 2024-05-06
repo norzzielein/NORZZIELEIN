@@ -61,7 +61,7 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/GreenLocationIcon.png" alt = "Green Location Icon" height = "20"> &nbsp;: Dasmariñas Bagong Bayan – Area-B, 4115 West Avenue, Dasmariñas City, Cavite
 
     <div align = "justify">
-    The very first 𝗦𝘂𝗺𝗺𝗮 𝗖𝘂𝗺 𝗟𝗮𝘂𝗱𝗲 of the BS in Applied Mathematics program of De La Salle University - Dasmariñas. The batch valedictorian of Class of 2023 who have attained the highest cumulative grade point average (CGPA) in the history of DLSU-D. The Summa (highest) among the 43 Summa Cum Laude graduates of the batch. A consistent first honor Dean’s Lister from 2019 to 2023, an Academic Scholar, and a Financial Assistance Scholar of the University.
+    De La Salle University - Dasmariñas waited 20 years to have its very first 𝗦𝘂𝗺𝗺𝗮 𝗖𝘂𝗺 𝗟𝗮𝘂𝗱𝗲 for the BS in Applied Mathematics program ‒ by my name, the one and only Applied Mathematics graduate of DLSU-D's Class of 2023. I have consistently maintained the top rank among all dean's listers, concurrently achieving a flawless semestral GPA of 4.00 throughout seven out of eight semesters. I obtained a perfect 4.00 grade to all of my Mathematics major subjects, as well as in a significant portion of my elective courses. I got the highest cumulative GPA among the graduates, thereby nabbing the valedictory position. This is high enough to land the highest among the historical records of DLSU-D ever since its establishment. I am the Summa (highest) among the 43 Summa Cum Laude graduates of my batch.
     </div>
 
 ***
@@ -74,7 +74,7 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : September 2023, May 2019, April 2013
 
     <div align = "justify">
-    The Dasmariñas City government’s initiative aimed at acknowledging academic excellence among the youth by providing cash rewards, certificates, and medals to graduates with honors in elementary and secondary levels, as well as tertiary and graduate or post-graduate students with honors, board topnotchers, and passers.
+    The "𝗚𝗮𝘄𝗮𝗱 𝗞𝗮𝗿𝗮𝗻𝗴𝗮𝗹𝗮𝗻" award is Dasmariñas City government’s initiative aimed at acknowledging academic excellence among the youth by providing cash rewards, certificates, and medals to graduates with honors in elementary and secondary levels, as well as tertiary and graduate or post-graduate students with honors, board topnotchers, and passers. I am a three-time recipient of the accolade dated: April 2013 (elementary graduation), May 2019 (senior high school graduation), and September 2023 (college graduation).
     </div>
 
 - #### GOLDEN LEAF AWARD
@@ -83,7 +83,7 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : September 2023
 
     <div align = "justify">
-    The highest award given by the DLSU-D College of Science and Computer Studies (CSCS) to a graduating Biology or Mathematics student who has achieved the highest cumulative GPA and has significantly contributed services to the College while maintaining Lasallian values.
+    The highest award given by the DLSU-D College of Science and Computer Studies (CSCS) to a graduating Biology or Mathematics student who has achieved the highest cumulative GPA and has significantly contributed services to the College while maintaining Lasallian values. The term "𝗚𝗼𝗹𝗱𝗲𝗻 𝗟𝗲𝗮𝗳" signifies the exceptional distinction and prestige associated with this award, evoking imagery of excellence and distinction akin to the rarity and value of a golden leaf amidst a sea of green.
     </div>
 
 - #### NOTABLE GOLDEN MEDALIST AWARD
@@ -92,7 +92,7 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : August 2023
 
     <div align = "justify">
-    Award of recognition for my internationally published research titled "𝙈𝙪𝙡𝙩𝙞𝙫𝙖𝙧𝙞𝙖𝙩𝙚 𝙋𝙧𝙚𝙙𝙞𝙘𝙩𝙞𝙫𝙚 𝙈𝙤𝙙𝙚𝙡𝙡𝙞𝙣𝙜 𝙤𝙛 𝙈𝙖𝙩𝙝𝙚𝙢𝙖𝙩𝙞𝙘𝙨 𝙎𝙚𝙢𝙚𝙨𝙩𝙧𝙖𝙡 𝙂𝙧𝙖𝙙𝙚 𝙫𝙞𝙖 𝘽𝙖𝙮𝙚𝙨𝙞𝙖𝙣 𝙉𝙚𝙩𝙬𝙤𝙧𝙠𝙨 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝘼𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢" under the International Journal of Computing Sciences Research (IJCSR).
+    This prestigious accolade underscores the significance of my internationally published research entitled "𝗠𝘂𝗹𝘁𝗶𝘃𝗮𝗿𝗶𝗮𝘁𝗲 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝘃𝗲 𝗠𝗼𝗱𝗲𝗹𝗹𝗶𝗻𝗴 𝗼𝗳 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 𝗦𝗲𝗺𝗲𝘀𝘁𝗿𝗮𝗹 𝗚𝗿𝗮𝗱𝗲 𝘃𝗶𝗮 𝗕𝗮𝘆𝗲𝘀𝗶𝗮𝗻 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺" under the esteemed International Journal of Computing Sciences Research (IJCSR). The study highlights its contribution in advancing the field of mathematics education through innovative multivariate predictive modeling techniques, powered by Bayesian networks machine learning algorithm.
     </div>
 
 - #### BEST IN THESIS AWARD
@@ -101,7 +101,7 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : July 2023
 
     <div align = "justify">
-    This accolade highlights the exceptional merit and outstanding contribution of my thesis study with a title "𝙎𝙥𝙖𝙩𝙞𝙤𝙩𝙚𝙢𝙥𝙤𝙧𝙖𝙡 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨 𝙤𝙛 𝘿𝙚𝙣𝙜𝙪𝙚 𝘾𝙖𝙨𝙚𝙨 𝘿𝙞𝙨𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙤𝙣 𝙬𝙞𝙩𝙝 𝙂𝙚𝙤𝙜𝙧𝙖𝙥𝙝𝙞𝙘 𝘾𝙝𝙤𝙧𝙤𝙥𝙡𝙚𝙩𝙝 𝙈𝙖𝙥𝙥𝙞𝙣𝙜 𝙖𝙣𝙙 𝙀𝙢𝙚𝙧𝙜𝙞𝙣𝙜 𝙃𝙤𝙩𝙨𝙥𝙤𝙩 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨: 𝙏𝙝𝙚 𝘾𝙖𝙨𝙚 𝙤𝙛 𝘾𝙖𝙫𝙞𝙩𝙚, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨" to the field of public health research.
+    This prestigious accolade highlights the exceptional merit and outstanding contribution of my thesis entitled "𝗦𝗽𝗮𝘁𝗶𝗼𝘁𝗲𝗺𝗽𝗼𝗿𝗮𝗹 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗼𝗳 𝗗𝗲𝗻𝗴𝘂𝗲 𝗖𝗮𝘀𝗲𝘀 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗚𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗰 𝗖𝗵𝗼𝗿𝗼𝗽𝗹𝗲𝘁𝗵 𝗠𝗮𝗽𝗽𝗶𝗻𝗴 𝗮𝗻𝗱 𝗘𝗺𝗲𝗿𝗴𝗶𝗻𝗴 𝗛𝗼𝘁𝘀𝗽𝗼𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: 𝗧𝗵𝗲 𝗖𝗮𝘀𝗲 𝗼𝗳 𝗖𝗮𝘃𝗶𝘁𝗲, 𝗣𝗵𝗶𝗹𝗶𝗽𝗽𝗶𝗻𝗲𝘀" to the field of public health research. The study not only advances academic knowledge but also holds practical implications for disease surveillance and management strategies in the local aggregate of Cavite, Philippines.
     </div>
 
 - #### VIRTUS ET EXCELLENTIA AWARD
@@ -110,7 +110,7 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : July 2023
 
     <div align = "justify">
-    The highest award given to the top graduating student who upholds the Lasallian values and have shown exceptional performance for the academics, co-curricular, and extra-curricular activities.
+    The "𝗩𝗶𝗿𝘁𝘂𝘀 𝗲𝘁 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝘁𝗶𝗮" award is the highest honor bestowed upon the top graduating student of DLSU-D, and recognizes not only academic excellence but also a steadfast commitment to embodying the core Lasallian values while excelling in a diverse array of co-curricular and extra-curricular pursuits, reflecting a holistic dedication to personal growth and community enrichment. The term is Latin for "𝗩𝗶𝗿𝘁𝘂𝗲 𝗮𝗻𝗱 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲" as it represents the core principles upheld by the Lasallian community, emphasizing the importance of both moral integrity and academic prowess.
     </div>
 
 - #### GAWAD TALINO EXCELLENCE IN MATHEMATICS AWARD
@@ -119,7 +119,7 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : April 2019
 
     <div align = "justify">
-    An academic recognition awarded to graduating senior high school students who excel in the field of Mathematics and Science. By honoring the students, Mercury Drugs Foundation, Inc. hopes to inspire and encourage them to maximize their potential, to pursue higher levels of education, and to aspire to become leaders in the next generation.
+    The "𝗚𝗮𝘄𝗮𝗱 𝗧𝗮𝗹𝗶𝗻𝗼" is an academic accolade accompanied by a cash incentive bestowed upon graduating senior high school students who demonstrate exceptional proficiency in Mathematics and Science. Meticulously chosen by the Mercury Drugs Foundation, Inc., recipients are selected based on their notable achievements, such as consistently securing victories in regional and national mathematics competitions during their senior high school years.
     </div>
 
 - #### YOUTH LEADERSHIP EXCELLENCE AWARD
@@ -128,7 +128,7 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : April 2017
 
     <div align = "justify">
-    This award by the Junior Chamber International (JCI) Philippines Inc. aims to recognize students from elementary and high school from both public and private schools who have shown extraordinary skills both academically and in extra-curricular activities.
+    The "𝗬𝗼𝘂𝘁𝗵 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲" award by the Junior Chamber International (JCI) Philippines Inc. aims to recognize students from elementary and high school from both public and private schools who have shown extraordinary skills both academically and in extra-curricular activities. This accolade is my merit for being the valedictorian of the graduating class, achieving the highest grade average, and securing remarkable victories in various external competitions.
     </div>
 
 ***
