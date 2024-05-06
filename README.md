@@ -1,4 +1,4 @@
-<img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" width = "1000"></a>
+<div style="pointer-events: none;"> <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" width = "1000"> </div>
 <a href = norieneil_acosta@outlook.com title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" width = "34" height = "33"></a>
 <a href = 09673381501 title = "PHONE: 09673381501"> <img src = "IMPORT FILES/TelephoneIcon.png" alt = "Contact Number" width = "34" height = "33"></a>
 <a href = https://www.linkedin.com/in/norzzielein title = "LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src = "IMPORT FILES/LinkedInIcon.png" alt = "LinkedIn Account" width = "34" height = "33"></a>
