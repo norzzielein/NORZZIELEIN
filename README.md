@@ -1,7 +1,5 @@
-<table>
-  <tr>
-    <td colspan="9"><img src="IMPORT FILES/GitHubProfileHeader.png" alt="GitHub Profile Header"></td>
-  </tr>
+<img src="IMPORT FILES/GitHubProfileHeader.png" alt="GitHub Profile Header" style="width: 100%;">
+<table style="border-collapse: collapse; width: 100%; margin: 0;">
   <tr>
     <td><img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" height="32.2"></td>
     <td><a href="mailto:norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"><img src="IMPORT FILES/EmailIcon.png" alt="Email Address" height="32.2"></a></td>
@@ -14,6 +12,10 @@
     <td><img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" height="32.2"></td>
   </tr>
 </table>
+
+
+
+
 
 
 
