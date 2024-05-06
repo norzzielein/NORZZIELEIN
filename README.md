@@ -1,6 +1,6 @@
 <div style = "display: flex; flex-direction: column; align-items: center;">
     <!-- HEADER -->
-    <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" style = "width: 100%;" />
+    <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" width = "1008" />
     <div style = "display: flex; justify-content: space-between; width: 100%;">
         <!-- TRAILER -->
         <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 34%;" />
