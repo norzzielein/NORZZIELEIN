@@ -1,4 +1,4 @@
-<img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" width = "1000"></a>
+<img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header"></a>
 <a href = norieneil_acosta@outlook.com title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" width = "34" height = "33"></a>
 <a href = 09673381501 title = "PHONE: 09673381501"> <img src = "IMPORT FILES/TelephoneIcon.png" alt = "Contact Number" width = "34" height = "33"></a>
 <a href = https://www.linkedin.com/in/norzzielein title = "LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src = "IMPORT FILES/LinkedInIcon.png" alt = "LinkedIn Account" width = "34" height = "33"></a>
@@ -135,4 +135,4 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
     𝗕𝟮 or 𝘂𝗽𝗽𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options.
     
   
-<img src = "IMPORT FILES/GitHubProfileFooter.png" alt = "GitHub Profile Footer" width = "1000"></a>
+<img src = "IMPORT FILES/GitHubProfileFooter.png" alt = "GitHub Profile Footer"></a>
