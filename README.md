@@ -1,17 +1,3 @@
-<!-- Define the image map -->
-<map name="image-map">
-    <!-- Define the clickable area 1 -->
-    <area target = "" alt = "" title = "INSTAGRAM: https://www.instagram.com/norzzielein" href = "https://www.instagram.com/norzzielein" coords = "0,0,10,10" shape = "rect">
-    <!-- Define the clickable area 2 -->
-    <area target = "" alt = "" title = "TWITTER: https://twitter.com/norzzielein" href = "https://twitter.com/norzzielein" coords = "100,100,200,200" shape = "rect">
-</map>
-
-<!-- Insert the image and link it to the map -->
-<img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" usemap="#image-map">
-
-
-
-
 <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" width = "1000"></a>
 <a href = norieneil_acosta@outlook.com title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" width = "34" height = "33"></a>
 <a href = 09673381501 title = "PHONE: 09673381501"> <img src = "IMPORT FILES/TelephoneIcon.png" alt = "Contact Number" width = "34" height = "33"></a>
