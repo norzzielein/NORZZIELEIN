@@ -27,9 +27,9 @@
 
 <div align="center" style="width: 100%;">
     <!-- SPATIOTEMPORAL ANALYSIS OF DENGUE CASES -->
-    <img src = "IMPORT FILES/SpatiotemporalAnalysisOfDengueCasesDistribution.png" alt = "Spatiotemporal Analysis of Dengue Cases Distribution" height = "35"/>
+    <img src = "IMPORT FILES/SpatiotemporalAnalysisOfDengueCases.png" alt = "Spatiotemporal Analysis of Dengue Cases" height = "35"/>
     <!-- MATHEMATICAL MODELLING OF ONLINE PRODUCTS -->
-    <img src = "IMPORT FILES/MathematicalModellingOfOnlineProductOfferings.png" alt = "Mathematical Modelling of Online Product Offerings" height = "35"/>
+    <img src = "IMPORT FILES/MathematicalModellingOfOnlineProducts.png" alt = "Mathematical Modelling of Online Products" height = "35"/>
     <!-- MULTIVARIATE PREDICTIVE MODELLING OF GRADES -->
     <img src = "IMPORT FILES/MusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "35"/>
     <!-- MUSIC METADATA EXPORTER -->
