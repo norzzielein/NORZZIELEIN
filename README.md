@@ -135,5 +135,4 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
 
     𝗕𝟮 or 𝘂𝗽𝗽𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options.
     
-  
 <img src = "IMPORT FILES/GitHubProfileFooter.png" alt = "GitHub Profile Footer"></a>
