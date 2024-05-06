@@ -2,6 +2,8 @@
 
 ### 🖥️ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦
 
+<img src = "IMPORT FILES/SpatiotemporalAnalysisOfDengueCasesDistribution.png" alt = "Spatiotemporal Analysis of Dengue Cases Distribution" height = "30"></a> <img src = "IMPORT FILES/MathematicalModellingOfOnlineProductOfferings.png" alt = "Mathematical Modelling of Online Product Offerings" height = "30"></a>
+
 ***
 
 ### 🖥️ 𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
