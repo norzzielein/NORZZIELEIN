@@ -1,7 +1,7 @@
 <div style = "display: flex; flex-direction: column; align-items: center;">
     <!-- HEADER -->
     <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" style = "width: 100%;" />
-    <div align = "center" style = "width: 100%;">
+    <div align = "center" style = "width: 90%;">
         <!-- TRAILER -->
         <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 300px; height: 34px" />
         <!-- E-MAIL -->
