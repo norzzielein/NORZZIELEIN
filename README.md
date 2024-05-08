@@ -3,7 +3,7 @@
     <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" style = "width: 100%;" />
     <div align = "center" style = "width: 100%;">
         <!-- TRAILER -->
-        <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 332px;" />
+        <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 328px;" />
         <!-- E-MAIL -->
         <a href = "norieneil_acosta@outlook.com" title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" style = "width: 4%;"></a>
         <!-- PHONE -->
@@ -19,7 +19,7 @@
         <!-- TWITTER -->
         <a href = "https://twitter.com/norzzielein" title = "TWITTER: https://twitter.com/norzzielein"> <img src = "IMPORT FILES/TwitterIcon.png" alt = "Twitter Account" style = "width: 4%;"></a>
         <!-- TRAILER -->
-        <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 332px;" />
+        <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 328px;" />
     </div>
 </div>
 
