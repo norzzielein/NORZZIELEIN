@@ -1,7 +1,7 @@
 <div style = "display: flex; flex-direction: column; align-items: center;">
     <!-- HEADER -->
-    <div align = "center" style = "width: 98%;">
-        <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" style = "width: 98%;" />
+    <div align = "center" style = "width: 99%;">
+        <img src = "IMPORT FILES/GitHubProfileHeader.png" alt = "GitHub Profile Header" style = "width: 99%;" />
     </div>
     <div align = "center" style = "width: 100%;">
         <!-- TRAILER -->
