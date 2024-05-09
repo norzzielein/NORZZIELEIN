@@ -17,7 +17,7 @@
         <!-- INSTAGRAM -->
         <a href="https://www.instagram.com/norzzielein" title="INSTAGRAM: https://www.instagram.com/norzzielein"> <img src="IMPORT FILES/InstagramIcon.png" alt="Instagram Account" width="auto" height="32px"></a>
         <!-- TWITTER -->
-        <a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"> <img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account" width="auto" height="2"></a>
+        <a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"> <img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account" width="auto" height="32"></a>
         <!-- SECOND TRAILER -->
         <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" width="auto" height="32px" />
     </div>
