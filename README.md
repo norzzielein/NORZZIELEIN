@@ -11,7 +11,7 @@
         <!-- LINKEDIN -->
         <a href="https://www.linkedin.com/in/norzzielein" title="LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src="IMPORT FILES/LinkedInIcon.png" alt="LinkedIn Account" width="auto" height="32px"></a>
         <!-- GITHUB -->
-        <a href="https://github.com/norzzielein" title="GITHUB: https://github.com/norzzielein"> <img src="IMPORT FILES/GitHubIcon.png" alt="GitHub Account" width="auto" height="32px"></a>
+        <a href="https://github.com/norzzielein" title="GITHUB: https://github.com/norzzielein"> <img src="IMPORT FILES/GitHubIcon.png" alt="GitHub Account" width="31" height="32px"></a>
         <!-- FACEBOOK -->
         <a href="https://www.facebook.com/norzzielein" title="FACEBOOK: https://www.facebook.com/norzzielein"> <img src="IMPORT FILES/FacebookIcon.png" alt="Facebook Account" width="auto" height="32px"></a>
         <!-- INSTAGRAM -->
