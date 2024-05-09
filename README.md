@@ -40,19 +40,19 @@
 <!-- ICONS -->
 <div align = "center" style = "width: 100%;">
     <!-- E-MAIL -->
-    <a href="mailto:norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"> <img src="IMPORT FILES/EmailIcon.png" alt="Email Address" style="width: 28px; height: 30px;"></a>
+    <a href="mailto:norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"> <img src="IMPORT FILES/EmailIcon.png" alt="Email Address" style="width: 30px; height: 30px;"></a>
     <!-- PHONE -->
-    <a href="tel:09673381501" title="PHONE: 09673381501"> <img src="IMPORT FILES/TelephoneIcon.png" alt="Contact Number" style="width: 28px; height: 30px;"></a>
+    <a href="tel:09673381501" title="PHONE: 09673381501"> <img src="IMPORT FILES/TelephoneIcon.png" alt="Contact Number" style="width: 30px; height: 30px;"></a>
     <!-- LINKEDIN -->
-    <a href="https://www.linkedin.com/in/norzzielein" title="LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src="IMPORT FILES/LinkedInIcon.png" alt="LinkedIn Account" style="width: 28px; height: 30px;"></a>
+    <a href="https://www.linkedin.com/in/norzzielein" title="LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src="IMPORT FILES/LinkedInIcon.png" alt="LinkedIn Account" style="width: 30px; height: 30px;"></a>
     <!-- GITHUB -->
-    <a href="https://github.com/norzzielein" title="GITHUB: https://github.com/norzzielein"> <img src="IMPORT FILES/GitHubIcon.png" alt="GitHub Account" style="width: 28px; height: 30px;"></a>
+    <a href="https://github.com/norzzielein" title="GITHUB: https://github.com/norzzielein"> <img src="IMPORT FILES/GitHubIcon.png" alt="GitHub Account" style="width: 30px; height: 30px;"></a>
     <!-- FACEBOOK -->
-    <a href="https://www.facebook.com/norzzielein" title="FACEBOOK: https://www.facebook.com/norzzielein"> <img src="IMPORT FILES/FacebookIcon.png" alt="Facebook Account" style="width: 28px; height: 30px;"></a>
+    <a href="https://www.facebook.com/norzzielein" title="FACEBOOK: https://www.facebook.com/norzzielein"> <img src="IMPORT FILES/FacebookIcon.png" alt="Facebook Account" style="width: 30px; height: 30px;"></a>
     <!-- INSTAGRAM -->
-    <a href="https://www.instagram.com/norzzielein" title="INSTAGRAM: https://www.instagram.com/norzzielein"> <img src="IMPORT FILES/InstagramIcon.png" alt="Instagram Account" style="width: 28px; height: 30px;"></a>
+    <a href="https://www.instagram.com/norzzielein" title="INSTAGRAM: https://www.instagram.com/norzzielein"> <img src="IMPORT FILES/InstagramIcon.png" alt="Instagram Account" style="width: 30px; height: 30px;"></a>
     <!-- TWITTER -->
-    <a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"> <img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account" style="width: 28px; height: 29px;"></a>
+    <a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"> <img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account" style="width: 30px; height: 30px;"></a>
 </div>
 
 
