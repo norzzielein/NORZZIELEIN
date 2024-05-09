@@ -5,7 +5,7 @@
         <!-- FIRST TRAILER -->
         <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" width="auto" height="32px" />
         <!-- E-MAIL -->
-        <a href="norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"> <img src="IMPORT FILES/EmailIcon.png" alt="Email Address" width="auto" height="32px"></a>
+        <a href="norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"> <img src="IMPORT FILES/EmailIcon.png" alt="Email Address" width="31" height="32px"></a>
         <!-- PHONE -->
         <a href="09673381501" title="PHONE: 09673381501"> <img src="IMPORT FILES/TelephoneIcon.png" alt="Contact Number" width="31" height="32px"></a>
         <!-- LINKEDIN -->
@@ -17,7 +17,7 @@
         <!-- INSTAGRAM -->
         <a href="https://www.instagram.com/norzzielein" title="INSTAGRAM: https://www.instagram.com/norzzielein"> <img src="IMPORT FILES/InstagramIcon.png" alt="Instagram Account" width="31" height="32px"></a>
         <!-- TWITTER -->
-        <a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"> <img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account" width="auto" height="32"></a>
+        <a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"> <img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account" width="31" height="32"></a>
         <!-- SECOND TRAILER -->
         <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" width="auto" height="32px" />
     </div>
