@@ -1,7 +1,7 @@
 <!-- ICONS -->
 <div align="center" style="width: 100%; position: relative;">
     <!-- Left Image -->
-    <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="Left Trailer" style="position: absolute; left: 0; top: 0; width: calc(50% - 75px); height: 30px;">    
+    <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="Left Trailer" style="position: absolute; left: 0; top: 0; width: calc(50% - 7px); height: 30px;">    
     <!-- E-MAIL -->
     <a href="mailto:norieneil_acosta@outlook.com" title="E-MAIL: norieneil_acosta@outlook.com"> <img src="IMPORT FILES/EmailIcon.png" alt="Email Address" style="width: 30px; height: 30px;"></a>
     <!-- PHONE -->
