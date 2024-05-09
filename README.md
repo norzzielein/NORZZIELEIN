@@ -19,7 +19,7 @@
         <!-- TWITTER -->
         <a href="https://twitter.com/norzzielein" title="TWITTER: https://twitter.com/norzzielein"> <img src="IMPORT FILES/TwitterIcon.png" alt="Twitter Account" width="auto" height="32"></a>
         <!-- SECOND TRAILER -->
-        <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" width="auto" height="31px" />
+        <img src="IMPORT FILES/GitHubProfileTrailer.png" alt="GitHub Profile Trailer" width="auto" height="32px" />
     </div>
 </div>
 
