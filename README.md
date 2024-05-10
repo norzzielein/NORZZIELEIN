@@ -163,7 +163,8 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
 
 ### 🖥️ 𝗘𝗟𝗜𝗚𝗜𝗕𝗜𝗟𝗜𝗧𝗬 𝗔𝗡𝗗 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
-- #### HONOR GRADUATE ELIGIBILITY <br> Presidential Decree No. 907 (Honor Graduate)
+- #### HONOR GRADUATE ELIGIBILITY <br><sub>Presidential Decree No. 907 (Honor Graduate)</sub>
+
     > <img src = "IMPORT FILES/BrownCertificateIcon.png" alt = "Brown Certificate Icon" height = "20"> : by the Civil Service Commission (CSC) of the Philippines <br>
     > <img src = "IMPORT FILES/BrownCalendarIcon.png" alt = "Brown Calendar Icon" height = "20"> : April 2024
     > <div align = "justify">
