@@ -5,7 +5,7 @@
         <!-- TRAILER -->
         <img src = "IMPORT FILES/GitHubProfileTrailer.png" alt = "GitHub Profile Trailer" style = "width: 284px; height: 32px" />
         <!-- E-MAIL -->
-        <a href = "norieneil_acosta@outlook.com" title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" style = "width: auto; height: auto"></a>
+        <a href = "norieneil_acosta@outlook.com" title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" style = "width: 5%; height: 5%"></a>
         <!-- PHONE -->
         <a href = "09673381501" title = "PHONE: 09673381501"> <img src = "IMPORT FILES/TelephoneIcon.png" alt = "Contact Number" style = "width: 32px; height: 32px"></a>
         <!-- LINKEDIN -->
