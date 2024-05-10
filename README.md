@@ -135,27 +135,32 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
 
 ### 🖥️ 𝗥𝗘𝗦𝗘𝗔𝗥𝗖𝗛 𝗣𝗨𝗕𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
-- #### INTERNATIONAL JOURNAL OF COMPUTING SCIENCES RESEARCH <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
+- #### INTERNATIONAL JOURNAL OF COMPUTING SCIENCES RESEARCH
+    > **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm**
+    >> <img src = "IMPORT FILES/YellowCalendarIcon.png" alt = "Yellow Calendar Icon" height = "20"> : January 2023<br>
+    >> <img src = "IMPORT FILES/YellowSearchIcon.png" alt = "Yellow Search Icon" height = "20"> : DOI: 10.25147/ijcsr.2017.001.1.130<br>
+    >> <img src = "IMPORT FILES/YellowWebsiteIcon.png" alt = "Yellow Website Icon" height = "20"> : https://stepacademic.net/ijcsr/article/view/410
+    >> <div align = "justify">
+    >> Acosta, NN., Lamadrid, CK., & Barrameda, R. (2023). Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm. International Journal of Computing Sciences Research, 7, 1937-1955.
+    >> </div>
 
-    > <img src = "IMPORT FILES/YellowCalendarIcon.png" alt = "Yellow Calendar Icon" height = "20"> : January 2023<br>
-    > <img src = "IMPORT FILES/YellowSearchIcon.png" alt = "Yellow Search Icon" height = "20"> : DOI: 10.25147/ijcsr.2017.001.1.130<br>
-    > <img src = "IMPORT FILES/YellowWebsiteIcon.png" alt = "Yellow Website Icon" height = "20"> : https://stepacademic.net/ijcsr/article/view/410
-
-    <div align = "justify">
-    Acosta, NN., Lamadrid, CK., & Barrameda, R. (2023). Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm. International Journal of Computing Sciences Research, 7, 1937-1955.
-    </div>
+    > **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm**
+    >> <img src = "IMPORT FILES/YellowCalendarIcon.png" alt = "Yellow Calendar Icon" height = "20"> : January 2023<br>
+    >> <img src = "IMPORT FILES/YellowSearchIcon.png" alt = "Yellow Search Icon" height = "20"> : DOI: 10.25147/ijcsr.2017.001.1.130<br>
+    >> <img src = "IMPORT FILES/YellowWebsiteIcon.png" alt = "Yellow Website Icon" height = "20"> : https://stepacademic.net/ijcsr/article/view/410
+    >> <div align = "justify">
+    >> Acosta, NN., Lamadrid, CK., & Barrameda, R. (2023). Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm. International Journal of Computing Sciences Research, 7, 1937-1955.
+    >> </div>
     
 ***
 
 ### 🖥️ 𝗦𝗣𝗘𝗔𝗞𝗘𝗥𝗦𝗛𝗜𝗣 𝗔𝗡𝗗 𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡𝗦
 
-- #### DE LA SALLE UNIVERSITY ‒ DASMARIÑAS RESEARCH WEEK 2023
-    > **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm** <br>
+- #### DE LA SALLE UNIVERSITY ‒ DASMARIÑAS RESEARCH WEEK 2023 <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
     > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : May 2023<br>
     > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: De La Salle University – Dasmariñas, Dasmariñas City, Cavite
 
-- #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION
-    > **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm** <br>
+- #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
     > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : January 2023<br>
     > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines
 
