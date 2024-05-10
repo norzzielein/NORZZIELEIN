@@ -149,36 +149,34 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
 
 ### 🖥️ 𝗦𝗣𝗘𝗔𝗞𝗘𝗥𝗦𝗛𝗜𝗣 𝗔𝗡𝗗 𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡𝗦
 
-- #### DE LA SALLE UNIVERSITY ‒ DASMARIÑAS RESEARCH WEEK 2023 <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
+- #### DE LA SALLE UNIVERSITY ‒ DASMARIÑAS RESEARCH WEEK 2023
+    > **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm**
+    >> <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : May 2023<br>
+    >> <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: De La Salle University – Dasmariñas, Dasmariñas City, Cavite
 
-    > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : May 2023<br>
-    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: De La Salle University – Dasmariñas, Dasmariñas City, Cavite
-
-- #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
-
-    > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : January 2023<br>
-    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines
+- #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION
+    > **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm**
+    >> <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : January 2023<br>
+    >> <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines
 
 ***
 
 ### 🖥️ 𝗘𝗟𝗜𝗚𝗜𝗕𝗜𝗟𝗜𝗧𝗬 𝗔𝗡𝗗 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
-- #### HONOR GRADUATE ELIGIBILITY <br> Presidential Decree No. 907 (Honor Graduate)
-
-    > <img src = "IMPORT FILES/BrownCertificateIcon.png" alt = "Brown Certificate Icon" height = "20"> : by the Civil Service Commission (CSC) of the Philippines<br>
-    > <img src = "IMPORT FILES/BrownCalendarIcon.png" alt = "Brown Calendar Icon" height = "20"> : April 2024
-
-    <div align = "justify">
-    𝗣𝗗 𝗡𝗼. 𝟵𝟬𝟳 explicitly provides among others, that it is considered that graduation with honors earned under the competitive atmosphere of the academic community is as good as qualifying mark in a competitive examination to determine merit and excellence for public employment.
-    </div>
+- #### HONOR GRADUATE ELIGIBILITY
+    > **Presidential Decree No. 907 (Honor Graduate)**
+    >> <img src = "IMPORT FILES/BrownCertificateIcon.png" alt = "Brown Certificate Icon" height = "20"> : by the Civil Service Commission (CSC) of the Philippines<br>
+    >> <img src = "IMPORT FILES/BrownCalendarIcon.png" alt = "Brown Calendar Icon" height = "20"> : April 2024
+    >> <div align = "justify">
+    >> 𝗣𝗗 𝗡𝗼. 𝟵𝟬𝟳 explicitly provides among others, that it is considered that graduation with honors earned under the competitive atmosphere of the academic community is as good as qualifying mark in a competitive examination to determine merit and excellence for public employment.
+    >> </div>
   
 - #### TEST OF ENGLISH FOR INTERNATIONAL COMMUNICATION (TOEIC) CERTIFICATION
     > **Common European Framework of Reference for Languages (CEFR)**    
     >> <img src = "IMPORT FILES/BrownCertificateIcon.png" alt = "Brown Certificate Icon" height = "20"> : by the Hopkins International Partners Inc.<br>
     >> <img src = "IMPORT FILES/BrownCalendarIcon.png" alt = "Brown Calendar Icon" height = "20"> : July 2023
-
-    <div align = "justify">
-    𝗕𝟮 or 𝘂𝗽𝗽𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options.
-    </div>
+    >> <div align = "justify">
+    >> 𝗕𝟮 or 𝘂𝗽𝗽𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options. 𝗕𝟮 or 𝘂𝗽𝗽𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options.
+    >> </div>
     
 <img src = "IMPORT FILES/GitHubProfileFooter.png" alt = "GitHub Profile Footer"></a>
