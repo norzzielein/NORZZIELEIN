@@ -7,7 +7,7 @@
         <!-- E-MAIL -->
         <a href = "norieneil_acosta@outlook.com" title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" style = "width: 5%; height: 5%"></a>
         <!-- PHONE -->
-        <a href = "09673381501" title = "PHONE: 09673381501"> <img src = "IMPORT FILES/TelephoneIcon.png" alt = "Contact Number" style = "width: 32px; height: 32px"></a>
+        <a href = "09673381501" title = "PHONE: 09673381501"> <img src = "IMPORT FILES/TelephoneIcon.png" alt = "Contact Number" style = "width: 5%; height: 5%"></a>
         <!-- LINKEDIN -->
         <a href = "https://www.linkedin.com/in/norzzielein" title = "LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src = "IMPORT FILES/LinkedInIcon.png" alt = "LinkedIn Account" style = "width: 32px; height: 32px"></a>
         <!-- GITHUB -->
