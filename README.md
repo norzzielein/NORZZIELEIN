@@ -150,14 +150,14 @@ As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently 
 ### 🖥️ 𝗦𝗣𝗘𝗔𝗞𝗘𝗥𝗦𝗛𝗜𝗣 𝗔𝗡𝗗 𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡𝗦
 
 - #### DE LA SALLE UNIVERSITY ‒ DASMARIÑAS RESEARCH WEEK 2023
-    > **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm**
-    >> <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : May 2023<br>
-    >> <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: De La Salle University – Dasmariñas, Dasmariñas City, Cavite
+    > **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm** <br>
+    > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : May 2023<br>
+    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: De La Salle University – Dasmariñas, Dasmariñas City, Cavite
 
 - #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION
-    > **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm**
-    >> <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : January 2023<br>
-    >> <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines
+    > **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm** <br>
+    > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : January 2023<br>
+    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines
 
 ***
 
