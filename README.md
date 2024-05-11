@@ -46,12 +46,11 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
 
 ***
 
-### 🖥️ 𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟𝗜𝗧𝗬 𝗔𝗥𝗖𝗛𝗘𝗧𝗬𝗣𝗘
+### 🖥️ 𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗩𝗘 𝗦𝗧𝗔𝗖𝗞𝗦
 
-<div align = "justify">
-<img src = "IMPORT FILES/CognitiveStackNiIcon.png" alt = "Introverted Intuition Icon" style = "width: 60px; height: auto" />
-As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently drawn on logic, analysis, and strategic thinking. My natural inclination towards introspection and problem-solving aligns perfectly with the worlds of Data Science and Mathematics, where I am adept at synthesizing intricate data sets, employing rigorous methodologies to discern underlying patterns, and deriving actionable insights. My love for delving into enigmatic narratives of mystery novels hones my aptitude for deductive reasoning, which allows me to foster a discerning mindset that is invaluable in problem-solving scenarios. Furthermore, my penchant for exploring abstract philosophical concepts nurtures a capacity for critical thought and encourages innovative approaches to complex challenges. These multifaceted aspects of my persona converge to drive my relentless pursuit of intellectual inquiry and contribute to my effectiveness as a versatile thinker within both analytical and philosophical domains.
-</div>
+<img src = "IMPORT FILES/IntrovertedIntuition.png" alt = "Introverted Intuition" style = "width: auto; height: 50px" />
+>> <div align="justify"> <img src = "IMPORT FILES/CognitiveStackNiIcon.png" alt = "Introverted Intuition Icon" style = "width: 70px; height: auto" />
+>> My mind is a realm of endless exploration, where curiosity fuels my quest for understanding. Like a detective piecing together clues, I delve into the depths of data science and mathematics, uncovering patterns that reveal the hidden truths of our world. Drawing inspiration from the intricate plots of Agatha Christie and Arthur Conan Doyle, I approach each problem with a sense of wonder and intrigue, eager to unravel the mysteries that lie beneath the surface.
 
 ***
 
