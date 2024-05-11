@@ -52,7 +52,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in ð
 <blockquote>
     <div align = "justify">
         <img src = "IMPORT FILES/CognitiveStackNiIcon.png" alt = "Introverted Intuition Icon" style = "width: 70px; height: auto" />
-        My mind is a realm of endless exploration, where curiosity fuels my quest for understanding. Like a detective piecing together clues, I delve into the depths of data science and mathematics, uncovering patterns that reveal the hidden truths of our world. Drawing inspiration from the intricate plots of Agatha Christie and Arthur Conan Doyle, I approach each problem with a sense of wonder and intrigue, eager to unravel the mysteries that lie beneath the surface.
+        My mind is a realm of endless exploration, where curiosity fuels my quest for understanding. Like a detective piecing together clues, I delve into the depths of Data Science and Mathematics, uncovering patterns that reveal the hidden truths of our world. Drawing inspiration from the intricate plots of Agatha Christie and Arthur Conan Doyle, I approach each problem with a sense of wonder and intrigue, eager to unravel the mysteries that lie beneath the surface.
     </div>
 </blockquote>
 
@@ -60,7 +60,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in ð
 <blockquote>
     <div align = "justify">
         <img src = "IMPORT FILES/CognitiveStackTeIcon.png" alt = "Extroverted Thinking Icon" style = "width: 70px; height: auto" />
-        Grounded in reason and pragmatism, I navigate the complexities of analysis with a strategic mindset. From dissecting statistical models to exploring the intricacies of quantum physics, I rely on logic and methodical reasoning to guide my path forward. Whether tackling challenges or delving into complex problems independently , I harness clarity and efficiency, ensuring that every decision is grounded in sound judgment and driven by a relentless pursuit of excellence.
+        I thrive on the thrill of turning chaos into order, meticulously crafting solutions with unwavering determination. From the intricacies of code to the complexities of logic, I embrace the challenge of transforming chaos into elegant efficiency. With a perfectionist's eye and a strategist's mind, I navigate the labyrinth of data, driven by a relentless pursuit of excellence. Guided by a deep curiosity and a hunger for innovation, I forge solutions that not only solve problems but push the boundaries of what's possible.
     </div>
 </blockquote>
 
