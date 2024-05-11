@@ -49,6 +49,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
 ### 🖥️ 𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟𝗜𝗧𝗬 𝗔𝗥𝗖𝗛𝗘𝗧𝗬𝗣𝗘
 
 <div align = "justify">
+<img src = "IMPORT FILES/CognitiveStackNiIcon.png" alt = "Introverted Intuition Icon" style = "width: 50%;" />
 As an individual of the 𝗜𝗡𝗧𝗝 personality archetype, I am inherently drawn on logic, analysis, and strategic thinking. My natural inclination towards introspection and problem-solving aligns perfectly with the worlds of Data Science and Mathematics, where I am adept at synthesizing intricate data sets, employing rigorous methodologies to discern underlying patterns, and deriving actionable insights. My love for delving into enigmatic narratives of mystery novels hones my aptitude for deductive reasoning, which allows me to foster a discerning mindset that is invaluable in problem-solving scenarios. Furthermore, my penchant for exploring abstract philosophical concepts nurtures a capacity for critical thought and encourages innovative approaches to complex challenges. These multifaceted aspects of my persona converge to drive my relentless pursuit of intellectual inquiry and contribute to my effectiveness as a versatile thinker within both analytical and philosophical domains.
 </div>
 
