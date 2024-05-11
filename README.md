@@ -48,9 +48,21 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
 
 ### 🖥️ 𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗩𝗘 𝗦𝗧𝗔𝗖𝗞𝗦
 
-<img src = "IMPORT FILES/IntrovertedIntuition.png" alt = "Introverted Intuition" style = "width: auto; height: 50px" />
->> <div align="justify"> <img src = "IMPORT FILES/CognitiveStackNiIcon.png" alt = "Introverted Intuition Icon" style = "width: 70px; height: auto" />
->> My mind is a realm of endless exploration, where curiosity fuels my quest for understanding. Like a detective piecing together clues, I delve into the depths of data science and mathematics, uncovering patterns that reveal the hidden truths of our world. Drawing inspiration from the intricate plots of Agatha Christie and Arthur Conan Doyle, I approach each problem with a sense of wonder and intrigue, eager to unravel the mysteries that lie beneath the surface.
+<img src = "IMPORT FILES/IntrovertedIntuition.png" alt = "Introverted Intuition" style = "width: auto; height: 35px" />
+<blockquote>
+    <div align = "justify">
+        <img src = "IMPORT FILES/CognitiveStackNiIcon.png" alt = "Introverted Intuition Icon" style = "width: 70px; height: auto" />
+        My mind is a realm of endless exploration, where curiosity fuels my quest for understanding. Like a detective piecing together clues, I delve into the depths of data science and mathematics, uncovering patterns that reveal the hidden truths of our world. Drawing inspiration from the intricate plots of Agatha Christie and Arthur Conan Doyle, I approach each problem with a sense of wonder and intrigue, eager to unravel the mysteries that lie beneath the surface.
+    </div>
+</blockquote>
+
+<img src = "IMPORT FILES/ExtrovertedThinking.png" alt = "Extroverted Thinking" style = "width: auto; height: 35px" />
+<blockquote>
+    <div align = "justify">
+        <img src = "IMPORT FILES/CognitiveStackTeIcon.png" alt = "Extroverted Thinking Icon" style = "width: 70px; height: auto" />
+        Grounded in reason and pragmatism, I navigate the complexities of analysis with a strategic mindset. From dissecting statistical models to exploring the intricacies of quantum physics, I rely on logic and methodical reasoning to guide my path forward. Whether tackling challenges or delving into complex problems independently , I harness clarity and efficiency, ensuring that every decision is grounded in sound judgment and driven by a relentless pursuit of excellence.
+    </div>
+</blockquote>
 
 ***
 
