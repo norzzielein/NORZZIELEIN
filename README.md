@@ -52,7 +52,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
 <blockquote>
     <div align = "justify">
         <img src = "IMPORT FILES/CognitiveStackNiIcon.png" alt = "Introverted Intuition Icon" style = "width: 70px; height: auto" />
-        My mind is a realm of endless exploration where introverted intuition fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each case with a sense of introspective curiosity and intuitive insight to unveil the secrets that lie beneath the surface. My intuitive nature propels me to anticipate not just outcomes, but commands the very essence of reality itself.
+        My mind is a realm of endless exploration where 𝗶𝗻𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗶𝗻𝘁𝘂𝗶𝘁𝗶𝗼𝗻 fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each case with a sense of introspective curiosity and intuitive insight to unveil the secrets that lie beneath the surface. My intuitive nature propels me to anticipate not just outcomes, but to command the very essence of reality itself.
     </div>
 </blockquote>
 
@@ -60,7 +60,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
 <blockquote>
     <div align = "justify">
         <img src = "IMPORT FILES/CognitiveStackTeIcon.png" alt = "Extroverted Thinking Icon" style = "width: 70px; height: auto" />
-        I thrive on the thrill of turning chaos into order while meticulously crafting solutions with firm persistence. I unravel the complexities of python codes and navigate the convolutions of mathematical logic to eagerly take on the challenge of refining entropy into seamless efficiency. In resonance of my extroverted thinking, I traverse the labyrinth of data akin to charting the fabric of celestial bodies in the vast expanse of space. For me, it is more than just crunching numbers — it is an interstellar exploration of unseen dimensions, a journey where each data point is a star waiting to be discovered in the digital cosmos.
+        I thrive on the thrill of turning chaos into order while meticulously crafting solutions with firm persistence. I unravel the complexities of Python Codes and navigate the convolutions of Mathematical Logic to eagerly take on the challenge of refining entropy into seamless efficiency. In resonance of my 𝗲𝘅𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴, I traverse the labyrinth of data akin to charting the fabric of celestial bodies in the vast expanse of space. For me, it is more than just crunching numbers — it is an interstellar exploration of unseen dimensions, a journey where each data point is a star waiting to be discovered in the digital cosmos.
     </div>
 </blockquote>
 
