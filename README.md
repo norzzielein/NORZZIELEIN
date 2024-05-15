@@ -60,7 +60,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in ð
 <blockquote>
     <div align = "justify">
         <img src = "IMPORT FILES/CognitiveStackTeIcon.png" alt = "Extroverted Thinking Icon" style = "width: 70px; height: auto" />
-        I thrive on the thrill of turning chaos into order while meticulously crafting solutions with firm persistence. From unraveling the intricacies of python codes to navigating the complexities of mathematical logic, I eagerly take on the challenge of refining entropy into seamless efficiency. With a perfectionist's eye and a strategist's mind, I navigate the labyrinth of data, driven by a relentless pursuit of excellence. Guided by a deep curiosity and a hunger for innovation, I forge solutions that not only solve problems but push the boundaries of what's possible.
+        I thrive on the thrill of turning chaos into order while meticulously crafting solutions with firm persistence. I unravel the intricacies of python codes and navigate the complexities of mathematical logic to eagerly take on the challenge of refining entropy into seamless efficiency. And in resonance of my extroverted thinking, I navigate the labyrinth of data akin to charting the fabric of celestial bodies in the vast expanse of space. It is more than just crunching numbers â€” it is an exploration of unseen dimensions, a journey where each data point is a star waiting to be discovered in the digital cosmos.
     </div>
 </blockquote>
 
