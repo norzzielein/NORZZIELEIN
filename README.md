@@ -52,7 +52,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in ð
 <blockquote>
     <div align = "justify">
         <img src = "IMPORT FILES/CognitiveStackNiIcon.png" alt = "Introverted Intuition Icon" style = "width: 70px; height: auto" />
-        My mind is a realm of endless exploration, where introverted intuition fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each problem with a sense of introspective curiosity and intuitive insight, eager to unveil the secrets that lie beneath the surface. May intuitive nature propels me to anticipate not just outcomes, but to orchestrate their inevitability into an indomitable force of insight and strategy.
+        My mind is a realm of endless exploration where introverted intuition fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each case with a sense of introspective curiosity and intuitive insight to unveil the secrets that lie beneath the surface. My intuitive nature propels me to anticipate not just outcomes, but commands the very essence of reality itself.
     </div>
 </blockquote>
 
