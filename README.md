@@ -65,7 +65,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
 <blockquote>
     <div align = "justify">
         <img src = "IMPORT FILES/CognitiveStackFiIcon.png" alt = "Introverted Feeling Icon" style = "width: auto; height: 45px"/> <br>
-        At the core of my being resides an 𝗶𝗻𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗳𝗲𝗲𝗹𝗶𝗻𝗴 as a foundational framework of deeply-rooted principles that inform my intellectual pursuits and casts light upon my life decisions. I fervently embrace the Stoic and Rationalist philosophies, drawing upon their notion to inform my worldview and chart my course through life's nuances. Much like the velvety abyss of color black and the resonance of a soul music genre intertwine as powerful expressions of my depth and emotion — guiding me on an introspective journey of profound self-discovery.
+        At the core of my being resides an 𝗶𝗻𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗳𝗲𝗲𝗹𝗶𝗻𝗴 as a foundational framework of deeply-rooted principles that inform my intellectual pursuits and casts light upon my life decisions. I fervently embrace the Stoic and Rationalist philosophies, drawing upon their notion to inform my worldview and chart my course through life's nuances. Much like the velvety abyss of color black and the resonance of soul music, these elements intertwine as powerful expressions of my depth and emotion — guiding me on an introspective journey of profound self-discovery.
     </div>
 </blockquote>
 
