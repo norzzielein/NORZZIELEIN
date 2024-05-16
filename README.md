@@ -25,11 +25,11 @@
     <!-- SPATIOTEMPORAL ANALYSIS OF DENGUE CASES -->
     <img src = "IMPORT FILES/SpatiotemporalAnalysisOfDengueCases.png" alt = "Spatiotemporal Analysis of Dengue Cases" height = "40"/>
     <!-- MATHEMATICAL MODELLING OF ONLINE PRODUCTS -->
-    <img src = "IMPORT FILES/MathematicalModellingOfOnlineProducts.png" alt = "Mathematical Modelling of Online Products" height = "50"/>
+    <img src = "IMPORT FILES/MathematicalModellingOfOnlineProducts.png" alt = "Mathematical Modelling of Online Products" height = "40"/>
     <!-- MULTIVARIATE PREDICTIVE MODELLING OF GRADES -->
-    <img src = "IMPORT FILES/MusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "50"/>
+    <img src = "IMPORT FILES/MusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "40"/>
     <!-- MUSIC METADATA EXPORTER -->
-    <img src = "IMPORT FILES/MultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "50"/>   
+    <img src = "IMPORT FILES/MultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "40"/>   
 </div>
 
 ***
