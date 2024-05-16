@@ -69,6 +69,13 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
     </div>
 </blockquote>
 
+<blockquote>
+    <div align = "justify">
+        <img src = "IMPORT FILES/CognitiveStackSeIcon.png" alt = "Extroverted Sensing Icon" style = "width: auto; height: 45px"/> <br>
+        In moments of stillness, I find solace in the quiet solitude of my own company with which I prefer the sanctuary of introspection over the chaos of external stimulation. As I wander alone through the corridors of my thoughts, I am keenly aware of the sensory richness of the surrounding space, yet I remain guarded against its overwhelming influence. This delicate dance between solitude and sensory awareness, though indeed challenging at times, contours my individuality to remind me of the importance of finding harmony and balance amidst the noise of the universe.
+    </div>
+</blockquote>
+
 ***
 
 ### 🖥️ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗕𝗔𝗖𝗞𝗚𝗥𝗢𝗨𝗡𝗗
@@ -80,6 +87,53 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
     > <img src = "IMPORT FILES/GreenLocationIcon.png" alt = "Green Location Icon" height = "20"> &nbsp;: Dasmariñas Bagong Bayan – Area-B, 4115 West Avenue, Dasmariñas City, Cavite
     > <div align = "justify">
     > De La Salle University - Dasmariñas waited 20 years to have its very first 𝗦𝘂𝗺𝗺𝗮 𝗖𝘂𝗺 𝗟𝗮𝘂𝗱𝗲 for the BS in Applied Mathematics program ‒ by my name, the one and only Applied Mathematics graduate of DLSU-D's Class of 2023. I have consistently maintained the top rank among all dean's listers, concurrently achieving a flawless semestral GPA of 4.00 throughout seven out of eight semesters. I obtained a perfect 4.00 grade to all of my Mathematics major subjects, as well as in a significant portion of my elective courses. I got the highest cumulative GPA among the graduates, thereby nabbing the valedictory position. This is high enough to land the highest among the historical records of DLSU-D ever since its establishment. I am the Summa (highest) among the 43 Summa Cum Laude graduates of my batch.
+    > </div>
+
+***
+
+### 🖥️ 𝗥𝗘𝗦𝗘𝗔𝗥𝗖𝗛 𝗣𝗨𝗕𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
+
+- #### INTERNATIONAL JOURNAL OF COMPUTING SCIENCES RESEARCH <br> **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm** <br>
+
+    > <img src = "IMPORT FILES/YellowCalendarIcon.png" alt = "Yellow Calendar Icon" height = "20"> : January 2023 <br>
+    > <img src = "IMPORT FILES/YellowSearchIcon.png" alt = "Yellow Search Icon" height = "20"> : DOI: 10.25147/ijcsr.2017.001.1.130 <br>
+    > <img src = "IMPORT FILES/YellowWebsiteIcon.png" alt = "Yellow Website Icon" height = "20"> : https://stepacademic.net/ijcsr/article/view/410
+    > <div align = "justify">
+    > Acosta, NN., Lamadrid, CK., & Barrameda, R. (2023). Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm. International Journal of Computing Sciences Research, 7, 1937-1955.
+    > </div>
+    
+***
+
+### 🖥️ 𝗦𝗣𝗘𝗔𝗞𝗘𝗥𝗦𝗛𝗜𝗣 𝗔𝗡𝗗 𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡𝗦
+
+- #### DE LA SALLE UNIVERSITY ‒ DASMARIÑAS RESEARCH WEEK 2023 <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
+
+    > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : May 2023 <br>
+    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: De La Salle University – Dasmariñas, Dasmariñas City, Cavite
+
+- #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
+
+    > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : January 2023 <br>
+    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines
+
+***
+
+### 🖥️ 𝗘𝗟𝗜𝗚𝗜𝗕𝗜𝗟𝗜𝗧𝗬 𝗔𝗡𝗗 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
+
+- #### HONOR GRADUATE ELIGIBILITY <br> Presidential Decree No. 907 (Honor Graduate)
+
+    > <img src = "IMPORT FILES/BrownCertificateIcon.png" alt = "Brown Certificate Icon" height = "20"> : by the Civil Service Commission (CSC) of the Philippines <br>
+    > <img src = "IMPORT FILES/BrownCalendarIcon.png" alt = "Brown Calendar Icon" height = "20"> : February 2024
+    > <div align = "justify">
+    > 𝗣𝗗 𝗡𝗼. 𝟵𝟬𝟳 explicitly provides among others, that it is considered that graduation with honors earned under the competitive atmosphere of the academic community is as good as qualifying mark in a competitive examination to determine merit and excellence for public employment.
+    > </div>
+  
+- #### TEST OF ENGLISH FOR INTERNATIONAL COMMUNICATION (TOEIC) CERTIFICATION <br> Common European Framework of Reference for Languages (CEFR)
+
+    > <img src = "IMPORT FILES/BrownCertificateIcon.png" alt = "Brown Certificate Icon" height = "20"> : by the Hopkins International Partners Inc. <br>
+    > <img src = "IMPORT FILES/BrownCalendarIcon.png" alt = "Brown Calendar Icon" height = "20"> : July 2023
+    > <div align = "justify">
+    > 𝗕𝟮 or 𝘂𝗽𝗽𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options. 𝗕𝟮 or 𝘂𝗽𝗽𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options.
     > </div>
 
 ***
@@ -140,53 +194,6 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
     > <img src = "IMPORT FILES/VioletCalendarIcon.png" alt = "Violet Calendar Icon" height = "20"> : April 2017
     > <div align = "justify">
     > The "𝗬𝗼𝘂𝘁𝗵 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲" award by the Junior Chamber International (JCI) Philippines Inc. aims to recognize students from elementary and high school from both public and private schools who have shown extraordinary skills both academically and in extra-curricular activities. This accolade is my merit for being the valedictorian of the graduating class, achieving the highest grade average, and securing remarkable victories in various external competitions.
-    > </div>
-
-***
-
-### 🖥️ 𝗥𝗘𝗦𝗘𝗔𝗥𝗖𝗛 𝗣𝗨𝗕𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
-
-- #### INTERNATIONAL JOURNAL OF COMPUTING SCIENCES RESEARCH <br> **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm** <br>
-
-    > <img src = "IMPORT FILES/YellowCalendarIcon.png" alt = "Yellow Calendar Icon" height = "20"> : January 2023 <br>
-    > <img src = "IMPORT FILES/YellowSearchIcon.png" alt = "Yellow Search Icon" height = "20"> : DOI: 10.25147/ijcsr.2017.001.1.130 <br>
-    > <img src = "IMPORT FILES/YellowWebsiteIcon.png" alt = "Yellow Website Icon" height = "20"> : https://stepacademic.net/ijcsr/article/view/410
-    > <div align = "justify">
-    > Acosta, NN., Lamadrid, CK., & Barrameda, R. (2023). Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm. International Journal of Computing Sciences Research, 7, 1937-1955.
-    > </div>
-    
-***
-
-### 🖥️ 𝗦𝗣𝗘𝗔𝗞𝗘𝗥𝗦𝗛𝗜𝗣 𝗔𝗡𝗗 𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡𝗦
-
-- #### DE LA SALLE UNIVERSITY ‒ DASMARIÑAS RESEARCH WEEK 2023 <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
-
-    > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : May 2023 <br>
-    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: De La Salle University – Dasmariñas, Dasmariñas City, Cavite
-
-- #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
-
-    > <img src = "IMPORT FILES/PinkCalendarIcon.png" alt = "Pink Calendar Icon" height = "20"> : January 2023 <br>
-    > <img src = "IMPORT FILES/PinkLocationIcon.png" alt = "Pink Location Icon" height = "20"> &nbsp;: Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines
-
-***
-
-### 🖥️ 𝗘𝗟𝗜𝗚𝗜𝗕𝗜𝗟𝗜𝗧𝗬 𝗔𝗡𝗗 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
-
-- #### HONOR GRADUATE ELIGIBILITY <br> Presidential Decree No. 907 (Honor Graduate)
-
-    > <img src = "IMPORT FILES/BrownCertificateIcon.png" alt = "Brown Certificate Icon" height = "20"> : by the Civil Service Commission (CSC) of the Philippines <br>
-    > <img src = "IMPORT FILES/BrownCalendarIcon.png" alt = "Brown Calendar Icon" height = "20"> : April 2024
-    > <div align = "justify">
-    > 𝗣𝗗 𝗡𝗼. 𝟵𝟬𝟳 explicitly provides among others, that it is considered that graduation with honors earned under the competitive atmosphere of the academic community is as good as qualifying mark in a competitive examination to determine merit and excellence for public employment.
-    > </div>
-  
-- #### TEST OF ENGLISH FOR INTERNATIONAL COMMUNICATION (TOEIC) CERTIFICATION <br> Common European Framework of Reference for Languages (CEFR)
-
-    > <img src = "IMPORT FILES/BrownCertificateIcon.png" alt = "Brown Certificate Icon" height = "20"> : by the Hopkins International Partners Inc. <br>
-    > <img src = "IMPORT FILES/BrownCalendarIcon.png" alt = "Brown Calendar Icon" height = "20"> : July 2023
-    > <div align = "justify">
-    > 𝗕𝟮 or 𝘂𝗽𝗽𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options. 𝗕𝟮 or 𝘂𝗽𝗽𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options.
-    > </div>
+    > </div>  
     
 <img src = "IMPORT FILES/GitHubProfileFooter.png" alt = "GitHub Profile Footer"></a>
