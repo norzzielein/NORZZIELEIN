@@ -23,7 +23,7 @@
 
 <div align="center" style="width: 100%;">
     <!-- SPATIOTEMPORAL ANALYSIS OF DENGUE CASES -->
-    <img src = "IMPORT FILES/SpatiotemporalAnalysisOfDengueCases.png" alt = "Spatiotemporal Analysis of Dengue Cases" height = "50"/>
+    <img src = "IMPORT FILES/SpatiotemporalAnalysisOfDengueCases.png" alt = "Spatiotemporal Analysis of Dengue Cases" height = "40"/>
     <!-- MATHEMATICAL MODELLING OF ONLINE PRODUCTS -->
     <img src = "IMPORT FILES/MathematicalModellingOfOnlineProducts.png" alt = "Mathematical Modelling of Online Products" height = "50"/>
     <!-- MULTIVARIATE PREDICTIVE MODELLING OF GRADES -->
