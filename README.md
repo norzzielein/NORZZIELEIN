@@ -72,7 +72,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
 <blockquote>
     <div align = "justify">
         <img src = "IMPORT FILES/CognitiveStackSeIcon.png" alt = "Extroverted Sensing Icon" style = "width: auto; height: 45px"/> <br>
-        In moments of stillness, I find solace in the quiet solitude of my own company with which I prefer the sanctuary of introspection over the chaos of external stimulation. As I wander alone through the corridors of my thoughts, I am keenly aware of the sensory richness of the surrounding space, yet I remain guarded against its overwhelming influence. This delicate dance between solitude and sensory awareness, though indeed challenging at times, contours my individuality to remind me of the importance of finding harmony and balance amidst the noise of the universe.
+        In moments of stillness, I find solace in the quiet solitude of my own company with which I prefer the sanctuary of introspection over the chaos of external stimulation. As I wander alone through the corridors of my thoughts, I am keenly aware of the sensory richness of the surrounding space, yet I remain guarded against its overwhelming influence. This delicate dance between solitude and sensory awareness, though indeed challenging at times, contours my 𝗘𝘅𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗦𝗲𝗻𝘀𝗶𝗻𝗴 to remind me of the importance of finding harmony and balance amidst the noise of the universe.
     </div>
 </blockquote>
 
