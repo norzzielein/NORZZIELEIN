@@ -28,9 +28,9 @@
     <img src = "IMPORT FILES/MathematicalModellingOfOnlineProducts.png" alt = "Mathematical Modelling of Online Products" height = "40"/>
     <!-- MUSIC METADATA EXPORTER -->
     <a href = "https://github.com/norzzielein/MUSIC-METADATA-EXPORTER" title = "A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library.">
-        <img src = "IMPORT FILES/MusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "40"/></a> 
+        <img src = "IMPORT FILES/MusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "40"/></a>
     <!-- MULTIVARIATE PREDICTIVE MODELLING OF GRADES -->
-    <img src = "IMPORT FILES/MultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "40"/>   
+    <img src = "IMPORT FILES/MultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "40"/>
 </div>
 
 ***
