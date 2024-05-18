@@ -194,5 +194,6 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
     > <div align = "justify">
     > The "𝗬𝗼𝘂𝘁𝗵 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲" award by the Junior Chamber International (JCI) Philippines Inc. aims to recognize students from elementary and high school from both public and private schools who have shown extraordinary skills both academically and in extra-curricular activities. This accolade is my merit for being the valedictorian of the graduating class, achieving the highest grade average, and securing remarkable victories in various external competitions.
     > </div>  
-    
+
+<!-- FOOTER -->
 <img src = "IMPORT FILES/GitHubProfileFooter.png" alt = "GitHub Profile Footer"></a>
