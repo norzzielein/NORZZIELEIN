@@ -175,7 +175,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
     > <img src = "IMPORT FILES/BULLETVIOLETMedal.png" alt = "Medal VIolet Bullet" width = "25"> : by De La Salle University – Dasmariñas, College 	of Science and Computer Studies (CSCS) <br>
     > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> : July 2023
     <div align = "justify">
-    The <strong> Virtus et Excellentia </strong> award is the highest honor bestowed upon the top graduating student of DLSU-D, and recognizes not only academic excellence but also a steadfast commitment to embodying the core Lasallian values while excelling in a diverse array of co-curricular and extra-curricular pursuits, reflecting a holistic dedication to personal growth and community enrichment. The term is Latin for "𝗩𝗶𝗿𝘁𝘂𝗲 𝗮𝗻𝗱 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲" as it represents the core principles upheld by the Lasallian community, emphasizing the importance of both moral integrity and academic prowess.
+    The <strong> Virtus et Excellentia </strong> award is the highest honor bestowed upon the top graduating student of DLSU-D, and recognizes not only academic excellence but also a steadfast commitment to embodying the core Lasallian values while excelling in a diverse array of co-curricular and extra-curricular pursuits, reflecting a holistic dedication to personal growth and community enrichment. The term is Latin for <strong> Virtue and Excellence </strong> as it represents the core principles upheld by the Lasallian community, emphasizing the importance of both moral integrity and academic prowess.
     </div>
 
 - #### GAWAD TALINO EXCELLENCE IN MATHEMATICS AWARD
