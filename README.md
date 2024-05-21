@@ -80,9 +80,9 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in �
 
 - #### DE LA SALLE UNIVERSITY - DASMARIÑAS <br> BS in Applied Mathematics
 
-    > <img src = "IMPORT FILES/GreenTogaIcon.png" alt = "Green Toga Icon" height = "20"> : Summa Cum Laude (Class 2023 Valedictorian) <br>
-    > <img src = "IMPORT FILES/GreenCalendarIcon.png" alt = "Green Calendar Icon" height = "20"> : August 2019 - September 2023 <br>
-    > <img src = "IMPORT FILES/GreenLocationIcon.png" alt = "Green Location Icon" height = "20"> &nbsp;: Dasmariñas Bagong Bayan – Area-B, 4115 West Avenue, Dasmariñas City, Cavite
+    > <img src = "IMPORT FILES/BULLETICONToga.png" alt = "Toga Bullet Icon" height = "20"> : Summa Cum Laude (Class 2023 Valedictorian) <br>
+    > <img src = "IMPORT FILES/BULLETICONCalendar.png" alt = "Calendar Bullet Icon" height = "20"> : August 2019 - September 2023 <br>
+    > <img src = "IMPORT FILES/BULLETICONLocation.png" alt = "Location Bullet Icon" height = "20"> &nbsp;: Dasmariñas Bagong Bayan – Area-B, 4115 West Avenue, Dasmariñas City, Cavite
     > <div align = "justify">
     > De La Salle University - Dasmariñas waited 20 years to have its very first 𝗦𝘂𝗺𝗺𝗮 𝗖𝘂𝗺 𝗟𝗮𝘂𝗱𝗲 for the BS in Applied Mathematics program ‒ by my name, the one and only Applied Mathematics graduate of DLSU-D's Class of 2023. I have consistently maintained the top rank among all dean's listers, concurrently achieving a flawless semestral GPA of 4.00 throughout seven out of eight semesters. I obtained a perfect 4.00 grade to all of my Mathematics major subjects, as well as in a significant portion of my elective courses. I got the highest cumulative GPA among the graduates, thereby nabbing the valedictory position. This is high enough to land the highest among the historical records of DLSU-D ever since its establishment. I am the Summa (highest) among the 43 Summa Cum Laude graduates of my batch.
     > </div>
