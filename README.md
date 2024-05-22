@@ -39,7 +39,7 @@
 ### 🖥️ 𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
 <div align = "justify">
-As an accomplished graduate of Applied Mathematics with a robust foundation in 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲, 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀, 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝗮𝗹 𝗠𝗼𝗱𝗲𝗹𝗹𝗶𝗻𝗴, and 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵, I ardently pursue the application of data-driven methodologies to unravel intricate challenges. My comprehensive understanding of applied mathematical sciences empowers me to craft sophisticated solutions and drive innovation. With an insatiable thirst for knowledge and an unwavering commitment to intellectual rigor, I enthusiastically embark on a gratifying journey to shape the future of data science industry and make enduring contributions to the forefront of technological advancements.
+As an accomplished graduate of Applied Mathematics with a robust foundation in <strong> Data Science </strong>, <strong> Statistical Analysis </strong>, <strong> Machine Learning </strong>, <strong> Mathematical Modelling </strong>, and <strong> Operations Research </strong>, I ardently pursue the application of data-driven methodologies to unravel intricate challenges. My comprehensive understanding of applied mathematical sciences empowers me to craft sophisticated solutions and drive innovation. With an insatiable thirst for knowledge and an unwavering commitment to intellectual rigor, I enthusiastically embark on a gratifying journey to shape the future of data science industry and make enduring contributions to the forefront of technological advancements.
 </div>
 
 ***
