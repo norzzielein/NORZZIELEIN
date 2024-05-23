@@ -46,32 +46,29 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in <
 
 ### 🖥️ 𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗩𝗘 𝗦𝗧𝗔𝗖𝗞𝗦
 
-
-<img src = "IMPORT FILES/STACKIntrovertedIntuition.png" alt = "Introverted Intuition Stack" width = "35" align = "middle"/> <strong> INTROVERTED INTUITION </strong>
-<div align = "justify">
-My mind is a realm of endless exploration where 𝗜𝗻𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗜𝗻𝘁𝘂𝗶𝘁𝗶𝗼𝗻 fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each case with a sense of introspective curiosity and intuitive insight to unveil the secrets that lie beneath the surface. My intuitive nature propels me to anticipate not just outcomes, but to command the very essence of reality itself.
-</div>
-
-<blockquote>
+- #### INTROVERTED INTUITION
+    > <img src = "IMPORT FILES/STACKIntrovertedIntuition.png" alt = "Introverted Intuition Stack" width = "25"/> "When you have eliminated the impossible, whatever remains, however improbable, must be the truth."
     <div align = "justify">
-        <img src = "IMPORT FILES/CognitiveStackTeIcon.png" alt = "Extroverted Thinking Icon" style = "width: auto; height: 45px"/> <br>
-        I thrive on the thrill of turning chaos into order while meticulously crafting solutions with firm persistence. I unravel the complexities of Python Codes and navigate the convolutions of Mathematical Logic to eagerly take on the challenge of refining entropy into seamless efficiency. In resonance of my 𝗘𝘅𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗧𝗵𝗶𝗻𝗸𝗶𝗻𝗴, I traverse the labyrinth of data akin to charting the fabric of celestial bodies in the vast expanse of space. For me, it is more than just crunching numbers — it is an interstellar exploration of unseen dimensions, a journey where each data point is a star waiting to be discovered in the digital cosmos.
+    My mind is a realm of endless exploration where <strong> Introverted Intuition </strong> fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each case with a sense of introspective curiosity and intuitive insight to unveil the secrets that lie beneath the surface. My intuitive nature propels me to anticipate not just outcomes, but to command the very essence of reality itself.
     </div>
-</blockquote>
 
-<blockquote>
+- #### EXTROVERTED THINKING
+    > <img src = "IMPORT FILES/STACKExtrovertedThinking.png" alt = "Extroverted Thinking Stack" width = "25"/> "sample text"
     <div align = "justify">
-        <img src = "IMPORT FILES/CognitiveStackFiIcon.png" alt = "Introverted Feeling Icon" style = "width: auto; height: 45px"/> <br>
-        At the core of my being resides an 𝗜𝗻𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗙𝗲𝗲𝗹𝗶𝗻𝗴 as a foundational framework of deeply-rooted principles that inform my intellectual pursuits and casts light upon my life decisions. I fervently embrace the Stoic and Rationalist philosophies, drawing upon their notion to inform my worldview and chart my trajectory through life's nuances. Much like the velvety abyss of color black and the resonance of soul music evoke a sense of depth and emotion within me, these elements intertwine as powerful expressions of my individuality and eventually guides me on an introspective journey of profound self-discovery.
+    I thrive on the thrill of turning chaos into order while meticulously crafting solutions with firm persistence. I unravel the complexities of Python Codes and navigate the convolutions of Mathematical Logic to eagerly take on the challenge of refining entropy into seamless efficiency. In resonance of my <strong> Extroverted Thinking</strong>, I traverse the labyrinth of data akin to charting the fabric of celestial bodies in the vast expanse of space. For me, it is more than just crunching numbers — it is an interstellar exploration of unseen dimensions, a journey where each data point is a star waiting to be discovered in the digital cosmos.
     </div>
-</blockquote>
 
-<blockquote>
+- #### INTROVERTED FEELING
+    > <img src = "IMPORT FILES/STACKIntrovertedFeeling.png" alt = "Introverted Feeling Stack" width = "25"/> "sample text"
     <div align = "justify">
-        <img src = "IMPORT FILES/CognitiveStackSeIcon.png" alt = "Extroverted Sensing Icon" style = "width: auto; height: 45px"/> <br>
-        In moments of stillness, I find solace in the quiet solitude of my own company with which I prefer the sanctuary of introspection over the chaos of external stimulation. As I wander alone through the corridors of my thoughts, I am keenly aware of the sensory richness of the surrounding space, yet I remain guarded against its overwhelming influence. This delicate dance between solitude and sensory awareness, though indeed challenging at times, contours my 𝗘𝘅𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗦𝗲𝗻𝘀𝗶𝗻𝗴 to remind me of the importance of finding harmony and balance amidst the noise of the universe.
+    At the core of my being resides an <strong> Introverted Feeling </strong> as a foundational framework of deeply-rooted principles that inform my intellectual pursuits and casts light upon my life decisions. I fervently embrace the Stoic and Rationalist philosophies, drawing upon their notion to inform my worldview and chart my trajectory through life's nuances. Much like the velvety abyss of color black and the resonance of soul music evoke a sense of depth and emotion within me, these elements intertwine as powerful expressions of my individuality and eventually guides me on an introspective journey of profound self-discovery.
     </div>
-</blockquote>
+
+- #### EXTROVERTED SENSING
+    > <img src = "IMPORT FILES/STACKExtrovertedSensing.png" alt = "Extroverted Sensing Stack" width = "25"/> "sample text"
+    <div align = "justify">
+    In moments of stillness, I find solace in the quiet solitude of my own company with which I prefer the sanctuary of introspection over the chaos of external stimulation. As I wander alone through the corridors of my thoughts, I am keenly aware of the sensory richness of the surrounding space, yet I remain guarded against its overwhelming influence. This delicate dance between solitude and sensory awareness, though indeed challenging at times, contours my <strong> Extroverted Sensing </strong> to remind me of the importance of finding harmony and balance amidst the noise of the universe.
+    </div>
 
 ***
 
