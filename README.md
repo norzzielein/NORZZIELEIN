@@ -141,10 +141,11 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in <
 - #### GAWAD KARANGALAN NG LUNGSOD NG DASMARIÑAS AWARD
 
     > <img src="IMPORT FILES/BULLETVIOLETMedal.png" alt="Medal Violet Bullet" width="25" style="vertical-align: middle;"> 
-    > <span style="display: inline-block; text-indent: -30px; padding-left: 30px;">
+    > <span style="display: inline-block; padding-left: 30px; text-align: justify;">
+    > <span style="text-indent: -30px; padding-left: 30px;">
     > : by Mayor Jennifer Barzaga and Congressman Elpidio Barzaga Jr. through the City Government of Dasmariñas, Cavite
     > </span>
-
+    > </span>
 
 
 
