@@ -46,8 +46,8 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in <
 
 ### 🖥️ 𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗩𝗘 𝗦𝗧𝗔𝗖𝗞𝗦
 
-<div align = "justify">
-    <img src = "IMPORT FILES/STACKIntrovertedIntuition.png" alt = "Introverted Intuition Stack" style = "width: 25"/> : <strong> INTROVERTED INTUITION </strong>
+
+<img src = "IMPORT FILES/STACKIntrovertedIntuition.png" alt = "Introverted Intuition Stack" width = "35" align = "middle"/> <strong> INTROVERTED INTUITION </strong>
 <div align = "justify">
 My mind is a realm of endless exploration where 𝗜𝗻𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗜𝗻𝘁𝘂𝗶𝘁𝗶𝗼𝗻 fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each case with a sense of introspective curiosity and intuitive insight to unveil the secrets that lie beneath the surface. My intuitive nature propels me to anticipate not just outcomes, but to command the very essence of reality itself.
 </div>
