@@ -65,7 +65,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in <
     </div>
 
 - #### EXTROVERTED SENSING
-    > <img src = "IMPORT FILES/STACKExtrovertedSensing.png" alt = "Extroverted Sensing Stack" width = "25"/> : "sample text"
+    > <img src = "IMPORT FILES/STACKExtrovertedSensing.png" alt = "Extroverted Sensing Stack" width = "25"/> : <strong><em> "Solitude is the sacred space where we commune with our senses to find serenity in the sensory symphony of the universe." </em></strong>
     <div align = "justify">
     In moments of stillness, I find solace in the quiet solitude of my own company with which I prefer the sanctuary of introspection over the chaos of external stimulation. As I wander alone through the corridors of my thoughts, I am keenly aware of the sensory richness of the surrounding space, yet I remain guarded against its overwhelming influence. This delicate dance between solitude and sensory awareness, though indeed challenging at times, contours my <strong> Extroverted Sensing </strong> to remind me of the importance of finding harmony and balance amidst the noise of the universe.
     </div>
