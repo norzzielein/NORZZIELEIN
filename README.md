@@ -46,12 +46,11 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in <
 
 ### 🖥️ 𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗩𝗘 𝗦𝗧𝗔𝗖𝗞𝗦
 
-<blockquote>
-    <div align = "justify">
-        <img src = "IMPORT FILES/CognitiveStackNiIcon.png" alt = "Introverted Intuition Icon" style = "width: auto; height: 45px"/> <br>
-        My mind is a realm of endless exploration where 𝗜𝗻𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗜𝗻𝘁𝘂𝗶𝘁𝗶𝗼𝗻 fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each case with a sense of introspective curiosity and intuitive insight to unveil the secrets that lie beneath the surface. My intuitive nature propels me to anticipate not just outcomes, but to command the very essence of reality itself.
-    </div>
-</blockquote>
+<div align = "justify">
+    <img src = "IMPORT FILES/STACKIntrovertedIntuition.png" alt = "Introverted Intuition Stack" style = "width: 25"/> : <strong> INTROVERTED INTUITION </strong>
+<div align = "justify">
+My mind is a realm of endless exploration where 𝗜𝗻𝘁𝗿𝗼𝘃𝗲𝗿𝘁𝗲𝗱 𝗜𝗻𝘁𝘂𝗶𝘁𝗶𝗼𝗻 fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each case with a sense of introspective curiosity and intuitive insight to unveil the secrets that lie beneath the surface. My intuitive nature propels me to anticipate not just outcomes, but to command the very essence of reality itself.
+</div>
 
 <blockquote>
     <div align = "justify">
@@ -139,16 +138,6 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in <
 ### 🖥️ 𝗔𝗪𝗔𝗥𝗗𝗦 𝗔𝗡𝗗 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
 
 - #### GAWAD KARANGALAN NG LUNGSOD NG DASMARIÑAS AWARD
-
-    > <img src="IMPORT FILES/BULLETVIOLETMedal.png" alt="Medal Violet Bullet" width="25" style="vertical-align: middle;"> 
-    > <span style="display: inline-block; padding-left: 30px; text-align: justify;">
-    > <span style="text-indent: -30px; padding-left: 30px;">
-    > : by Mayor Jennifer Barzaga and Congressman Elpidio Barzaga Jr. through the City Government of Dasmariñas, Cavite
-    > </span>
-    > </span>
-
-
-
 
     > <img src = "IMPORT FILES/BULLETVIOLETMedal.png" alt = "Medal VIolet Bullet" width = "25"> : by Mayor Jennifer Barzaga and Congressman Elpidio Barzaga Jr. through the City Government of Dasmariñas, Cavite <br>
     > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> : September 2023, May 2019, April 2013
