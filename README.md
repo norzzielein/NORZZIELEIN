@@ -23,15 +23,15 @@
 ### 🖥️ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦
 
 <div align="center" style="width: 100%;">
-    <!-- SPATIOTEMPORAL ANALYSIS OF DENGUE CASES -->
-    <img src = "IMPORT FILES/REPOSITORYSpatiotemporalAnalysisOfDengueCases.png" alt = "Spatiotemporal Analysis of Dengue Cases" height = "42"/>
     <!-- MATHEMATICAL MODELLING OF ONLINE PRODUCTS -->
     <img src = "IMPORT FILES/REPOSITORYMathematicalModellingOfOnlineProducts.png" alt = "Mathematical Modelling of Online Products" height = "42"/>
+    <!-- MULTIVARIATE PREDICTIVE MODELLING OF GRADES -->
+    <img src = "IMPORT FILES/REPOSITORYMultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "42"/>
     <!-- MUSIC METADATA EXPORTER -->
     <a href = "https://github.com/norzzielein/MUSIC-METADATA-EXPORTER" title = "A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library.">
         <img src = "IMPORT FILES/REPOSITORYMusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "42"/></a>
-    <!-- MULTIVARIATE PREDICTIVE MODELLING OF GRADES -->
-    <img src = "IMPORT FILES/REPOSITORYMultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "42"/>
+    <!-- SPATIOTEMPORAL ANALYSIS OF DENGUE CASES -->
+    <img src = "IMPORT FILES/REPOSITORYSpatiotemporalAnalysisOfDengueCases.png" alt = "Spatiotemporal Analysis of Dengue Cases" height = "42"/>  
 </div>
 
 ***
