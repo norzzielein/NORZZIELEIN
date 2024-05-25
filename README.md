@@ -23,8 +23,8 @@
 ### 🖥️ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦
 
 - #### RESEARCH
-    > <img src = "IMPORT FILES/REPOSITORYMathematicalModellingOfOnlineProducts.png" alt = "Mathematical Modelling of Online Products" height = "35"/> <br>
-    > <img src = "IMPORT FILES/REPOSITORYMultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "35"/> <br>
+    > <img src = "IMPORT FILES/REPOSITORYMathematicalModellingOfOnlineProducts.png" alt = "Mathematical Modelling of Online Products" height = "35"/>
+    > <img src = "IMPORT FILES/REPOSITORYMultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "35"/>
     > <img src = "IMPORT FILES/REPOSITORYSpatiotemporalAnalysisOfDengueCases.png" alt = "Spatiotemporal Analysis of Dengue Cases" height = "35"/>
 
 - #### PROJECT
