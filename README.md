@@ -24,7 +24,7 @@
 
 - #### PROJECT
     > <img src = "IMPORT FILES/BULLETBLUEMusic.png" alt = "Music Blue Bullet" width = "25"/> : <a href = "https://github.com/norzzielein/MUSIC-METADATA-EXPORTER" title = "A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library.">
-        <img src = "IMPORT FILES/REPOSITORYMusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "32"/></a>
+        <img src = "IMPORT FILES/REPOSITORYMusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "25"/></a>
 
 <div align="center" style="width: 100%;">
     <!-- MATHEMATICAL MODELLING OF ONLINE PRODUCTS -->
