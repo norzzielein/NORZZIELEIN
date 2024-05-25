@@ -39,7 +39,7 @@ As an accomplished graduate of Applied Mathematics with a robust foundation in <
     > <a href = "https://github.com/norzzielein/MUSIC-METADATA-EXPORTER" title = "A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library."> <img src = "IMPORT FILES/REPOSITORYMusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "38"/></a>
 
 - #### ARCHIVES
-    > <a href = "https://github.com/norzzielein/NORZZIELEIN" title = "This serves as a venue to present a dynamic introduction for the visitors of my GitHub profile. It offers a comprehensive overview of information about myself and my professional background, providing insights to my skills and interests in Data Science, Mathematics, and Statistics. I aim to forge a profound connection with fellow data scientists."> <img src = "IMPORT FILES/REPOSITORYMusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "38"/></a>    
+    > <a href = "https://github.com/norzzielein/NORZZIELEIN" title = "This serves as a venue to present a dynamic introduction for the visitors of my GitHub profile. It offers a comprehensive overview of information about myself and my professional background, providing insights to my skills and interests in Data Science, Mathematics, and Statistics. I aim to forge a profound connection with fellow data scientists."> <img src = "IMPORT FILES/REPOSITORYMyGitHubProfile.png" alt = "My GitHub Profile" height = "38"/></a>    
 
 ***
 
