@@ -38,7 +38,7 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
     </div>
 
 - #### EXTROVERTED THINKING
-    > <img src = "IMPORT FILES/BULLETTURQOUISERuler.png" alt = "Ruler Turqouise Bullet" width = "25"/> <strong><em> "Mathematics is the language of the universe. The more equations you know, the more you can converse with the cosmos." </em></strong>
+    > <img src = "IMPORT FILES/BULLETTURQOUISERuler.png" alt = "Ruler Turqouise Bullet" width = "25"/> <strong><em> "Math is the language of the universe. The more equations you know, the more you can converse with the cosmos." </em></strong>
     <div align = "justify">
     I thrive on the thrill of turning chaos into order while meticulously crafting solutions with firm persistence. I unravel the complexities of Python Codes and navigate the convolutions of Mathematical Logic to eagerly take on the challenge of refining entropy into seamless efficiency. In resonance of my <strong> Extroverted Thinking</strong>, I traverse the labyrinth of data akin to charting the fabric of celestial bodies in the vast expanse of space. For me, it is more than just crunching numbers — it is an interstellar exploration of unseen dimensions, a journey where each data point is a star waiting to be discovered in the digital cosmos.
     </div>
