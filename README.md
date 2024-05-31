@@ -132,13 +132,15 @@
 
     > <img src = "IMPORT FILES/BULLETGREENCertificate.png" alt = "Certificate Green Bullet" width = "25"> **TOEIC Listening and Reading Test Certification** <br>
     > <img src = "IMPORT FILES/BULLETGREENCalendar.png" alt = "Calendar Green Bullet" width = "25"> July 2023
-    <div align = "justify"> 
+    - <div align = "justify"> 
         My listening score is <strong>415/495</strong>. I can infer the central idea, purpose, and basic context of short spoken exchanges across a broad range of vocabulary, even when conversational responses are indirect or not easy to predict.
-        <br> <br>
+      </div> 
+    - <div align = "justify"> 
         My reading score is <strong>400/495</strong>. I can infer the central idea and purpose of a written text, and I can make inferences about details. I can read for meaning. I can understand factual information, even when it is paraphrased.
-        <br> <br>
+      </div>
+    - <div align = "justify"> 
         My Common European Framework of Reference for Languages (CEFR) score is <strong>B2</strong>. I can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in my field of specialization. I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party.
-    </div>
+      </div>
 
 ***
 
