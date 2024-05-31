@@ -31,7 +31,6 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
 ### 🖥️ 𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗩𝗘 𝗦𝗧𝗔𝗖𝗞𝗦
 
 - #### INTROVERTED INTUITION
-
     > <img src = "IMPORT FILES/BULLETTURQOUISEMagnifier.png" alt = "Magnifier Turqouise Bullet" width = "25"/> <strong><em> "When you have eliminated the impossible, whatever remains, however improbable, must be the truth." </em></strong>
     <div align = "justify">
     My mind is a realm of endless exploration where <strong> Introverted Intuition </strong> fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each problem with a sense of introspective curiosity to unmask the secrets that lie beneath the surface. My intuitive nature underscores my conviction that even the most unlikely solutions can unveil the hidden realities in the realm of the improbable once the impossible is dismissed.
@@ -74,11 +73,11 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
 
 ### 🖥️ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗕𝗔𝗖𝗞𝗚𝗥𝗢𝗨𝗡𝗗
 
-- #### DE LA SALLE UNIVERSITY - DASMARIÑAS <br> Bachelor of Science in Applied Mathematics
+- #### DE LA SALLE UNIVERSITY - DASMARIÑAS <br> <sub> Congressional Avenue, Dasmariñas Bagong Bayan – Area-B, Dasmariñas City, Cavite </sub>
 
-    > <img src = "IMPORT FILES/BULLETYELLOWToga.png" alt = "Toga Yellow Bullet" width = "25"> : Summa Cum Laude (Class 2023 Valedictorian) <br>
-    > <img src = "IMPORT FILES/BULLETYELLOWCalendar.png" alt = "Calendar Yellow Bullet" width = "25"> : August 2019 - September 2023 <br>
-    > <img src = "IMPORT FILES/BULLETYELLOWLocation.png" alt = "Location Yellow Bullet" width = "25"> : Dasmariñas Bagong Bayan – Area-B, 4115 West Avenue, Dasmariñas City, Cavite
+    > <img src = "IMPORT FILES/BULLETYELLOWToga.png" alt = "Toga Yellow Bullet" width = "25"> <strong> Bachelor of Science in Applied Mathematics </strong> <br>
+    > <img src = "IMPORT FILES/BULLETYELLOWMedal.png" alt = "Medal Yellow Bullet" width = "25"> <strong> Summa Cum Laude </strong> (Class 2023 Valedictorian) <br>
+    > <img src = "IMPORT FILES/BULLETYELLOWCalendar.png" alt = "Calenadr Yellow Bullet" width = "25"> August 2019 - September 2023
     <div align = "justify">
     De La Salle University - Dasmariñas waited 20 years to have its very first <strong> Summa Cum Laude </strong> for the BS in Applied Mathematics program ‒ by my name, the one and only Applied Mathematics graduate of DLSU-D's Class of 2023. I have consistently maintained the top rank among all dean's listers, concurrently achieving a flawless semestral GPA of 4.00 throughout seven out of eight semesters. I obtained a perfect 4.00 grade to all of my Mathematics major subjects, as well as in a significant portion of my elective courses. I got the highest cumulative GPA among the graduates, thereby nabbing the valedictory position. This is high enough to land the highest among the historical records of DLSU-D ever since its establishment. I am the Summa (highest) among the 43 Summa Cum Laude graduates of my batch.
     </div>
