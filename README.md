@@ -33,25 +33,25 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
 - #### INTROVERTED INTUITION
     > <img src = "IMPORT FILES/BULLETTURQOUISEMagnifier.png" alt = "Magnifier Turqouise Bullet" width = "25"/> <strong><em> "When you have eliminated the impossible, whatever remains, however improbable, must be the truth." </em></strong>
     <div align = "justify">
-    My mind is a realm of endless exploration where <strong> Introverted Intuition </strong> fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each problem with a sense of introspective curiosity to unmask the secrets that lie beneath the surface. My intuitive nature underscores my conviction that even the most unlikely solutions can unveil the hidden realities in the realm of the improbable once the impossible is dismissed.
+        My mind is a realm of endless exploration where <strong> Introverted Intuition </strong> fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each problem with a sense of introspective curiosity to unmask the secrets that lie beneath the surface. My intuitive nature underscores my conviction that even the most unlikely solutions can unveil the hidden realities in the realm of the improbable once the impossible is dismissed.
     </div>
 
 - #### EXTROVERTED THINKING
     > <img src = "IMPORT FILES/BULLETTURQOUISERuler.png" alt = "Ruler Turqouise Bullet" width = "25"/> <strong><em> "Math is the language of the universe. The more equations you know, the more you can converse with the cosmos." </em></strong>
     <div align = "justify">
-    I thrive on the thrill of turning chaos into order while meticulously crafting solutions with firm persistence. I unravel the complexities of Python Codes and navigate the convolutions of Mathematical Logic to eagerly take on the challenge of refining entropy into seamless efficiency. In resonance of my <strong> Extroverted Thinking</strong>, I traverse the labyrinth of data akin to charting the fabric of celestial bodies in the vast expanse of space. For me, it is more than just crunching numbers — it is an interstellar exploration of unseen dimensions, a journey where each data point is a star waiting to be discovered in the digital cosmos.
+        I thrive on the thrill of turning chaos into order while meticulously crafting solutions with firm persistence. I unravel the complexities of Python Codes and navigate the convolutions of Mathematical Logic to eagerly take on the challenge of refining entropy into seamless efficiency. In resonance of my <strong> Extroverted Thinking</strong>, I traverse the labyrinth of data akin to charting the fabric of celestial bodies in the vast expanse of space. For me, it is more than just crunching numbers — it is an interstellar exploration of unseen dimensions, a journey where each data point is a star waiting to be discovered in the digital cosmos.
     </div>
 
 - #### INTROVERTED FEELING
     > <img src = "IMPORT FILES/BULLETTURQOUISEBook.png" alt = "Book Turqouise Bullet" width = "25"/> <strong><em> "Black is the color of hidden emotions, the deep wells of our souls that only introspection can reveal." </em></strong>
     <div align = "justify">
-    At the core of my being resides an <strong> Introverted Feeling </strong> as a foundational framework of deeply-rooted principles that inform my intellectual pursuits and casts light upon my life decisions. I fervently embrace the Stoic and Rationalist philosophies, drawing upon their notion to inform my worldview and chart my trajectory through life's nuances. Much like the velvety abyss of color black and the resonance of soul music evoke a sense of depth and emotion within me, these elements intertwine as powerful expressions of my individuality and eventually guides me on an introspective journey of profound self-discovery.
+        At the core of my being resides an <strong> Introverted Feeling </strong> as a foundational framework of deeply-rooted principles that inform my intellectual pursuits and casts light upon my life decisions. I fervently embrace the Stoic and Rationalist philosophies, drawing upon their notion to inform my worldview and chart my trajectory through life's nuances. Much like the velvety abyss of color black and the resonance of soul music evoke a sense of depth and emotion within me, these elements intertwine as powerful expressions of my individuality and eventually guides me on an introspective journey of profound self-discovery.
     </div>
 
 - #### EXTROVERTED SENSING
     > <img src = "IMPORT FILES/BULLETTURQOUISERocket.png" alt = "Rocket Turqouise Bullet" width = "25"/> <strong><em> "Solitude is the space where we commune with our senses to find serenity in the sensory symphony of the universe." </em></strong>
     <div align = "justify">
-    In moments of stillness, I find solace in the quiet solitude of my own company with which I prefer the sanctuary of introspection over the chaos of external stimulation. As I wander alone through the corridors of my thoughts, I am keenly aware of the sensory richness of the surrounding space, yet I remain guarded against its overwhelming influence. This delicate dance between solitude and sensory awareness, though indeed challenging at times, contours my <strong> Extroverted Sensing </strong> to remind me of the importance of finding harmony and balance amidst the noise of the universe.
+        In moments of stillness, I find solace in the quiet solitude of my own company with which I prefer the sanctuary of introspection over the chaos of external stimulation. As I wander alone through the corridors of my thoughts, I am keenly aware of the sensory richness of the surrounding space, yet I remain guarded against its overwhelming influence. This delicate dance between solitude and sensory awareness, though indeed challenging at times, contours my <strong> Extroverted Sensing </strong> to remind me of the importance of finding harmony and balance amidst the noise of the universe.
     </div>
     
 ***
@@ -73,26 +73,26 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
 
 ### 🖥️ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗕𝗔𝗖𝗞𝗚𝗥𝗢𝗨𝗡𝗗
     
-- #### DE LA SALLE UNIVERSITY - DASMARIÑAS <br> <sub> Congressional Avenue, Dasmariñas Bagong Bayan – Area-B, Dasmariñas City, Cavite </sub>
+- #### DE LA SALLE UNIVERSITY - DASMARIÑAS <br> <sub> **Congressional Avenue, Dasmariñas Bagong Bayan – Area-B, Dasmariñas City, Cavite** </sub>
  
-    > <img src = "IMPORT FILES/BULLETYELLOWToga.png" alt = "Toga Yellow Bullet" width = "25"> <strong> Bachelor of Science in Applied Mathematics </strong> <br>
-    > <img src = "IMPORT FILES/BULLETYELLOWMedal.png" alt = "Medal Yellow Bullet" width = "25"> <strong> Summa Cum Laude </strong> (Class 2023 Valedictorian) <br>
+    > <img src = "IMPORT FILES/BULLETYELLOWToga.png" alt = "Toga Yellow Bullet" width = "25"> **Bachelor of Science in Applied Mathematics** <br>
+    > <img src = "IMPORT FILES/BULLETYELLOWMedal.png" alt = "Medal Yellow Bullet" width = "25"> **Summa Cum Laude** (Class 2023 Valedictorian) <br>
     > <img src = "IMPORT FILES/BULLETYELLOWCalendar.png" alt = "Calenadr Yellow Bullet" width = "25"> August 2019 - September 2023
     <div align = "justify">
-    De La Salle University - Dasmariñas waited 20 years to have its very first <strong> Summa Cum Laude </strong> for the BS in Applied Mathematics program ‒ by my name, the one and only Applied Mathematics graduate of DLSU-D's Class of 2023. I have consistently maintained the top rank among all dean's listers, concurrently achieving a flawless semestral GPA of 4.00 throughout seven out of eight semesters. I obtained a perfect 4.00 grade to all of my Mathematics major subjects, as well as in a significant portion of my elective courses. I got the highest cumulative GPA among the graduates, thereby nabbing the valedictory position. This is high enough to land the highest among the historical records of DLSU-D ever since its establishment. I am the Summa (highest) among the 43 Summa Cum Laude graduates of my batch.
+        De La Salle University - Dasmariñas waited 20 years to have its very first <strong> Summa Cum Laude </strong> for the BS in Applied Mathematics program ‒ by my name, the one and only Applied Mathematics graduate of DLSU-D's Class of 2023. I have consistently maintained the top rank among all dean's listers, concurrently achieving a flawless semestral GPA of 4.00 throughout seven out of eight semesters. I obtained a perfect 4.00 grade to all of my Mathematics major subjects, as well as in a significant portion of my elective courses. I got the highest cumulative GPA among the graduates, thereby nabbing the valedictory position. This is high enough to land the highest among the historical records of DLSU-D ever since its establishment. I am the Summa (highest) among the 43 Summa Cum Laude graduates of my batch.
     </div>
 
 ***
 
 ### 🖥️ 𝗥𝗘𝗦𝗘𝗔𝗥𝗖𝗛 𝗣𝗨𝗕𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
-- #### INTERNATIONAL JOURNAL OF COMPUTING SCIENCES RESEARCH <br> **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm** <br>
+- #### INTERNATIONAL JOURNAL OF COMPUTING SCIENCES RESEARCH
 
-    > <img src = "IMPORT FILES/BULLETBLUECalendar.png" alt = "Calendar Blue Bullet" width = "25"> : January 2023 <br>
-    > <img src = "IMPORT FILES/BULLETBLUESearch.png" alt = "Search Blue Bullet"  width = "25"> : DOI: 10.25147/ijcsr.2017.001.1.130 <br>
-    > <img src = "IMPORT FILES/BULLETBLUELink.png" alt = "Link Blue Bullet"  width = "25"> : https://stepacademic.net/ijcsr/article/view/410
+    > <img src = "IMPORT FILES/BULLETBLUEGraph.png" alt = "Graph Blue Bullet" width = "25"> **Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm** <br>
+    > <img src = "IMPORT FILES/BULLETBLUELink.png" alt = "Link Blue Bullet"  width = "25"> https://stepacademic.net/ijcsr/article/view/410 <br>
+    > <img src = "IMPORT FILES/BULLETBLUECalendar.png" alt = "Calendar Blue Bullet"  width = "25"> January 2023
     <div align = "justify">
-    Acosta, NN., Lamadrid, CK., & Barrameda, R. (2023). Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm. International Journal of Computing Sciences Research, 7, 1937-1955.
+        Acosta, NN., Lamadrid, CK., & Barrameda, R. (2023). Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm. International Journal of Computing Sciences Research, 7, 1937-1955.
     </div>
     
 ***
