@@ -118,6 +118,66 @@
 
 ***
 
+### 🖥️ 𝗔𝗪𝗔𝗥𝗗𝗦 𝗔𝗡𝗗 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
+
+- #### GAWAD KARANGALAN NG LUNGSOD NG DASMARIÑAS AWARD
+
+    > <img src = "IMPORT FILES/BULLETVIOLETTrophy.png" alt = "Trophy Violet Bullet" width = "25"> by Mayor Jennifer Barzaga and Congressman Elpidio Barzaga Jr. through the City Government of Dasmariñas, Cavite <br>
+    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> September 2023, May 2019, April 2013
+    <div align = "justify">
+        The <strong> Gawad Karangalan </strong> award is Dasmariñas City government’s initiative aimed at acknowledging academic excellence among the youth by providing cash rewards, certificates, and medals to graduates with honors in elementary and secondary levels, as well as tertiary and graduate or post-graduate students with honors, board topnotchers, and passers. I am a three-time recipient of the accolade dated: April 2013 (elementary graduation), May 2019 (senior high school graduation), and September 2023 (college graduation).
+    </div>
+
+- #### GOLDEN LEAF AWARD
+
+    > <img src = "IMPORT FILES/BULLETVIOLETTrophy.png" alt = "Medal Violet Bullet" width = "25"> by De La Salle University – Dasmariñas <br>
+    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> September 2023
+    <div align = "justify">
+        The highest award given by the DLSU-D College of Science and Computer Studies (CSCS) to a graduating Biology or Mathematics student who has achieved the highest cumulative GPA and has significantly contributed services to the College while maintaining Lasallian values. The term <strong> Golden Leaf </strong> signifies the exceptional distinction and prestige associated with this award, evoking imagery of excellence and distinction akin to the rarity and value of a golden leaf amidst a sea of green.
+    </div>
+
+- #### NOTABLE GOLDEN MEDALIST AWARD
+
+    > <img src = "IMPORT FILES/BULLETVIOLETTrophy.png" alt = "Medal Violet Bullet" width = "25"> by De La Salle University – Dasmariñas, Student 	Development and Activities Office (SDAO) <br>
+    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> August 2023
+    <div align = "justify">
+        This prestigious accolade underscores the significance of my internationally published research entitled <strong> "Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm" </strong> under the esteemed International Journal of Computing Sciences Research (IJCSR). The study highlights its contribution in advancing the field of mathematics education through innovative multivariate predictive modeling techniques, powered by Bayesian networks machine learning algorithm.
+    </div>
+
+- #### BEST IN THESIS AWARD
+
+    > <img src = "IMPORT FILES/BULLETVIOLETTrophy.png" alt = "Medal Violet Bullet" width = "25"> by De La Salle University – Dasmariñas, College 	of Science and Computer Studies (CSCS) <br>
+    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> July 2023
+    <div align = "justify">
+        This prestigious accolade highlights the exceptional merit and outstanding contribution of my thesis entitled <strong> "Spatiotemporal Analysis of Dengue Cases Distribution with Geographic Choropleth Mapping and Emerging Hotspot Analysis: The Case of Cavite, Philippines" </strong> to the field of public health research. The study not only advances academic knowledge but also holds practical implications for disease surveillance and management strategies in the local aggregate of Cavite, Philippines.
+    </div>
+
+- #### VIRTUS ET EXCELLENTIA AWARD
+
+    > <img src = "IMPORT FILES/BULLETVIOLETTrophy.png" alt = "Medal Violet Bullet" width = "25"> by De La Salle University – Dasmariñas, College 	of Science and Computer Studies (CSCS) <br>
+    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> July 2023
+    <div align = "justify">
+        The <strong> Virtus et Excellentia </strong> award is the highest honor bestowed upon the top graduating student of DLSU-D, and recognizes not only academic excellence but also a steadfast commitment to embodying the core Lasallian values while excelling in a diverse array of co-curricular and extra-curricular pursuits, reflecting a holistic dedication to personal growth and community enrichment. The term is Latin for <strong> Virtue and Excellence </strong> as it represents the core principles upheld by the Lasallian community, emphasizing the importance of both moral integrity and academic prowess.
+    </div>
+
+- #### GAWAD TALINO EXCELLENCE IN MATHEMATICS AWARD
+
+    > <img src = "IMPORT FILES/BULLETVIOLETTrophy.png" alt = "Medal Violet Bullet" width = "25"> by the Mercury Drugs Foundation, Inc. through 	the University of Perpetual Help – Molino <br>
+    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> April 2019
+    <div align = "justify">
+        The <strong> Gawad Talino </strong> is an academic accolade accompanied by a cash incentive bestowed upon graduating senior high school students who demonstrate exceptional proficiency in Mathematics and Science. Meticulously chosen by the Mercury Drugs Foundation, Inc., recipients are selected based on their notable achievements, such as consistently securing victories in regional and national mathematics competitions during their senior high school years.
+    </div>
+
+- #### YOUTH LEADERSHIP EXCELLENCE AWARD
+
+    > <img src = "IMPORT FILES/BULLETVIOLETTrophy.png" alt = "Medal Violet Bullet" width = "25"> by Senator Joseph Victor Ejercito through Dasmariñas East Integrated High School <br>
+    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> April 2017
+    <div align = "justify">
+        The <strong> Youth Leadership Excellence </strong> award by the Junior Chamber International (JCI) Philippines Inc. aims to recognize students from elementary and high school from both public and private schools who have shown extraordinary skills both academically and in extra-curricular activities. This accolade is my merit for being the valedictorian of the graduating class, achieving the highest grade average, and securing remarkable victories in various external competitions.
+    </div>
+
+***
+
 ### 🖥️ 𝗘𝗟𝗜𝗚𝗜𝗕𝗜𝗟𝗜𝗧𝗬 𝗔𝗡𝗗 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
 - #### CIVIL SERVICE ELIGIBILITY <br> <sub> **Civil Service Commission (CSC)** </sub>
@@ -140,67 +200,7 @@
       </div>
     - <div align = "justify"> 
         My Common European Framework of Reference for Languages (CEFR) score is <strong>B2</strong>. I can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in my field of specialization. I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party.
-      </div>
-
-***
-
-### 🖥️ 𝗔𝗪𝗔𝗥𝗗𝗦 𝗔𝗡𝗗 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
-
-- #### GAWAD KARANGALAN NG LUNGSOD NG DASMARIÑAS AWARD
-
-    > <img src = "IMPORT FILES/BULLETVIOLETMedal.png" alt = "Medal VIolet Bullet" width = "25"> : by Mayor Jennifer Barzaga and Congressman Elpidio Barzaga Jr. through the City Government of Dasmariñas, Cavite <br>
-    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> : September 2023, May 2019, April 2013
-    <div align = "justify">
-    The <strong> Gawad Karangalan </strong> award is Dasmariñas City government’s initiative aimed at acknowledging academic excellence among the youth by providing cash rewards, certificates, and medals to graduates with honors in elementary and secondary levels, as well as tertiary and graduate or post-graduate students with honors, board topnotchers, and passers. I am a three-time recipient of the accolade dated: April 2013 (elementary graduation), May 2019 (senior high school graduation), and September 2023 (college graduation).
-    </div>
-
-- #### GOLDEN LEAF AWARD
-
-    > <img src = "IMPORT FILES/BULLETVIOLETMedal.png" alt = "Medal VIolet Bullet" width = "25"> : by De La Salle University – Dasmariñas <br>
-    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> : September 2023
-    <div align = "justify">
-    The highest award given by the DLSU-D College of Science and Computer Studies (CSCS) to a graduating Biology or Mathematics student who has achieved the highest cumulative GPA and has significantly contributed services to the College while maintaining Lasallian values. The term <strong> Golden Leaf </strong> signifies the exceptional distinction and prestige associated with this award, evoking imagery of excellence and distinction akin to the rarity and value of a golden leaf amidst a sea of green.
-    </div>
-
-- #### NOTABLE GOLDEN MEDALIST AWARD
-
-    > <img src = "IMPORT FILES/BULLETVIOLETMedal.png" alt = "Medal VIolet Bullet" width = "25"> : by De La Salle University – Dasmariñas, Student 	Development and Activities Office (SDAO) <br>
-    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> : August 2023
-    <div align = "justify">
-    This prestigious accolade underscores the significance of my internationally published research entitled <strong> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm </strong> under the esteemed International Journal of Computing Sciences Research (IJCSR). The study highlights its contribution in advancing the field of mathematics education through innovative multivariate predictive modeling techniques, powered by Bayesian networks machine learning algorithm.
-    </div>
-
-- #### BEST IN THESIS AWARD
-
-    > <img src = "IMPORT FILES/BULLETVIOLETMedal.png" alt = "Medal VIolet Bullet" width = "25"> : by De La Salle University – Dasmariñas, College 	of Science and Computer Studies (CSCS) <br>
-    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> : July 2023
-    <div align = "justify">
-    This prestigious accolade highlights the exceptional merit and outstanding contribution of my thesis entitled <strong> Spatiotemporal Analysis of Dengue Cases Distribution with Geographic Choropleth Mapping and Emerging Hotspot Analysis: The Case of Cavite, Philippines </strong> to the field of public health research. The study not only advances academic knowledge but also holds practical implications for disease surveillance and management strategies in the local aggregate of Cavite, Philippines.
-    </div>
-
-- #### VIRTUS ET EXCELLENTIA AWARD
-
-    > <img src = "IMPORT FILES/BULLETVIOLETMedal.png" alt = "Medal VIolet Bullet" width = "25"> : by De La Salle University – Dasmariñas, College 	of Science and Computer Studies (CSCS) <br>
-    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> : July 2023
-    <div align = "justify">
-    The <strong> Virtus et Excellentia </strong> award is the highest honor bestowed upon the top graduating student of DLSU-D, and recognizes not only academic excellence but also a steadfast commitment to embodying the core Lasallian values while excelling in a diverse array of co-curricular and extra-curricular pursuits, reflecting a holistic dedication to personal growth and community enrichment. The term is Latin for <strong> Virtue and Excellence </strong> as it represents the core principles upheld by the Lasallian community, emphasizing the importance of both moral integrity and academic prowess.
-    </div>
-
-- #### GAWAD TALINO EXCELLENCE IN MATHEMATICS AWARD
-
-    > <img src = "IMPORT FILES/BULLETVIOLETMedal.png" alt = "Medal VIolet Bullet" width = "25"> : by the Mercury Drugs Foundation, Inc. through 	the University of Perpetual Help – Molino <br>
-    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> : April 2019
-    <div align = "justify">
-    The <strong> Gawad Talino </strong> is an academic accolade accompanied by a cash incentive bestowed upon graduating senior high school students who demonstrate exceptional proficiency in Mathematics and Science. Meticulously chosen by the Mercury Drugs Foundation, Inc., recipients are selected based on their notable achievements, such as consistently securing victories in regional and national mathematics competitions during their senior high school years.
-    </div>
-
-- #### YOUTH LEADERSHIP EXCELLENCE AWARD
-
-    > <img src = "IMPORT FILES/BULLETVIOLETMedal.png" alt = "Medal VIolet Bullet" width = "25"> : by Senator Joseph Victor “JV” Ejercito through Dasmariñas East Integrated High School <br>
-    > <img src = "IMPORT FILES/BULLETVIOLETCalendar.png" alt = "Calendar Violet Bullet" width = "25"> : April 2017
-    <div align = "justify">
-    The <strong> Youth Leadership Excellence </strong> award by the Junior Chamber International (JCI) Philippines Inc. aims to recognize students from elementary and high school from both public and private schools who have shown extraordinary skills both academically and in extra-curricular activities. This accolade is my merit for being the valedictorian of the graduating class, achieving the highest grade average, and securing remarkable victories in various external competitions.
-    </div>
+      </div>    
 
 <!-- FOOTER -->
 <img src = "IMPORT FILES/PROFILEFooter.png" alt = "Profile Footer"></a>
