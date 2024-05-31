@@ -99,15 +99,14 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
 
 ### 🖥️ 𝗦𝗣𝗘𝗔𝗞𝗘𝗥𝗦𝗛𝗜𝗣 𝗔𝗡𝗗 𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡𝗦
 
-- #### DE LA SALLE UNIVERSITY ‒ DASMARIÑAS RESEARCH WEEK 2023 <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
+- #### DE LA SALLE UNIVERSITY ‒ DASMARIÑAS RESEARCH WEEK 2023 <br> <sub> **Congressional Avenue, Dasmariñas Bagong Bayan – Area-B, Dasmariñas City, Cavite** </sub>
 
-    > <img src = "IMPORT FILES/BULLETPINKCalendar.png" alt = "Calendar Pink Bullet" width = "25"> : May 2023 <br>
-    > <img src = "IMPORT FILES/BULLETPINKLocation.png" alt = "Location Pink Bullet" width = "25"> : De La Salle University – Dasmariñas, Dasmariñas City, Cavite
+    > <img src = "IMPORT FILES/BULLETPINKSpeech.png" alt = "Speech Pink Bullet" width = "25"> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm <br>
+    > <img src = "IMPORT FILES/BULLETPINKCalendar.png" alt = "Calendar Pink Bullet" width = "25"> May 2023
 
-- #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION <br> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm
-
-    > <img src = "IMPORT FILES/BULLETPINKCalendar.png" alt = "Calendar Pink Bullet" width = "25"> : January 2023 <br>
-    > <img src = "IMPORT FILES/BULLETPINKLocation.png" alt = "Location Pink Bullet" width = "25"> : Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines
+- #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION <br> <sub> **Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines** </sub>
+    > <img src = "IMPORT FILES/BULLETPINKSpeech.png" alt = "Speech Pink Bullet" width = "25"> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm <br>
+    > <img src = "IMPORT FILES/BULLETPINKCalendar.png" alt = "Calendar Pink Bullet" width = "25"> January 2023
 
 ***
 
