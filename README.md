@@ -72,9 +72,9 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
 ***
 
 ### 🖥️ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗕𝗔𝗖𝗞𝗚𝗥𝗢𝗨𝗡𝗗
-
+    
 - #### DE LA SALLE UNIVERSITY - DASMARIÑAS <br> <sub> Congressional Avenue, Dasmariñas Bagong Bayan – Area-B, Dasmariñas City, Cavite </sub>
-
+ 
     > <img src = "IMPORT FILES/BULLETYELLOWToga.png" alt = "Toga Yellow Bullet" width = "25"> <strong> Bachelor of Science in Applied Mathematics </strong> <br>
     > <img src = "IMPORT FILES/BULLETYELLOWMedal.png" alt = "Medal Yellow Bullet" width = "25"> <strong> Summa Cum Laude </strong> (Class 2023 Valedictorian) <br>
     > <img src = "IMPORT FILES/BULLETYELLOWCalendar.png" alt = "Calenadr Yellow Bullet" width = "25"> August 2019 - September 2023
