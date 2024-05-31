@@ -183,6 +183,7 @@
 - #### CIVIL SERVICE ELIGIBILITY <br> <sub> **Civil Service Commission (CSC)** </sub>
 
     > <img src = "IMPORT FILES/BULLETGREENCertificate.png" alt = "Certificate Green Bullet" width = "25"> **Honor Graduate Eligibility** <br>
+    > <img src = "IMPORT FILES/BULLETGREENCredential.png" alt = "Credential Green Bullet" width = "25"> **Credential ID:** 100104240776 <br>
     > <img src = "IMPORT FILES/BULLETGREENCalendar.png" alt = "Calendar Green Bullet" width = "25"> February 2024
     <div align = "justify">
         The Presidential Decree No. 907 explicitly provides, that it is considered that graduation with Honors earned under the competitive atmosphere of the academic community is as good as qualifying mark in a competitive examination to determine merit and excellence for public employment.
@@ -191,6 +192,7 @@
 - #### TEST OF ENGLISH FOR INTERNATIONAL COMMUNICATION (TOEIC) CERTIFICATION <br> <sub> **Hopkins International Partners Inc.** </sub>
 
     > <img src = "IMPORT FILES/BULLETGREENCertificate.png" alt = "Certificate Green Bullet" width = "25"> **TOEIC Listening and Reading Test Certification** <br>
+    > <img src = "IMPORT FILES/BULLETGREENCredential.png" alt = "Credential Green Bullet" width = "25"> **Credential ID:** 201931577 <br>
     > <img src = "IMPORT FILES/BULLETGREENCalendar.png" alt = "Calendar Green Bullet" width = "25"> July 2023
     - <div align = "justify"> 
         My listening score is <strong>415/495</strong>. I can infer the central idea, purpose, and basic context of short spoken exchanges across a broad range of vocabulary, even when conversational responses are indirect or not easy to predict.
