@@ -23,7 +23,7 @@
 ### 🖥️ 𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
 <div align = "justify">
-As an accomplished graduate of Bachelor of Science in Applied Mathematics with a robust foundation in <strong> Data Science</strong>, <strong> Statistical Analysis</strong>, <strong> Machine Learning</strong>, <strong> Mathematical Modelling</strong>, and <strong> Operations Research</strong>, I ardently pursue the application of data-driven methodologies to unravel intricate challenges. My comprehensive understanding of applied mathematical sciences empowers me to craft sophisticated solutions and drive innovation. With an insatiable thirst for knowledge and an unwavering commitment to intellectual rigor, I enthusiastically embark on a gratifying journey to shape the future of data science industry and make enduring contributions to the forefront of technological advancements.
+    As an accomplished graduate of Bachelor of Science in Applied Mathematics with a robust foundation in <strong> Data Science</strong>, <strong> Statistical Analysis</strong>, <strong> Machine Learning</strong>, <strong> Mathematical Modelling</strong>, and <strong> Operations Research</strong>, I ardently pursue the application of data-driven methodologies to unravel intricate challenges. My comprehensive understanding of applied mathematical sciences empowers me to craft sophisticated solutions and drive innovation. With an insatiable thirst for knowledge and an unwavering commitment to intellectual rigor, I enthusiastically embark on a gratifying journey to shape the future of data science industry and make enduring contributions to the forefront of technological advancements.
 </div>
 
 ***
@@ -31,24 +31,28 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
 ### 🖥️ 𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗩𝗘 𝗦𝗧𝗔𝗖𝗞𝗦
 
 - #### INTROVERTED INTUITION
+
     > <img src = "IMPORT FILES/BULLETTURQOUISEMagnifier.png" alt = "Magnifier Turqouise Bullet" width = "25"/> <strong><em> "When you have eliminated the impossible, whatever remains, however improbable, must be the truth." </em></strong>
     <div align = "justify">
         My mind is a realm of endless exploration where <strong> Introverted Intuition </strong> fuels my quest for understanding. Like a detective piecing clues together, I delve into the depths of Data Science and Mathematics to uncover patterns that reveal the hidden truths of our physical world. Drawing inspiration from the enigmatic mystery plots of Agatha Christie and Arthur Conan Doyle, I approach each problem with a sense of introspective curiosity to unmask the secrets that lie beneath the surface. My intuitive nature underscores my conviction that even the most unlikely solutions can unveil the hidden realities in the realm of the improbable once the impossible is dismissed.
     </div>
 
 - #### EXTROVERTED THINKING
+
     > <img src = "IMPORT FILES/BULLETTURQOUISERuler.png" alt = "Ruler Turqouise Bullet" width = "25"/> <strong><em> "Math is the language of the universe. The more equations you know, the more you can converse with the cosmos." </em></strong>
     <div align = "justify">
         I thrive on the thrill of turning chaos into order while meticulously crafting solutions with firm persistence. I unravel the complexities of Python Codes and navigate the convolutions of Mathematical Logic to eagerly take on the challenge of refining entropy into seamless efficiency. In resonance of my <strong> Extroverted Thinking</strong>, I traverse the labyrinth of data akin to charting the fabric of celestial bodies in the vast expanse of space. For me, it is more than just crunching numbers — it is an interstellar exploration of unseen dimensions, a journey where each data point is a star waiting to be discovered in the digital cosmos.
     </div>
 
 - #### INTROVERTED FEELING
+
     > <img src = "IMPORT FILES/BULLETTURQOUISEBook.png" alt = "Book Turqouise Bullet" width = "25"/> <strong><em> "Black is the color of hidden emotions, the deep wells of our souls that only introspection can reveal." </em></strong>
     <div align = "justify">
         At the core of my being resides an <strong> Introverted Feeling </strong> as a foundational framework of deeply-rooted principles that inform my intellectual pursuits and casts light upon my life decisions. I fervently embrace the Stoic and Rationalist philosophies, drawing upon their notion to inform my worldview and chart my trajectory through life's nuances. Much like the velvety abyss of color black and the resonance of soul music evoke a sense of depth and emotion within me, these elements intertwine as powerful expressions of my individuality and eventually guides me on an introspective journey of profound self-discovery.
     </div>
 
 - #### EXTROVERTED SENSING
+
     > <img src = "IMPORT FILES/BULLETTURQOUISERocket.png" alt = "Rocket Turqouise Bullet" width = "25"/> <strong><em> "Solitude is the space where we commune with our senses to find serenity in the sensory symphony of the universe." </em></strong>
     <div align = "justify">
         In moments of stillness, I find solace in the quiet solitude of my own company with which I prefer the sanctuary of introspection over the chaos of external stimulation. As I wander alone through the corridors of my thoughts, I am keenly aware of the sensory richness of the surrounding space, yet I remain guarded against its overwhelming influence. This delicate dance between solitude and sensory awareness, though indeed challenging at times, contours my <strong> Extroverted Sensing </strong> to remind me of the importance of finding harmony and balance amidst the noise of the universe.
@@ -59,14 +63,17 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
 ### 🖥️ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦
 
 - #### RESEARCHES
+
     > <img src = "IMPORT FILES/REPOSITORYMathematicalModellingOfOnlineProducts.png" alt = "Mathematical Modelling of Online Products" height = "38"/>
     > <img src = "IMPORT FILES/REPOSITORYMultivariatePredictiveModellingOfGrades.png" alt = "Multivariate Predictive Modelling of Grades" height = "38"/>
     > <img src = "IMPORT FILES/REPOSITORYSpatiotemporalAnalysisOfDengueCases.png" alt = "Spatiotemporal Analysis of Dengue Cases" height = "38"/>
 
 - #### PROJECTS
+
     > <a href = "https://github.com/norzzielein/MUSIC-METADATA-EXPORTER" title = "A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library."> <img src = "IMPORT FILES/REPOSITORYMusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "38"/></a>
 
 - #### ARCHIVES
+
     > <a href = "https://github.com/norzzielein/NORZZIELEIN" title = "This serves as a venue to present a dynamic introduction for the visitors of my GitHub profile. It offers a comprehensive overview of information about myself and my professional background, providing insights to my skills and interests in Data Science, Mathematics, and Statistics. I aim to forge a profound connection with fellow data scientists."> <img src = "IMPORT FILES/REPOSITORYMyGitHubProfile.png" alt = "My GitHub Profile" height = "38"/></a>    
 
 ***
@@ -105,6 +112,7 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
     > <img src = "IMPORT FILES/BULLETPINKCalendar.png" alt = "Calendar Pink Bullet" width = "25"> May 2023
 
 - #### 1ST INTERNATIONAL RESEARCH CONFERENCE ON COMPUTER ENGINEERING AND TECHNOLOGY EDUCATION <br> <sub> **Fort Ilocandia Resort Hotel, Laoag City, Ilocos Norte, Philippines** </sub>
+
     > <img src = "IMPORT FILES/BULLETPINKSpeech.png" alt = "Speech Pink Bullet" width = "25"> Multivariate Predictive Modelling of Mathematics Semestral Grade via Bayesian Networks Machine Learning Algorithm <br>
     > <img src = "IMPORT FILES/BULLETPINKCalendar.png" alt = "Calendar Pink Bullet" width = "25"> January 2023
 
@@ -112,20 +120,24 @@ As an accomplished graduate of Bachelor of Science in Applied Mathematics with a
 
 ### 🖥️ 𝗘𝗟𝗜𝗚𝗜𝗕𝗜𝗟𝗜𝗧𝗬 𝗔𝗡𝗗 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
-- #### HONOR GRADUATE ELIGIBILITY <br> Presidential Decree No. 907 (Honor Graduate)
+- #### CIVIL SERVICE ELIGIBILITY <br> <sub> **Civil Service Commission (CSC)** </sub>
 
-    > <img src = "IMPORT FILES/BULLETORANGECertificate.png" alt = "Certificate Brown Bullet" width = "25"> : by the Civil Service Commission (CSC) of the Philippines <br>
-    > <img src = "IMPORT FILES/BULLETORANGECalendar.png" alt = "Calendar Brown Bullet" width = "25"> : February 2024
+    > <img src = "IMPORT FILES/BULLETGREENCertificate.png" alt = "Certificate Green Bullet" width = "25"> **Honor Graduate Eligibility** <br>
+    > <img src = "IMPORT FILES/BULLETGREENCalendar.png" alt = "Calendar Green Bullet" width = "25"> February 2024
     <div align = "justify">
-    <strong> PD No.907 </strong> explicitly provides among others, that it is considered that graduation with honors earned under the competitive atmosphere of the academic community is as good as qualifying mark in a competitive examination to determine merit and excellence for public employment.
+        The Presidential Decree No. 907 explicitly provides, that it is considered that graduation with Honors earned under the competitive atmosphere of the academic community is as good as qualifying mark in a competitive examination to determine merit and excellence for public employment.
     </div>
   
-- #### TEST OF ENGLISH FOR INTERNATIONAL COMMUNICATION (TOEIC) CERTIFICATION <br> Common European Framework of Reference for Languages (CEFR)
+- #### TEST OF ENGLISH FOR INTERNATIONAL COMMUNICATION (TOEIC) CERTIFICATION <br> <sub> **Hopkins International Partners Inc.** </sub>
 
-    > <img src = "IMPORT FILES/BULLETORANGECertificate.png" alt = "Certificate Brown Bullet" width = "25"> : by the Hopkins International Partners Inc. <br>
-    > <img src = "IMPORT FILES/BULLETORANGECalendar.png" alt = "Calendar Brown Bullet" width = "25"> : July 2023
-    <div align = "justify">
-    <strong> B2 </strong> or <strong> upper intermediate </strong> English level. Can function independently in a variety of academic and professional environments in English, although with a limited range of nuance and precision and disadvantages of various options.
+    > <img src = "IMPORT FILES/BULLETGREENCertificate.png" alt = "Certificate Green Bullet" width = "25"> **TOEIC Listening and Reading Test Certification** <br>
+    > <img src = "IMPORT FILES/BULLETGREENCalendar.png" alt = "Calendar Green Bullet" width = "25"> July 2023
+    <div align = "justify"> 
+        My listening score is <strong>415/495</strong>. I can infer the central idea, purpose, and basic context of short spoken exchanges across a broad range of vocabulary, even when conversational responses are indirect or not easy to predict.
+        <br> <br>
+        My reading score is <strong>400/495</strong>. I can infer the central idea and purpose of a written text, and I can make inferences about details. I can read for meaning. I can understand factual information, even when it is paraphrased.
+        <br> <br>
+        My Common European Framework of Reference for Languages (CEFR) score is <strong>B2</strong>. I can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in my field of specialization. I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party.
     </div>
 
 ***
