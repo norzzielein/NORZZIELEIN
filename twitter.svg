@@ -1,0 +1,113 @@
+<svg xmlns = "http://www.w3.org/2000/svg" fill = "none" style = "width: 100%;" height = "100">
+    <foreignObject width = "100%" height = "100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            
+                /* APTOS BLACK FONT-FACE */
+                @font-face {
+                    font-family: "AptosBlack";
+                    src: url("IMPORT FILES/FONTAptosBlack.ttf") format("truetype");
+                    font-weight: normal;
+                    font-style: normal;
+                }
+
+                /* INTER BOLD FONT-FACE */
+                @font-face {
+                    font-family: "InterBold";
+                    src: url("IMPORT FILES/FONTInterBold.ttf") format("truetype");
+                    font-weight: normal;
+                    font-style: normal;
+                }
+
+                /* APPEAR ANIMATION KEYFRAME */
+                @keyframes Appear {
+                    100% {opacity: 1;}
+                }
+
+                /* SHADOW ANIMATION KEYFRAME */
+                @keyframes Shadow {
+                    0% {box-shadow: none;}
+                    12% {box-shadow: 0 0 5px #FF3131;}
+                    25% {box-shadow: 0 0 10px #FF3131;}
+                    38% {box-shadow: 0 0 15px #FF3131;}
+                    50% {box-shadow: 0 0 20px #FF3131;}
+                    63% {box-shadow: 0 0 15px #FF3131;}
+                    75% {box-shadow: 0 0 10px #FF3131;}
+                    87% {box-shadow: 0 0 5px #FF3131;}
+                    100% {box-shadow: none;}
+                }                
+
+                /* BUTTON CONTAINER STYLING */
+                .container {
+                    font-family: "AptosBlack";
+                    container-type: inline-size;
+                    width: 100%;
+                    height: 100px;
+                    box-sizing: border-box;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    opacity: 0;
+                    animation: Appear 0s linear 0s forwards;
+                }
+
+                /* BUTTON BOX STYLING */
+                .box {
+                    box-sizing: border-box;
+                    background-color: #141414;
+                    border-radius: 10px;
+                    border: 3px solid #000000;
+                    height: 35px;
+                    width: calc(98%);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+
+                /* BUTTON TEXT SYLING */
+                .text {
+                    margin: 0 0 0 0;
+                    padding: 0;
+                    display: none;
+                    color: #C0C0C0;
+                    line-height: 65px;
+                    font-size: 1em;
+                    flex-grow: 0;
+                    text-align: center;
+                }
+
+                /* BUTTON HOVER ANIMATION */
+                .box:hover {
+                    animation: Shadow 1s infinite linear;
+                }
+
+                #svg {
+                    width: 100%;
+                    max-width: 65px;
+                    margin: 0px;
+                    display: block;
+                }
+
+                #svg path {
+                    fill: #ffc6ac;
+                }
+
+                @container (width > 150px) {
+                    .text {
+                        display: block;
+                        min-width: 90px;
+                    }
+                }
+
+            </style>
+            <div class = "container">
+                <div class = "box">
+                    <svg id = "svg" xmlns = "http://www.w3.org/2000/svg" xml:space = "preserve" x="0px" y="0px" style="enable-background:new 0 0 60 60" viewBox="0 0 60 60">
+                        <path d="m14 14 5 8 6 9 1 1-1 2-2 1-2 2-2 3-3 4-2 2h2l2-2 2-2 3-4 2-2 1-1v-1h1a456 456 0 0 0 9 12h10l-9-12-4-7 4-5 2-2 1-1 1-1 2-3 1-1h-3l-3 4-1 1-1 1-1 2h-1l-2 3h-1l-4-6-4-5h-9m4 2 2 3 14 21 3 4h5l-6-8-10-14-4-6h-5 1" style="fill-rule:evenodd;clip-rule:evenodd;" />
+                    </svg>
+                    <p class = "text"> E-MAIL </p>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
