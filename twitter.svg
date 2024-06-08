@@ -77,7 +77,7 @@
                 }
 
                 /* BUTTON HOVER ANIMATION */
-                .box:hover {
+                .box {
                     animation: Shadow 1s infinite linear;
                 }
 
