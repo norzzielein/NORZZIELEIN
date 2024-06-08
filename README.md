@@ -1,3 +1,6 @@
+<div><a href = "https://facebook.com/norzzielein"><img src = "twitter.svg" width = "19.5%" height = 100 alt = "Twitter GrahamTheDev"></a>
+
+
 <div style = "display: flex; flex-direction: column; align-items: center;">
     <!-- HEADER -->
     <img src = "IMPORT FILES/PROFILEHeader.png" alt = "Profile Header" style = "width: 100%;" />
