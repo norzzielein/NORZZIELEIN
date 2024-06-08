@@ -19,6 +19,7 @@
                     font-style: normal;
                 }
 
+                /* BUTTON UNIVERSAL STYLING */
                 * {
                     margin: 0;
                     padding: 0;
@@ -26,6 +27,7 @@
                     font-family: "AptosBlack";
                 }
 
+                /* BUTTON BODY STYLING */
                 body {
                     position: relative;
                     font: 300 1.1em "AptosBlack";
@@ -35,6 +37,7 @@
                     min-height: 100vh;
                 }
 
+                /* BUTTON CONTAINER STYLING */
                 .container {
                     display: flex;
                     position: relative;
