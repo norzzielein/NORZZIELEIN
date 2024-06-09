@@ -30,7 +30,7 @@
                 /* BUTTON BODY STYLING */
                 body {
                     position: relative;
-                    font: 300 8px "AptosBlack";
+                    font: 300 5px "AptosBlack";
                     display: flex;
                     justify-content: center;
                     align-items: center;
