@@ -25,6 +25,8 @@
                     padding: 0;
                     box-sizing: border-box;
                     font-family: "AptosBlack";
+                    font-weight: 400;
+                    font-size: 8px;
                 }
 
                 /* BUTTON BODY STYLING */
