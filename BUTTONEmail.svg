@@ -1,8 +1,3 @@
-<head>
-    <!-- ATTACHING CASCADING STYLE SHEET -->
-    <link rel = "stylesheet" href = "NORZZIELEIN.css">
-</head>
-
 <svg xmlns = "http://www.w3.org/2000/svg" fill = "none" style = "width: 100%; height: 100%;">
     <foreignObject width = "100%" height = "100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -11,7 +6,7 @@
                 /* APTOS BLACK FONT-FACE DECLARATION */
                 @font-face {
                     font-family: "AptosBlack";
-                    src: url("IMPORT FILES/FONTAptosBlack.ttf") format("truetype");
+                    src: url("https://norzzielein.github.io/NORZZIELEIN/IMPORT FILES/FONTAptosBlack.ttf") format("truetype");
                     font-weight: normal;
                     font-style: normal;
                 }
