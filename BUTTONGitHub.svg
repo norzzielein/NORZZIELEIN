@@ -71,7 +71,7 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    background: #101010D9;
+                    background: #101010E6;
                     border-radius: 6px;
                     text-decoration: none;
                     color: #B732FF;
