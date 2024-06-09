@@ -54,7 +54,7 @@
                     border-radius: 10px;
                     background: #141414;
                     width: 250px;
-                    height: 35px;
+                    height: 30px;
                     margin: 0;
                     display: flex;
                     justify-content: center;
