@@ -30,7 +30,7 @@
                 /* BUTTON BODY STYLING */
                 body {
                     position: relative;
-                    font: 300 5px "AptosBlack";
+                    font: 300 15px "AptosBlack";
                     display: flex;
                     justify-content: center;
                     align-items: center;
@@ -52,7 +52,7 @@
                     position: relative;
                     border: 3px solid #000000;
                     border-radius: 8px;
-                    background: #090909;
+                    background: #101010;
                     width: 250px;
                     height: 30px;
                     margin: 0;
@@ -69,7 +69,7 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    background: #090909E6;
+                    background: #101010D9;
                     border-radius: 6px;
                     text-decoration: none;
                     color: #B732FF;
