@@ -69,14 +69,12 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    background: #FFFFFF80;
-                    border-bottom: 1px solid #FFFFFF1A;
-                    border-top: 1px solid #FFFFFF1A;
+                    background: #FFFFFF0D;
                     border-radius: 10px;
                     text-decoration: none;
                     color: #B732FF;
                     z-index: 1;
-                    backdrop-filter: blur(15px);
+                    backdrop-filter: blur(50px);
                     animation: Spacing 3s infinite;
                 }
 
@@ -97,7 +95,7 @@
                     left: 0;
                     width: 50%;
                     height: 100%;
-                    background: linear-gradient(to left, #000000FC, transparent);
+                    background: linear-gradient(to left, #FFFFFF26, transparent);
                     transform: skewX(45deg) translateX(-100%);
                     filter: blur(0px);
                     animation: Gradient 3s infinite;
