@@ -6,7 +6,7 @@
         <a href = "#"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 45px;"></a>
         <a href = "#"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 45px;"></a>
         <a href = "https://linkedin.com/in/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 45px;"></a>
-        <a href = "https://github.com/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 16%; height: 45px;"></a>
+        <a href = "https://github.com/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 15.5%; height: 45px;"></a>
         <a href = "https://facebook.com/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 45px;"></a>
         <a href = "https://instagram.com/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 45px;"></a>
         <a href = "https://twitter.com/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 45px;"></a>
