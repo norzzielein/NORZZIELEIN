@@ -6,7 +6,7 @@
                 /* APTOS BLACK FONT-FACE DECLARATION */
                 @font-face {
                     font-family: "AptosBlack";
-                    src: url("https://norzzielein.github.io/NORZZIELEIN/IMPORT FILES/FONTAptosBlack.ttf") format("truetype");
+                    src: url("https://github.com/norzzielein/NORZZIELEIN/blob/a23a106eac2bc5a826787aa53ecdd8ea10682bfb/IMPORT%20FILES/FONTAptosBlack.ttf") format("truetype");
                     font-weight: normal;
                     font-style: normal;
                 }
