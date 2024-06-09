@@ -30,7 +30,7 @@
                 /* BUTTON BODY STYLING */
                 body {
                     position: relative;
-                    font: 300 1em "AptosBlack";
+                    font: 300 0.9em "AptosBlack";
                     display: flex;
                     justify-content: center;
                     align-items: center;
@@ -51,7 +51,7 @@
                 .button {
                     position: relative;
                     border: 3px solid #000000;
-                    border-radius: 10px;
+                    border-radius: 8px;
                     background: #141414;
                     width: 250px;
                     height: 30px;
