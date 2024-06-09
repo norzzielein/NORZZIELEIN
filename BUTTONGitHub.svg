@@ -30,7 +30,9 @@
                 /* BUTTON BODY STYLING */
                 body {
                     position: relative;
-                    font: 300 15px "AptosBlack";
+                    font-family: "AptosBlack";
+                    font-weight: 300;
+                    font-size: 8px;
                     display: flex;
                     justify-content: center;
                     align-items: center;
