@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" style = "width: 100%; height: 100%;">
-    <foreignObject width="100%" height="100%">
+<svg xmlns = "http://www.w3.org/2000/svg" fill = "none" style = "width: 100%; height: 100%;">
+    <foreignObject width = "100%" height = "100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
 
@@ -47,10 +47,12 @@
                     align-items: center;
                 }
                 
-                .btn {
+                /* BUTTON BOX STYLING */
+                .button {
                     position: relative;
+                    border: 3px solid #000000;
                     border-radius: 10px;
-                    background: #000000;
+                    background: #141414;
                     width: 250px;
                     height: 35px;
                     margin: 0;
@@ -59,108 +61,110 @@
                     align-items: center;
                 }
 
-                .btn a {
+                /* BUTTON SPACING STYLING */
+                .button a {
                     position: absolute;
-                    top: 0;
-                    left: 0;
                     width: 100%;
                     height: 100%;
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    background: rgba(255, 255, 255, 0.05);
-                    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-                    border-top: 1px solid rgba(255, 255, 255, 0.1);
+                    background: #FFFFFF0D;
+                    border-bottom: 1px solid #FFFFFF1A;
+                    border-top: 1px solid #FFFFFF1A;
                     border-radius: 10px;
-                    padding: 10px;
-                    letter-spacing: 1px;
                     text-decoration: none;
-                    overflow: hidden;
-                    color: #fff;
-                    font-weight: 400px;
+                    color: #B732FF;
                     z-index: 1;
-                    transition: 0.5s;
                     backdrop-filter: blur(15px);
+                    animation: Spacing 3s infinite;
                 }
-                .container .btn:hover a {
-                    letter-spacing: 3px;
+
+                /* SPACING ANIMATION KEYFRAME */
+                @keyframes Spacing {
+                    0% {letter-spacing: normal;}
+                    10% {letter-spacing: normal; color: #B732FF}
+                    50% {letter-spacing: 3px; color: #000000}
+                    90% {letter-spacing: normal; color: #B732FF}
+                    100% {letter-spacing: normal;}
                 }
-                .container .btn a::before {
+
+                /* BUTTON GRADIENT STYLING */
+                .container .button a::before {
                     content: "";
                     position: absolute;
                     top: 0;
                     left: 0;
                     width: 50%;
                     height: 100%;
-                    background: linear-gradient(to left, rgba(255, 255, 255, 0.15), transparent);
-                    transform: skewX(45deg) translate(0);
-                    transition: 0.5s;
+                    background: linear-gradient(to left, #FFFFFF26, transparent);
+                    transform: skewX(45deg) translateX(-100%);
                     filter: blur(0px);
-                }
-                .container .btn:hover a::before {
-                    transform: skewX(45deg) translate(200px);
-                }
-                .container .btn::before {
-                    content: "";
-                    position: absolute;
-                    left: 50%;
-                    transform: translatex(-50%);
-                    bottom: -5px;
-                    width: 30px;
-                    height: 10px;
-                    background: #f00;
-                    border-radius: 10px;
-                    transition: 0.5s;
-                    transition-delay: 0.5;
-                }
-                .container .btn:hover::before /*lightup button*/ {
-                    bottom: 0;
-                    height: 50%;
-                    width: 80%;
-                    border-radius: 30px;
+                    animation: Gradient 3s infinite;
                 }
 
-                .container .btn::after {
+                /* GRADIENT ANIMATION KEYFRAME */
+                @keyframes Gradient {
+                    0% {transform: skewX(45deg) translateX(0%);}
+                    50% {transform: skewX(45deg) translateX(115%);}
+                    100% {transform: skewX(45deg) translateX(0%);}
+                }
+
+                /* BUTTON LIGHTDOWN STYLING */
+                .container .button::before {
                     content: "";
                     position: absolute;
                     left: 50%;
-                    transform: translatex(-50%);
-                    top: -5px;
+                    transform: translateX(-50%);
                     width: 30px;
                     height: 10px;
-                    background: #f00;
                     border-radius: 10px;
                     transition: 0.5s;
-                    transition-delay: 0.5;
+                    transition-delay: 0.5s;
+                    background: #B732FF;
+                    box-shadow: 0 0 2px #B732FF, 
+                                0 0 4px #B732FF, 
+                                0 0 8px #B732FF,
+                                0 0 16px #B732FF;
+                    animation: LightDown 3s infinite;
                 }
-                .container .btn:hover::after /*lightup button*/ {
-                    top: 0;
-                    height: 50%;
-                    width: 80%;
-                    border-radius: 30px;
+
+                /* LIGHTDOWN ANIMATION KEYFRAME */
+                @keyframes LightDown {
+                    0% {bottom: -5px; height: 10px; width: 30px; border-radius: 10px;}
+                    50% {bottom: 0; height: 50%; width: 80%; border-radius: 30px;}
+                    100% {bottom: -5px; height: 10px; width: 30px; border-radius: 10px;}
                 }
-                .container .btn:nth-child(1)::before, /*chnage 1*/
-                .container .btn:nth-child(1)::after {
-                    background: #ff1f71;
-                    box-shadow: 0 0 5px #ff1f71, 0 0 15px #ff1f71, 0 0 30px #ff1f71,
-                        0 0 60px #ff1f71;
+
+                /* BUTTON LIGHTUP STYLING */
+                .container .button::after {
+                    content: "";
+                    position: absolute;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    width: 30px;
+                    height: 10px;
+                    border-radius: 10px;
+                    transition: 0.5s;
+                    transition-delay: 0.5s;
+                    background: #B732FF;
+                    box-shadow: 0 0 2px #B732FF, 
+                                0 0 4px #B732FF, 
+                                0 0 8px #B732FF,
+                                0 0 16px #B732FF;
+                    animation: LightUp 3s infinite;
                 }
-                .container .btn:nth-child(2)::before, /* 2*/
-                .container .btn:nth-child(2)::after {
-                    background: #2db2ff;
-                    box-shadow: 0 0 5px #2db2ff, 0 0 15px #2db2ff, 0 0 30px #2db2ff,
-                        0 0 60px #2db2ff;
-                }
-                .container .btn:nth-child(3)::before, /* 3*/
-                .container .btn:nth-child(3)::after {
-                    background: #1eff45;
-                    box-shadow: 0 0 5px #1eff45, 0 0 15px #1eff45, 0 0 30px #1eff45,
-                        0 0 60px #1eff45;
+
+                /* LIGHTUP ANIMATION KEYFRAME */
+                @keyframes LightUp {
+                    0% {top: -5px; height: 10px; width: 30px; border-radius: 10px;}
+                    50% {top: 0; height: 50%; width: 80%; border-radius: 30px;}
+                    100% {top: -5px; height: 10px; width: 30px; border-radius: 10px;}
                 }
 
             </style>
-            <div class="container">
-                <div class="btn"> <a href="#"> E-MAIL </a> </div>
+            <div class = "container">
+                <div class = "button"> <a href = "#"> E-MAIL </a> </div>
             </div>
         </div>
     </foreignObject>
