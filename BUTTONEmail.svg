@@ -41,7 +41,7 @@
                 .container {
                     display: flex;
                     position: relative;
-                    width: 95%;
+                    width: 98%;
                     height: 100vh;
                     justify-content: center;
                     align-items: center;
