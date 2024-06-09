@@ -52,7 +52,7 @@
                     position: relative;
                     border: 3px solid #000000;
                     border-radius: 8px;
-                    background: #121212;
+                    background: #090909;
                     width: 250px;
                     height: 30px;
                     margin: 0;
@@ -69,7 +69,7 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    background: #121212E6;
+                    background: #090909E6;
                     border-radius: 6px;
                     text-decoration: none;
                     color: #B732FF;
