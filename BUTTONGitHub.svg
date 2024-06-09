@@ -71,7 +71,7 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    background: linear-gradient(to bottom, #B732FF, #101010);
+                    background: linear-gradient(to bottom, #B732FF33, #101010);
                     border-radius: 6px;
                     text-decoration: none;
                     color: #B732FF;
