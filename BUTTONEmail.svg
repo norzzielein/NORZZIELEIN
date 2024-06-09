@@ -97,7 +97,7 @@
                     left: 0;
                     width: 50%;
                     height: 100%;
-                    background: linear-gradient(to left, #FFFFFF26, transparent);
+                    background: linear-gradient(to left, #FFFFFF80, transparent);
                     transform: skewX(45deg) translateX(-100%);
                     filter: blur(0px);
                     animation: Gradient 3s infinite;
