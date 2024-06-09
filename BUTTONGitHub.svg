@@ -31,7 +31,7 @@
                 body {
                     position: relative;
                     font-family: "AptosBlack";
-                    font-weight: 300;
+                    font-weight: 400;
                     font-size: 8px;
                     display: flex;
                     justify-content: center;
@@ -125,7 +125,7 @@
                     box-shadow: 0 0 1px #B732FF, 
                                 0 0 2px #B732FF, 
                                 0 0 4px #B732FF,
-                                0 0 8px #B732FF;
+                                0 0 16px #B732FF;
                     animation: LightDown 3s infinite;
                 }
 
@@ -151,7 +151,7 @@
                     box-shadow: 0 0 1px #B732FF, 
                                 0 0 2px #B732FF, 
                                 0 0 4px #B732FF,
-                                0 0 8px #B732FF;
+                                0 0 16px #B732FF;
                     animation: LightUp 3s infinite;
                 }
 
