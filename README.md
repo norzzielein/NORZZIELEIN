@@ -1,9 +1,10 @@
-<div><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "14%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "15%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "14%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "14%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "14%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "15%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "14%" height = 45></a>
+
 
 
 <div style = "display: flex; flex-direction: column; align-items: center;">
     <!-- HEADER -->
     <img src = "IMPORT FILES/PROFILEHeader.png" alt = "Profile Header" style = "width: 100%;" />
+     <div><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "14%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "15%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "14%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "14%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "14%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "15%" height = 45></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONEmail.svg" width = "14%" height = 45></a>
      <div align = "center" style = "width: 100%;">
         <!-- E-MAIL -->
         <a href = "norieneil_acosta@outlook.com" title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/LINKICONEmail.png" alt = "E-Mail Link Icon" style = "width: 114px; height: auto"></a>
