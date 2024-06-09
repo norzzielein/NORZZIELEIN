@@ -69,8 +69,8 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    background: #0000004D;
-                    border-radius: 10px;
+                    background: #00000080;
+                    border-radius: 8px;
                     text-decoration: none;
                     color: #B732FF;
                     z-index: 1;
@@ -82,7 +82,7 @@
                 @keyframes Spacing {
                     0% {letter-spacing: normal;}
                     10% {letter-spacing: normal; color: #B732FF}
-                    50% {letter-spacing: 3px; color: #000000}
+                    50% {letter-spacing: 3px; color: #B732FF}
                     90% {letter-spacing: normal; color: #B732FF}
                     100% {letter-spacing: normal;}
                 }
