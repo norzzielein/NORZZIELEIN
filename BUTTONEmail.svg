@@ -69,8 +69,8 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    background: #00000080;
-                    border-radius: 8px;
+                    background: #000000CC;
+                    border-radius: 6px;
                     text-decoration: none;
                     color: #B732FF;
                     z-index: 1;
