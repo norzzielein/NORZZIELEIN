@@ -26,7 +26,7 @@
                     box-sizing: border-box;
                     font-family: "AptosBlack";
                     font-weight: 400;
-                    font-size: 10px;
+                    font-size: 11px;
                 }
 
                 /* BUTTON BODY STYLING */
@@ -71,7 +71,7 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    background: #101010E6;
+                    background-image: linear-gradient(to bottom, #B732FF, #101010);
                     border-radius: 6px;
                     text-decoration: none;
                     color: #B732FF;
