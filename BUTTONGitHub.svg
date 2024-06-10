@@ -112,7 +112,7 @@
                 }
 
                 /* BUTTON LEFT GRADIENT STYLING */
-                .container .button a::after {
+                .container .button a::before {
                     content: "";
                     position: absolute;
                     top: 0;
