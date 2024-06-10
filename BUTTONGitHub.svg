@@ -106,9 +106,9 @@
 
                 /* GRADIENT ANIMATION KEYFRAME */
                 @keyframes Gradient {
-                    0% {transform: skewX(0deg) translateX(20%);}
+                    0% {transform: skewX(0deg) translateX(30%);}
                     50% {transform: skewX(0deg) translateX(100%);}
-                    100% {transform: skewX(0deg) translateX(20%);}
+                    100% {transform: skewX(0deg) translateX(30%);}
                 }
 
                 /* BUTTON LIGHTDOWN STYLING */
