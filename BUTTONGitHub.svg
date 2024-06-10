@@ -82,6 +82,18 @@
 
                 /* BUTTON TEXT SPACING ANIMATION */
                 .button a span {
+                    position: absolute;
+                    width: 100%;
+                    height: 100%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background: #101010;
+                    border-radius: 6px;
+                    text-decoration: none;
+                    color: #B732FF;
+                    z-index: 0;
+                    backdrop-filter: blur(50px);
                     animation: Spacing 3s infinite;
                 }
 
