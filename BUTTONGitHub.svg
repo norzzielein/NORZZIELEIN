@@ -121,7 +121,7 @@
                     height: 100%;
                     border-radius: 5px;
                     background: linear-gradient(to right, #FFFFFF26, transparent);
-                    transform: skewX(0deg) translateX(-100%);
+                    transform: skewX(0deg) translateX(100%);
                     filter: blur(0px);
                     animation: LeftGradient 3s infinite;
                 }
