@@ -63,7 +63,7 @@
                     align-items: center;
                 }
 
-                /* BUTTON SPACING STYLING */
+                /* BUTTON ANCHOR STYLING */
                 .button a {
                     position: absolute;
                     width: 100%;
@@ -80,7 +80,7 @@
                     animation: Spacing 3s infinite;
                 }
 
-                /* BUTTON TEXT SPACING ANIMATION */
+                /* BUTTON TEXT SPACING STYLING */
                 .button a span {
                     animation: Spacing 3s infinite;
                 }
@@ -88,9 +88,9 @@
                 /* SPACING ANIMATION KEYFRAME */
                 @keyframes Spacing {
                     0% {letter-spacing: normal; opacity: 0;}
-                    10% {letter-spacing: normal; color: #B732FF; opacity: 1;}
+                    10% {letter-spacing: normal; color: #B732FF; opacity: 0.5;}
                     50% {letter-spacing: 1px; color: #B732FF; opacity: 1;}
-                    90% {letter-spacing: normal; color: #B732FF; opacity: 1;}
+                    90% {letter-spacing: normal; color: #B732FF; opacity: 0.5;}
                     100% {letter-spacing: normal; opacity: 0;}
                 }
 
