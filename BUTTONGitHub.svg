@@ -97,7 +97,7 @@
                     left: 0;
                     width: 50%;
                     height: 100%;
-                    border-radius: 8px;
+                    border-radius: 7px;
                     background: linear-gradient(to left, #FFFFFF26, transparent);
                     transform: skewX(0deg) translateX(-100%);
                     filter: blur(0px);
