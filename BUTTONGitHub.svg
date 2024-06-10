@@ -89,7 +89,7 @@
                     100% {letter-spacing: normal;}
                 }
 
-                /* BUTTON GRADIENT STYLING */
+                /* BUTTON RIGHT GRADIENT STYLING */
                 .container .button a::before {
                     content: "";
                     position: absolute;
@@ -97,18 +97,40 @@
                     left: 0;
                     width: 50%;
                     height: 100%;
-                    border-radius: 6px;
+                    border-radius: 5px;
                     background: linear-gradient(to left, #FFFFFF26, transparent);
                     transform: skewX(0deg) translateX(-100%);
                     filter: blur(0px);
-                    animation: Gradient 3s infinite;
+                    animation: RightGradient 3s infinite;
                 }
 
-                /* GRADIENT ANIMATION KEYFRAME */
-                @keyframes Gradient {
+                /* RIGHT GRADIENT ANIMATION KEYFRAME */
+                @keyframes RightGradient {
                     0% {transform: skewX(0deg) translateX(30%);}
                     50% {transform: skewX(0deg) translateX(100%);}
                     100% {transform: skewX(0deg) translateX(30%);}
+                }
+
+                /* BUTTON LEFT GRADIENT STYLING */
+                .container .button a::after {
+                    content: "";
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 50%;
+                    height: 100%;
+                    border-radius: 5px;
+                    background: linear-gradient(to right, #FFFFFF26, transparent);
+                    transform: skewX(0deg) translateX(-100%);
+                    filter: blur(0px);
+                    animation: LeftGradient 3s infinite;
+                }
+
+                /* LEFT GRADIENT ANIMATION KEYFRAME */
+                @keyframes LeftGradient {
+                    0% {transform: skewX(0deg) translateX(-30%);}
+                    50% {transform: skewX(0deg) translateX(-100%);}
+                    100% {transform: skewX(0deg) translateX(-30%);}
                 }
 
                 /* BUTTON LIGHTDOWN STYLING */
