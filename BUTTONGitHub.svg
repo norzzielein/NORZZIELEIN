@@ -128,9 +128,9 @@
 
                 /* LEFT GRADIENT ANIMATION KEYFRAME */
                 @keyframes LeftGradient {
-                    0% {transform: skewX(0deg) translateX(80%);}
+                    0% {transform: skewX(0deg) translateX(70%);}
                     50% {transform: skewX(0deg) translateX(0%);}
-                    100% {transform: skewX(0deg) translateX(80%);}
+                    100% {transform: skewX(0deg) translateX(70%);}
                 }
 
                 /* BUTTON LIGHTDOWN STYLING */
