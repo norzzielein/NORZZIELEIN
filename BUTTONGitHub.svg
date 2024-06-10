@@ -197,10 +197,10 @@
                     position: absolute;
                     background: #000000;
                     border-radius: 5px;
-                    width: 20px;
-                    height: 20px;
+                    width: 30px;
+                    height: 30px;
                     filter: invert(50%) sepia(54%) saturate(5856%) hue-rotate(302deg) brightness(101%) contrast(94%);
-                    animation: Display 2s infinite;        
+                    animation: Display 3s infinite;        
                 }
 
                 /* DISPLAY ANIMATION KEYFRAME */
