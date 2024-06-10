@@ -209,7 +209,7 @@
                 }
 
                 /* DISPLAY ANIMATION KEYFRAME */
-                @keyframes ImageDisplay {
+                @keyframes Display {
                     0%, 100% {opacity: 0;}
                     50% {opacity: 1;}
                 }
@@ -219,7 +219,7 @@
                 <div class = "button"> 
                     <a href = "#"> 
                         <span> GITHUB </span> 
-                        <img src = "IMPORT FILES/BUTTONICONGitHub.png"/>
+                        <img src = "IMPORT FILES/LINKICONGitHub.png"/>
                     </a>
                 </div>
             </div>
