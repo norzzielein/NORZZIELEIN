@@ -199,14 +199,15 @@
                     border-radius: 5px;
                     width: 30px;
                     height: 30px;
-                    filter: invert(50%) sepia(54%) saturate(5856%) hue-rotate(302deg) brightness(101%) contrast(94%);
+                    filter: brightness(0) saturate(100%) invert(75%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(94%) contrast(88%)
+                            invert(50%) sepia(54%) saturate(5856%) hue-rotate(302deg) brightness(101%) contrast(94%);
                     animation: Display 3s infinite;        
                 }
 
                 /* DISPLAY ANIMATION KEYFRAME */
                 @keyframes Display {
-                    0%, 100% {opacity: 0;}
-                    50% {opacity: 1;}
+                    0%, 100% {opacity: 1;}
+                    50% {opacity: 0;}
                 }
 
             </style>
