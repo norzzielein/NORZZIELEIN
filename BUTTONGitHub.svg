@@ -82,6 +82,7 @@
 
                 /* BUTTON TEXT SPACING ANIMATION */
                 .button a span {
+                    z-index: 0;
                     animation: Spacing 3s infinite;
                 }
 
