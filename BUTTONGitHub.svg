@@ -82,11 +82,11 @@
 
                 /* SPACING ANIMATION KEYFRAME */
                 @keyframes Spacing {
-                    0% {letter-spacing: normal; opacity: 0;}
+                    0% {letter-spacing: normal;}
                     10% {letter-spacing: normal; color: #B732FF}
                     50% {letter-spacing: 1px; color: #B732FF}
                     90% {letter-spacing: normal; color: #B732FF}
-                    100% {letter-spacing: normal; opacity: 0;}
+                    100% {letter-spacing: normal;}
                 }
 
                 /* BUTTON RIGHT GRADIENT STYLING */
