@@ -112,7 +112,7 @@
                 }
 
                 /* BUTTON LEFT GRADIENT STYLING */
-                .container .button a::before {
+                .container .button a::after {
                     content: "";
                     position: absolute;
                     top: 0;
@@ -128,9 +128,9 @@
 
                 /* LEFT GRADIENT ANIMATION KEYFRAME */
                 @keyframes LeftGradient {
-                    0% {transform: skewX(0deg) translateX(-30%);}
-                    50% {transform: skewX(0deg) translateX(-100%);}
-                    100% {transform: skewX(0deg) translateX(-30%);}
+                    0% {transform: skewX(0deg) translateX(80%);}
+                    50% {transform: skewX(0deg) translateX(0%);}
+                    100% {transform: skewX(0deg) translateX(80%);}
                 }
 
                 /* BUTTON LIGHTDOWN STYLING */
