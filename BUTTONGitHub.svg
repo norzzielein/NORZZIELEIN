@@ -1,4 +1,4 @@
-<svg xmlns = "http://www.w3.org/2000/svg" fill = "none" style = "width: 100%; height: 100%;">
+<svg xmlns = "http://www.w3.org/2000/svg" fill = "none" style = "width: 100%; height: 30px;">
     <foreignObject width = "100%" height = "100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -36,7 +36,7 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    min-height: 10vh;
+                    min-height: 100vh;
                 }
 
                 /* BUTTON CONTAINER STYLING */
@@ -44,7 +44,7 @@
                     display: flex;
                     position: relative;
                     width: 98%;
-                    height: 30px;
+                    height: 100%;
                     justify-content: center;
                     align-items: center;
                 }
