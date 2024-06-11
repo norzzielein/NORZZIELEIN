@@ -199,7 +199,7 @@
                     border-radius: 5px;
                     width: 30px;
                     height: 30px;
-                    filter: hue-rotate(270deg);
+                    z-index: 2;
                     animation: Display 3s infinite;        
                 }
 
