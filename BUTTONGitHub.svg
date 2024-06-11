@@ -199,7 +199,6 @@
                     border-radius: 5px;
                     width: 30px;
                     height: 30px;
-                    filter: url(#colorize);
                     animation: Display 3s infinite;        
                 }
 
@@ -221,6 +220,9 @@
             </div>
         </div>
     </foreignObject>
+    <mask id="imageMask">
+        <rect width="100%" height="100%" fill="white"/>
+    </mask>
     <filter id="colorize">
         <feColorMatrix type="matrix" values="0 0 0 0 0.7176
                                                0 0 0 0 0.1961
