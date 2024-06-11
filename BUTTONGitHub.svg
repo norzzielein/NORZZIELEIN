@@ -195,18 +195,10 @@
                 .button a img {
                     display: block;
                     position: absolute;
-                    background: #000000;
+                    background: #FFFFFF;
                     border-radius: 5px;
                     width: 30px;
                     height: 30px;
-                    filter: brightness(0) 
-                            saturate(100%) 
-                            invert(75%) 
-                            sepia(0%) 
-                            saturate(0%) 
-                            hue-rotate(0deg) 
-                            brightness(94%) 
-                            contrast(88%);
                     animation: Display 3s infinite;        
                 }
 
