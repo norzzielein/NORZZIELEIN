@@ -77,8 +77,16 @@
                     color: #B732FF;
                     z-index: 1;
                     backdrop-filter: blur(50px);
+                }
+
+
+                /* BUTTON ANCHOR STYLING */
+                .button a {
+                    text-decoration: none;
+                    color: #B732FF;
                     animation: Spacing 3s infinite;
                 }
+                
 
                 /* BUTTON TEXT SPACING ANIMATION */
                 .button a span {
