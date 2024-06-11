@@ -44,7 +44,7 @@
                     display: flex;
                     position: relative;
                     width: 98%;
-                    height: 100vh;
+                    height: 50vh;
                     justify-content: center;
                     align-items: center;
                 }
@@ -194,7 +194,7 @@
             </style>
             <div class = "container">
                 <div class = "button"> 
-                    <a href = "#"> 
+                    <a href = "https://github.com/norzzielein"> 
                         <span> GITHUB </span> 
                     </a>
                 </div>
