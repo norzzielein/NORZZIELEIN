@@ -195,7 +195,7 @@
                 .button a img {
                     display: block;
                     position: absolute;
-                    /*background: #000000;*/
+                    background: #000000;
                     border-radius: 5px;
                     width: 30px;
                     height: 30px;
@@ -213,7 +213,7 @@
                 <div class = "button"> 
                     <a href = "#"> 
                         <span> GITHUB </span> 
-                        <img src = "IMPORT FILES/LINKICONGitHub.png"/>
+                        <img src = "https://github.com/norzzielein/NORZZIELEIN/blob/Norie-Neil-Acosta/IMPORT%20FILES/LINKICONGitHub.png"/>
                     </a>
                 </div>
             </div>
