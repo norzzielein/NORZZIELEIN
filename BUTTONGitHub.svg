@@ -3,6 +3,11 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
 
+                svg {
+                height: auto;
+                width: 100%;
+                }                
+
                 /* APTOS BLACK FONT-FACE DECLARATION */
                 @font-face {
                     font-family: "AptosBlack";
