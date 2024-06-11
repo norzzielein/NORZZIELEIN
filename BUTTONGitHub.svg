@@ -195,7 +195,7 @@
                 .button a img {
                     display: block;
                     position: absolute;
-                    background: #000000;
+                    background: #FFFFFF;
                     border-radius: 5px;
                     width: 30px;
                     height: 30px;
