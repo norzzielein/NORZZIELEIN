@@ -1,12 +1,7 @@
-<svg xmlns = "http://www.w3.org/2000/svg" fill = "none" style = "width: 100%; height: 100%;">
+<svg xmlns = "http://www.w3.org/2000/svg" fill = "none" height = "auto">
     <foreignObject width = "100%" height = "100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-
-                svg {
-                height: auto;
-                width: 100%;
-                }                
+            <style>              
 
                 /* APTOS BLACK FONT-FACE DECLARATION */
                 @font-face {
