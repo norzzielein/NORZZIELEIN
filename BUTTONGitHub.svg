@@ -160,9 +160,9 @@
 
                 /* LIGHTDOWN ANIMATION KEYFRAME */
                 @keyframes LightDown {
-                    0% {bottom: -4px; height: 10px; width: 30px; border-radius: 10px;}
+                    0% {bottom: -10px; height: 10px; width: 30px; border-radius: 10px;}
                     50% {bottom: 0; height: 50%; width: 90%; border-radius: 10px;}
-                    100% {bottom: -4px; height: 10px; width: 30px; border-radius: 10px;}
+                    100% {bottom: -10px; height: 10px; width: 30px; border-radius: 10px;}
                 }
 
                 /* BUTTON LIGHTUP STYLING */
