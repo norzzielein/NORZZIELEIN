@@ -206,22 +206,17 @@
                             saturate(0%) 
                             hue-rotate(0deg) 
                             brightness(94%) 
-                            contrast(88%)
-                            invert(50%) 
-                            sepia(54%) 
-                            saturate(5856%) 
-                            hue-rotate(302deg) 
-                            brightness(101%) 
-                            contrast(94%);
+                            contrast(88%);
                     animation: Display 3s infinite;        
                 }
 
                 /* DISPLAY ANIMATION KEYFRAME */
                 @keyframes Display {
-                    0%, 100% {opacity: 1;}
+                    0% {opacity: 1;}
                     50% {opacity: 0;}
+                    100% {opacity: 1;}
                 }
-
+                
             </style>
             <div class = "container">
                 <div class = "button"> 
