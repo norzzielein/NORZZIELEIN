@@ -165,9 +165,9 @@
                 /* IMAGE ANIMATION */
                 .button img {
                     position: absolute;
-                    width: 20px; /* Adjust size as needed */
-                    height: 20px; /* Adjust size as needed */
-                    border-radius: 8px;
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 7px;
                     background: #B732FF;
                     z-index: 2;
                     opacity: 0;
@@ -175,9 +175,9 @@
                 }
 
                 @keyframes ImageAppear {
-                    0% { opacity: 0; transform: scale(0.8); }
-                    50% { opacity: 1; transform: scale(1); }
-                    100% { opacity: 0; transform: scale(0.8); }
+                    0% { opacity: 1; transform: scale(0.8); }
+                    50% { opacity: 0; transform: scale(1); }
+                    100% { opacity: 1; transform: scale(0.8); }
                 }
 
             </style>
