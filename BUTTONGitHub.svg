@@ -165,8 +165,8 @@
                 /* BUTTON ICON DISPLAY STYLING */
                 .button img {
                     position: absolute;
-                    width: 35px;
-                    height: 35px;
+                    width: 33px;
+                    height: 33px;
                     border-radius: 7px;
                     background: #B732FF;
                     z-index: 2;
