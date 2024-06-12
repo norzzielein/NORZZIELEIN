@@ -151,10 +151,6 @@
                     transition: 0.5s;
                     transition-delay: 0.5s;
                     background: #B732FF;
-                    box-shadow: 0 0 1px #B732FF, 
-                                0 0 2px #B732FF, 
-                                0 0 4px #B732FF,
-                                0 0 8px #B732FF;
                     animation: LightDown 3s infinite;
                 }
 
