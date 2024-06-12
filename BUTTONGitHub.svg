@@ -165,31 +165,7 @@
                     100% {bottom: -1px; height: 30px; width: 30px; border-radius: 10px;}
                 }
 
-                /* BUTTON LIGHTUP STYLING */
-                .container .button::after {
-                    content: "";
-                    position: absolute;
-                    left: 50%;
-                    transform: translateX(-50%);
-                    width: 30px;
-                    height: 20px;
-                    border-radius: 10px;
-                    transition: 0.5s;
-                    transition-delay: 0.5s;
-                    background: #B732FF;
-                    box-shadow: 0 0 1px #B732FF, 
-                                0 0 2px #B732FF, 
-                                0 0 4px #B732FF,
-                                0 0 8px #B732FF;
-                    animation: LightUp 3s infinite;
-                }
 
-                /* LIGHTUP ANIMATION KEYFRAME */
-                @keyframes LightUp {
-                    0% {top: -1px; height: 10px; width: 30px; border-radius: 10px;}
-                    50% {top: 0; height: 50%; width: 90%; border-radius: 10px;}
-                    100% {top: -1px; height: 10px; width: 30px; border-radius: 10px;}
-                }
                 
             </style>
             <div class = "container">
