@@ -144,6 +144,8 @@
                     content: "";
                     position: absolute;
                     left: 50%;
+                    top: -1px;
+                    bottom: -1px;
                     transform: translateX(-50%);
                     transition: 0.5s;
                     transition-delay: 0.5s;
