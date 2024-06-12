@@ -145,9 +145,6 @@
                     position: absolute;
                     left: 50%;
                     transform: translateX(-50%);
-                    width: 30px;
-                    height: 30px;
-                    border-radius: 7px;
                     transition: 0.5s;
                     transition-delay: 0.5s;
                     background: #B732FF;
@@ -156,9 +153,9 @@
 
                 /* LIGHTDOWN ANIMATION KEYFRAME */
                 @keyframes LightDown {
-                    0% {height: 30px; width: 30px; border-radius: 7px;}
-                    50% {height: 30px; width: 90%; border-radius: 7px;}
-                    100% {height: 30px; width: 30px; border-radius: 7px;}
+                    0% {height: 30px; width: 30px; border-radius: 5px;}
+                    50% {height: 30px; width: 90%; border-radius: 5px;}
+                    100% {height: 30px; width: 30px; border-radius: 5px;}
                 }
 
 
