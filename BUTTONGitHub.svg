@@ -68,21 +68,11 @@
 
                 /* SHRINK ANIMATION KEYFRAMES */
                 @keyframes Shrink {
-                    0% {
-                        width: 135px;
-                        height: 30px;
-                        border-radius: 8px;
-                    }
-                    50% {
-                        width: 82.5px; /* Intermediate size for a smoother transition */
-                        height: 30px;
-                        border-radius: 8px;
-                    }
-                    100% {
-                        width: 30px;
-                        height: 30px;
-                        border-radius: 8px;
-                    }
+                    0% {width: 30px;}
+                    25% {width: 80px;}
+                    50% {width: 135px;}
+                    75% {width: 80px;}
+                    100% {width: 30px;}
                 }                
 
                 /* BUTTON ANCHOR STYLING */
