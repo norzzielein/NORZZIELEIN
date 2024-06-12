@@ -171,6 +171,7 @@
                     background: #B732FF;
                     z-index: 2;
                     opacity: 0;
+                    asnimation-delay: 3s;
                     animation: Display 3s infinite ease-out;
                 }
 
