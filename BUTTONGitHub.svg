@@ -79,7 +79,7 @@
                     color: #B732FF;
                     z-index: 1;
                     backdrop-filter: blur(50px);
-                    animation: Spacing 3s infinite;
+                    /*animation: Spacing 3s infinite;*/
                 }
 
                 /* BUTTON TEXT SPACING ANIMATION */
