@@ -171,7 +171,7 @@
                     background: #B732FF;
                     z-index: 2;
                     opacity: 0;
-                    animation: Display 3s infinite;
+                    animation: Display 3s infinite ease-out;
                 }
 
                 /* DISPLAY ANIMATION KEYFRAME */
