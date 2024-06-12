@@ -144,6 +144,7 @@
                     content: "";
                     position: absolute;
                     left: 50%;
+                    height: 30px;
                     transform: translateX(-50%);
                     transition: 0.5s;
                     transition-delay: 0.5s;
@@ -153,9 +154,9 @@
 
                 /* LIGHT ANIMATION KEYFRAME */
                 @keyframes Light {
-                    0% {height: 30px; width: 30px; border-radius: 7px;}
-                    50% {height: 30px; width: 90%; border-radius: 7px;}
-                    100% {height: 30px; width: 30px; border-radius: 7px;}
+                    0% {width: 30px; border-radius: 7px;}
+                    50% {width: 90%; border-radius: 7px;}
+                    100% {width: 30px; border-radius: 7px;}
                 }
 
             </style>
