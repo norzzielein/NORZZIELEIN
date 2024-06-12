@@ -146,7 +146,7 @@
                     content: "";
                     position: absolute;
                     left: 50%;
-                    height: 30px;
+                    height: 29px;
                     transform: translateX(-50%);
                     transition: 0.5s;
                     transition-delay: 0.5s;
