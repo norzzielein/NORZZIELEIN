@@ -63,17 +63,7 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    animation: Shrink 3s infinite;
-                }
-
-                /* SHRINK ANIMATION KEYFRAMES */
-                @keyframes Shrink {
-                    0% {width: 30px;}
-                    25% {width: 80px;}
-                    50% {width: 135px;}
-                    75% {width: 80px;}
-                    100% {width: 30px;}
-                }                
+                }   
 
                 /* BUTTON ANCHOR STYLING */
                 .button a {
