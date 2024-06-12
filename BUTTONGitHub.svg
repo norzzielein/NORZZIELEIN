@@ -171,13 +171,12 @@
                     background: #B732FF;
                     z-index: 2;
                     opacity: 0;
-                    animation-delay: 3s;
                     animation: Display 3s infinite ease-out;
                 }
 
                 /* DISPLAY ANIMATION KEYFRAME */
                 @keyframes Display {
-                    0% {opacity: 1; transform: scale(1);}
+                    0% {opacity: 0; transform: scale(1);}
                     50% {opacity: 0; transform: scale(0.8);}
                     100% {opacity: 1; transform: scale(1);}
                 }
