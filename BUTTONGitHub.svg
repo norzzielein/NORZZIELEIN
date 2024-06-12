@@ -147,7 +147,7 @@
                     transform: translateX(-50%);
                     width: 30px;
                     height: 30px;
-                    border-radius: 10px;
+                    border-radius: 7px;
                     transition: 0.5s;
                     transition-delay: 0.5s;
                     background: #B732FF;
@@ -156,9 +156,9 @@
 
                 /* LIGHTDOWN ANIMATION KEYFRAME */
                 @keyframes LightDown {
-                    0% {bottom: -1px; height: 30px; width: 30px; border-radius: 7px;}
-                    50% {bottom: -1px; height: 30px; width: 90%; border-radius: 7px;}
-                    100% {bottom: -1px; height: 30px; width: 30px; border-radius: 7px;}
+                    0% {height: 30px; width: 30px; border-radius: 7px;}
+                    50% {height: 30px; width: 90%; border-radius: 7px;}
+                    100% {height: 30px; width: 30px; border-radius: 7px;}
                 }
 
 
