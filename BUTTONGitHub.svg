@@ -62,8 +62,28 @@
                     margin: 0;
                     display: flex;
                     justify-content: center;
-                    align-items: center; 
+                    align-items: center;
+                    animation: Shrink 3s infinite;
                 }
+
+                /* SHRINK ANIMATION KEYFRAMES */
+                @keyframes Shrink {
+                    0% {
+                        width: 135px;
+                        height: 30px;
+                        border-radius: 8px;
+                    }
+                    50% {
+                        width: 82.5px; /* Intermediate size for a smoother transition */
+                        height: 30px;
+                        border-radius: 8px;
+                    }
+                    100% {
+                        width: 30px;
+                        height: 30px;
+                        border-radius: 8px;
+                    }
+                }                
 
                 /* BUTTON ANCHOR STYLING */
                 .button a {
