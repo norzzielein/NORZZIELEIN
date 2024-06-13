@@ -89,11 +89,11 @@
 
                 /* SPACING ANIMATION KEYFRAME */
                 @keyframes Spacing {
-                    0% {letter-spacing: normal; opacity: 0}
-                    10% {letter-spacing: normal; color: #B732FF; opacity: 0}
-                    50% {letter-spacing: 1px; color: #B732FF; opacity: 1}
-                    90% {letter-spacing: normal; color: #B732FF; opacity: 0}
-                    100% {letter-spacing: normal; opacity: 0}
+                    0% {letter-spacing: normal; opacity: 0; animation-play-state: paused;}
+                    10% {letter-spacing: normal; color: #B732FF; opacity: 0; animation-play-state: running;}
+                    50% {letter-spacing: 1px; color: #B732FF; opacity: 1; animation-play-state: paused;}
+                    90% {letter-spacing: normal; color: #B732FF; opacity: 0; animation-play-state: running;}
+                    100% {letter-spacing: normal; opacity: 0; animation-play-state: paused;}
                 }
 
                 /* BUTTON RIGHT GRADIENT STYLING */
