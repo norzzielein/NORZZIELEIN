@@ -11,14 +11,6 @@
                     font-style: normal;
                 }
 
-                /* INTER BOLD FONT-FACE DECLARATION */
-                @font-face {
-                    font-family: "InterBold";
-                    src: url("IMPORT FILES/FONTInterBold.ttf") format("truetype");
-                    font-weight: normal;
-                    font-style: normal;
-                }
-
                 /* BUTTON UNIVERSAL STYLING */
                 * {
                     margin: 0;
@@ -42,7 +34,7 @@
                 /* BUTTON CONTAINER STYLING */
                 .container {
                     display: flex;
-                    position: relative;
+                    position: absolute;
                     width: 98%;
                     height: 100%;
                     justify-content: center;
@@ -74,11 +66,10 @@
                     justify-content: center;
                     align-items: center;
                     background: #101010;
-                    border-radius: 6px;
+                    border-radius: 5px;
                     text-decoration: none;
                     color: #B732FF;
                     z-index: 1;
-                    backdrop-filter: blur(50px);
                 }
 
                 /* BUTTON TEXT SPACING ANIMATION */
@@ -111,8 +102,7 @@
                     width: 50%;
                     height: 100%;
                     border-radius: 5px;
-                    background: linear-gradient(to left, #B732FF26, transparent);
-                    filter: blur(0px);
+                    background: linear-gradient(to left, #B732FF4D, transparent);
                     animation: RightGradient 5s infinite linear;
                 }
 
@@ -123,11 +113,11 @@
                     20.00% {transform: translateX(100.0%);}
                     30.00% {transform: translateX(100.0%);}
                     40.00% {transform: translateX(100.0%);}
-                    50.00% {transform: translateX(30.00%);}
-                    60.00% {transform: translateX(30.00%);}
-                    70.00% {transform: translateX(30.00%);}
-                    80.00% {transform: translateX(30.00%);}
-                    90.00% {transform: translateX(30.00%);}
+                    50.00% {transform: translateX(35.00%);}
+                    60.00% {transform: translateX(35.00%);}
+                    70.00% {transform: translateX(35.00%);}
+                    80.00% {transform: translateX(35.00%);}
+                    90.00% {transform: translateX(35.00%);}
                     100.0% {transform: translateX(100.0%);}
                 }
 
@@ -140,9 +130,8 @@
                     width: 50%;
                     height: 100%;
                     border-radius: 5px;
-                    background: linear-gradient(to right, #B732FF26, transparent);
+                    background: linear-gradient(to right, #B732FF4D, transparent);
                     transform: translateX(100%);
-                    filter: blur(0px);
                     animation: LeftGradient 5s infinite linear;
                 }
 
@@ -153,49 +142,75 @@
                     20.00% {transform: translateX(00.00%);}
                     30.00% {transform: translateX(00.00%);}
                     40.00% {transform: translateX(00.00%);}
-                    50.00% {transform: translateX(70.00%);}
-                    60.00% {transform: translateX(70.00%);}
-                    70.00% {transform: translateX(70.00%);}
-                    80.00% {transform: translateX(70.00%);}
-                    90.00% {transform: translateX(70.00%);}
+                    50.00% {transform: translateX(65.00%);}
+                    60.00% {transform: translateX(65.00%);}
+                    70.00% {transform: translateX(65.00%);}
+                    80.00% {transform: translateX(65.00%);}
+                    90.00% {transform: translateX(65.00%);}
                     100.0% {transform: translateX(00.00%);}
                 }
 
-                /* BUTTON LIGHT STYLING */
+                /* BUTTON LIGHTUP STYLING */
                 .container .button::before {
                     content: "";
                     position: absolute;
                     left: 50%;
-                    height: 29px;
-                    bottom: -1px; 
-                    border-radius: 7px;
+                    top: -12%;
+                    height: 2.5px;
+                    border-radius: 4px;
                     transform: translateX(-50%);
-                    transition: 0.5s;
-                    transition-delay: 0.5s;
                     background: #B732FF;
-                    animation: Light 5s infinite linear;
+                    animation: LightUp 5s infinite linear;
                 }
 
-                /* LIGHT ANIMATION KEYFRAME */
-                @keyframes Light {
+                /* LIGHTUP ANIMATION KEYFRAME */
+                @keyframes LightUp {
                     00.00% {width: 90%;}
                     10.00% {width: 90%;}
                     20.00% {width: 90%;}
                     30.00% {width: 90%;}
                     40.00% {width: 90%;}
-                    50.00% {width: 30px;}
-                    60.00% {width: 30px;}
-                    70.00% {width: 30px;}
-                    80.00% {width: 30px;}
-                    90.00% {width: 30px;}
+                    50.00% {width: 20%;}
+                    60.00% {width: 20%;}
+                    70.00% {width: 20%;}
+                    80.00% {width: 20%;}
+                    90.00% {width: 20%;}
+                    100.0% {width: 90%;}
+                }
+
+                /* BUTTON LIGHTDOWN STYLING */
+                .container .button::after {
+                    content: "";
+                    position: absolute;
+                    left: 50%;
+                    bottom: -12%;
+                    height: 2.5px;
+                    border-radius: 4px;
+                    transform: translateX(-50%);
+                    background: #B732FF;
+                    animation: LightDown 5s infinite linear;
+                }
+
+                /* LIGHTDOWN ANIMATION KEYFRAME */
+                @keyframes LightDown {
+                    00.00% {width: 90%;}
+                    10.00% {width: 90%;}
+                    20.00% {width: 90%;}
+                    30.00% {width: 90%;}
+                    40.00% {width: 90%;}
+                    50.00% {width: 20%;}
+                    60.00% {width: 20%;}
+                    70.00% {width: 20%;}
+                    80.00% {width: 20%;}
+                    90.00% {width: 20%;}
                     100.0% {width: 90%;}
                 }
 
                 /* BUTTON ICON DISPLAY STYLING */
                 .button img {
                     position: absolute;
-                    width: 30px;
-                    height: 30px;
+                    width: 31px;
+                    height: 31px;
                     border-radius: 7px;
                     background: #B732FF;
                     z-index: 2;
@@ -210,11 +225,11 @@
                     20.00% {opacity: 0; transform: scale(0.00);}
                     30.00% {opacity: 0; transform: scale(0.00);}
                     40.00% {opacity: 0; transform: scale(0.00);}
-                    50.00% {opacity: 1; transform: scale(0.90);}
-                    60.00% {opacity: 1; transform: scale(0.95);}
+                    50.00% {opacity: 1; transform: scale(1.00);}
+                    60.00% {opacity: 1; transform: scale(1.00);}
                     70.00% {opacity: 1; transform: scale(1.00);}
-                    80.00% {opacity: 1; transform: scale(0.95);}
-                    90.00% {opacity: 1; transform: scale(0.90);}
+                    80.00% {opacity: 1; transform: scale(1.00);}
+                    90.00% {opacity: 1; transform: scale(1.00);}
                     100.0% {opacity: 0; transform: scale(0.00);}
                 }
 
