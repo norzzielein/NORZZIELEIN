@@ -102,7 +102,7 @@
                     width: 50%;
                     height: 100%;
                     border-radius: 5px;
-                    background: linear-gradient(to left, #B732FF4D, transparent);
+                    background: linear-gradient(to left, #B732FF33, transparent);
                     animation: RightGradient 5s infinite linear;
                 }
 
@@ -130,7 +130,7 @@
                     width: 50%;
                     height: 100%;
                     border-radius: 5px;
-                    background: linear-gradient(to right, #B732FF4D, transparent);
+                    background: linear-gradient(to right, #B732FF33, transparent);
                     transform: translateX(100%);
                     animation: LeftGradient 5s infinite linear;
                 }
