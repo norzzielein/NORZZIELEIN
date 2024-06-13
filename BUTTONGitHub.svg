@@ -90,9 +90,9 @@
                 /* SPACING ANIMATION KEYFRAME */
                 @keyframes Spacing {
                     0% {letter-spacing: normal; opacity: 0;}
-                    25% {letter-spacing: normal; color: #B732FF; opacity: 0;}
+                    10% {letter-spacing: normal; color: #B732FF; opacity: 0;}
                     50% {letter-spacing: 1px; color: #B732FF; opacity: 1;}
-                    75% {letter-spacing: normal; color: #B732FF; opacity: 0;}
+                    90% {letter-spacing: normal; color: #B732FF; opacity: 0;}
                     100% {letter-spacing: normal; opacity: 0;}
                 }
 
