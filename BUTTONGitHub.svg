@@ -84,16 +84,17 @@
                 /* BUTTON TEXT SPACING ANIMATION */
                 .button a span {
                     z-index: 0;
-                    animation: Spacing 3s infinite;
+                    animation: Spacing 3s infinite linear;
                 }
 
-                /* SPACING ANIMATION KEYFRAME */
                 @keyframes Spacing {
-                    0% {letter-spacing: normal; opacity: 0}
-                    10% {letter-spacing: normal; color: #B732FF; opacity: 0}
-                    50% {letter-spacing: 1px; color: #B732FF; opacity: 1}
-                    90% {letter-spacing: normal; color: #B732FF; opacity: 0}
-                    100% {letter-spacing: normal; opacity: 0}
+                    0% { letter-spacing: normal; opacity: 0; }
+                    16.67% { letter-spacing: normal; opacity: 0; }
+                    33.33% { letter-spacing: 1px; color: #B732FF; opacity: 1; }
+                    50% { letter-spacing: 1px; color: #B732FF; opacity: 1; }
+                    66.67% { letter-spacing: 1px; color: #B732FF; opacity: 1; }
+                    83.33% { letter-spacing: normal; color: #B732FF; opacity: 0; }
+                    100% { letter-spacing: normal; opacity: 0; }
                 }
 
                 /* BUTTON RIGHT GRADIENT STYLING */
