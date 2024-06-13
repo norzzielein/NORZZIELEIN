@@ -84,16 +84,22 @@
                 /* BUTTON TEXT SPACING ANIMATION */
                 .button a span {
                     z-index: 0;
-                    animation: Spacing 3s infinite;
+                    animation: Spacing 5s infinite linear;
                 }
 
                 /* SPACING ANIMATION KEYFRAME */
                 @keyframes Spacing {
-                    0% {letter-spacing: normal; opacity: 0;}
-                    10% {letter-spacing: normal; color: #B732FF; opacity: 0;}
-                    50% {letter-spacing: 1px; color: #B732FF; opacity: 1;}
-                    90% {letter-spacing: normal; color: #B732FF; opacity: 0;}
-                    100% {letter-spacing: normal; opacity: 0;}
+                    00.00% {opacity: 0.95;}
+                    10.00% {opacity: 1.00;}
+                    20.00% {opacity: 1.00;}
+                    30.00% {opacity: 0.95;}
+                    40.00% {opacity: 0.90;}
+                    50.00% {opacity: 0.00;}
+                    60.00% {opacity: 0.00;}
+                    70.00% {opacity: 0.00;}
+                    80.00% {opacity: 0.00;}
+                    90.00% {opacity: 0.00;}
+                    100.0% {opacity: 0.90;}
                 }
 
                 /* BUTTON RIGHT GRADIENT STYLING */
@@ -106,16 +112,23 @@
                     height: 100%;
                     border-radius: 5px;
                     background: linear-gradient(to left, #B732FF26, transparent);
-                    transform: skewX(0deg) translateX(-100%);
                     filter: blur(0px);
-                    animation: RightGradient 3s infinite;
+                    animation: RightGradient 5s infinite linear;
                 }
 
                 /* RIGHT GRADIENT ANIMATION KEYFRAME */
                 @keyframes RightGradient {
-                    0% {transform: skewX(0deg) translateX(30%);}
-                    50% {transform: skewX(0deg) translateX(100%);}
-                    100% {transform: skewX(0deg) translateX(30%);}
+                    00.00% {transform: translateX(100.0%);}
+                    10.00% {transform: translateX(100.0%);}
+                    20.00% {transform: translateX(100.0%);}
+                    30.00% {transform: translateX(100.0%);}
+                    40.00% {transform: translateX(100.0%);}
+                    50.00% {transform: translateX(30.00%);}
+                    60.00% {transform: translateX(30.00%);}
+                    70.00% {transform: translateX(30.00%);}
+                    80.00% {transform: translateX(30.00%);}
+                    90.00% {transform: translateX(30.00%);}
+                    100.0% {transform: translateX(100.0%);}
                 }
 
                 /* BUTTON LEFT GRADIENT STYLING */
@@ -128,16 +141,24 @@
                     height: 100%;
                     border-radius: 5px;
                     background: linear-gradient(to right, #B732FF26, transparent);
-                    transform: skewX(0deg) translateX(100%);
+                    transform: translateX(100%);
                     filter: blur(0px);
-                    animation: LeftGradient 3s infinite;
+                    animation: LeftGradient 5s infinite linear;
                 }
 
                 /* LEFT GRADIENT ANIMATION KEYFRAME */
                 @keyframes LeftGradient {
-                    0% {transform: skewX(0deg) translateX(70%);}
-                    50% {transform: skewX(0deg) translateX(0%);}
-                    100% {transform: skewX(0deg) translateX(70%);}
+                    00.00% {transform: translateX(00.00%);}
+                    10.00% {transform: translateX(00.00%);}
+                    20.00% {transform: translateX(00.00%);}
+                    30.00% {transform: translateX(00.00%);}
+                    40.00% {transform: translateX(00.00%);}
+                    50.00% {transform: translateX(70.00%);}
+                    60.00% {transform: translateX(70.00%);}
+                    70.00% {transform: translateX(70.00%);}
+                    80.00% {transform: translateX(70.00%);}
+                    90.00% {transform: translateX(70.00%);}
+                    100.0% {transform: translateX(00.00%);}
                 }
 
                 /* BUTTON LIGHT STYLING */
@@ -152,35 +173,49 @@
                     transition: 0.5s;
                     transition-delay: 0.5s;
                     background: #B732FF;
-                    animation: Light 3s infinite;
+                    animation: Light 5s infinite linear;
                 }
 
                 /* LIGHT ANIMATION KEYFRAME */
                 @keyframes Light {
-                    0% {width: 30px;}
-                    50% {width: 90%;}
-                    100% {width: 30px;}
+                    00.00% {width: 90%;}
+                    10.00% {width: 90%;}
+                    20.00% {width: 90%;}
+                    30.00% {width: 90%;}
+                    40.00% {width: 90%;}
+                    50.00% {width: 30px;}
+                    60.00% {width: 30px;}
+                    70.00% {width: 30px;}
+                    80.00% {width: 30px;}
+                    90.00% {width: 30px;}
+                    100.0% {width: 90%;}
                 }
 
                 /* BUTTON ICON DISPLAY STYLING */
                 .button img {
                     position: absolute;
-                    width: 31px;
-                    height: 31px;
+                    width: 30px;
+                    height: 30px;
                     border-radius: 7px;
                     background: #B732FF;
                     z-index: 2;
                     opacity: 0;
-                    animation: Display 3s infinite;
+                    animation: Display 5s infinite linear;
                 }
 
                 /* DISPLAY ANIMATION KEYFRAME */
                 @keyframes Display {
-                    0% {opacity: 1; transform: scale(1);}
-                    5% {opacity: 1; transform: scale(0.9);}
-                    50% {opacity: 0; transform: scale(0.8);}
-                    95% {opacity: 1; transform: scale(0.9);}
-                    100% {opacity: 1; transform: scale(1);}
+                    00.00% {opacity: 0; transform: scale(0.00);}
+                    10.00% {opacity: 0; transform: scale(0.00);}
+                    20.00% {opacity: 0; transform: scale(0.00);}
+                    30.00% {opacity: 0; transform: scale(0.00);}
+                    40.00% {opacity: 0; transform: scale(0.00);}
+                    50.00% {opacity: 1; transform: scale(0.90);}
+                    60.00% {opacity: 1; transform: scale(0.95);}
+                    70.00% {opacity: 1; transform: scale(1.00);}
+                    80.00% {opacity: 1; transform: scale(0.95);}
+                    90.00% {opacity: 1; transform: scale(0.90);}
+                    100.0% {opacity: 0; transform: scale(0.00);}
                 }
 
             </style>
