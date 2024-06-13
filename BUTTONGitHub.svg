@@ -193,17 +193,17 @@
 
                 /* LIGHTDOWN ANIMATION KEYFRAME */
                 @keyframes LightDown {
-                    00.00% {width: 90%;}
-                    10.00% {width: 90%;}
-                    20.00% {width: 90%;}
-                    30.00% {width: 90%;}
-                    40.00% {width: 90%;}
+                    00.00% {width: 80%;}
+                    10.00% {width: 80%;}
+                    20.00% {width: 80%;}
+                    30.00% {width: 80%;}
+                    40.00% {width: 80%;}
                     50.00% {width: 20%;}
                     60.00% {width: 20%;}
                     70.00% {width: 20%;}
                     80.00% {width: 20%;}
                     90.00% {width: 20%;}
-                    100.0% {width: 90%;}
+                    100.0% {width: 80%;}
                 }
 
                 /* BUTTON ICON DISPLAY STYLING */
