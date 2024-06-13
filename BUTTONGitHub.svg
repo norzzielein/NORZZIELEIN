@@ -84,7 +84,7 @@
                 /* BUTTON TEXT SPACING ANIMATION */
                 .button a span {
                     z-index: 0;
-                    animation: Spacing 5s steps(4, end) infinite;
+                    animation: Spacing 3s infinite;
                 }
 
                 /* SPACING ANIMATION KEYFRAME */
@@ -108,7 +108,7 @@
                     background: linear-gradient(to left, #B732FF26, transparent);
                     transform: skewX(0deg) translateX(-100%);
                     filter: blur(0px);
-                    animation: RightGradient 5s steps(4, end) infinite;
+                    animation: RightGradient 3s infinite;
                 }
 
                 /* RIGHT GRADIENT ANIMATION KEYFRAME */
@@ -130,7 +130,7 @@
                     background: linear-gradient(to right, #B732FF26, transparent);
                     transform: skewX(0deg) translateX(100%);
                     filter: blur(0px);
-                    animation: LeftGradient 5s steps(4, end) infinite;
+                    animation: LeftGradient 3s infinite;
                 }
 
                 /* LEFT GRADIENT ANIMATION KEYFRAME */
