@@ -238,7 +238,7 @@
                     width: 20px !important;
                     height: 20px !important;
                     border-radius: 5px !important;
-                    background: #7E00D6 !important;
+                    background: #B732FF !important;
                     opacity: 0.5 !important;
                     left: 27px;
                     animation: LeftDisplay 5s infinite linear !important;
@@ -264,7 +264,7 @@
                     width: 20px !important;
                     height: 20px !important;
                     border-radius: 5px !important;
-                    background: #7E00D6 !important;
+                    background: #B732FF !important;
                     opacity: 0.5 !important;
                     right: 27px;
                     animation: RightDisplay 5s infinite linear !important;
@@ -290,7 +290,7 @@
                     width: 15px !important;
                     height: 15px !important;
                     border-radius: 3px !important;
-                    background: #DB98FF !important;
+                    background: #B732FF !important;
                     z-index: 1 !important;
                     opacity: 0.2 !important;
                     left: 11px;
@@ -317,7 +317,7 @@
                     width: 15px !important;
                     height: 15px !important;
                     border-radius: 3px !important;
-                    background: #DB98FF !important;
+                    background: #B732FF !important;
                     z-index: 1 !important;
                     opacity: 0.2 !important;
                     right: 11px;
