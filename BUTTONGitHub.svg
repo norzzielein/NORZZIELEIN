@@ -34,7 +34,7 @@
                 /* BUTTON CONTAINER STYLING */
                 .container {
                     display: flex;
-                    position: absolute;
+                    position: relative;
                     width: 98%;
                     height: 100%;
                     justify-content: center;
