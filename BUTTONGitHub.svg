@@ -159,23 +159,22 @@
                     height: 2.5px;
                     border-radius: 4px;
                     transform: translateX(-50%);
-                    background: #DB98FF;
                     animation: LightUp 5s infinite linear;
                 }
 
                 /* LIGHTUP ANIMATION KEYFRAME */
                 @keyframes LightUp {
-                    00.00% {width: 90%;}
-                    10.00% {width: 90%;}
-                    20.00% {width: 90%;}
-                    30.00% {width: 90%;}
-                    40.00% {width: 90%;}
-                    50.00% {width: 15%;}
-                    60.00% {width: 15%;}
-                    70.00% {width: 15%;}
-                    80.00% {width: 15%;}
-                    90.00% {width: 15%;}
-                    100.0% {width: 90%;}
+                    00.00% {width: 90%; background: #DB98FF;}
+                    10.00% {width: 90%; background: #DB98FF;}
+                    20.00% {width: 90%; background: #DB98FF;}
+                    30.00% {width: 90%; background: #DB98FF;}
+                    40.00% {width: 90%; background: #DB98FF;}
+                    50.00% {width: 15%; background: #B732FF;}
+                    60.00% {width: 15%; background: #B732FF;}
+                    70.00% {width: 15%; background: #B732FF;}
+                    80.00% {width: 15%; background: #B732FF;}
+                    90.00% {width: 15%; background: #B732FF;}
+                    100.0% {width: 90%; background: #DB98FF;}
                 }
 
                 /* BUTTON LIGHTDOWN STYLING */
@@ -187,23 +186,22 @@
                     height: 2.5px;
                     border-radius: 4px;
                     transform: translateX(-50%);
-                    background: #DB98FF;
                     animation: LightDown 5s infinite linear;
                 }
 
                 /* LIGHTDOWN ANIMATION KEYFRAME */
                 @keyframes LightDown {
-                    00.00% {width: 80%;}
-                    10.00% {width: 80%;}
-                    20.00% {width: 80%;}
-                    30.00% {width: 80%;}
-                    40.00% {width: 80%;}
-                    50.00% {width: 15%;}
-                    60.00% {width: 15%;}
-                    70.00% {width: 15%;}
-                    80.00% {width: 15%;}
-                    90.00% {width: 15%;}
-                    100.0% {width: 80%;}
+                    00.00% {width: 80%; background: #DB98FF;}
+                    10.00% {width: 80%; background: #DB98FF;}
+                    20.00% {width: 80%; background: #DB98FF;}
+                    30.00% {width: 80%; background: #DB98FF;}
+                    40.00% {width: 80%; background: #DB98FF;}
+                    50.00% {width: 15%; background: #B732FF;}
+                    60.00% {width: 15%; background: #B732FF;}
+                    70.00% {width: 15%; background: #B732FF;}
+                    80.00% {width: 15%; background: #B732FF;}
+                    90.00% {width: 15%; background: #B732FF;}
+                    100.0% {width: 80%; background: #DB98FF;}
                 }
 
                 /* BUTTON CENTER ICON DISPLAY STYLING */
@@ -239,7 +237,7 @@
                     height: 20px !important;
                     border-radius: 5px !important;
                     background: #B732FF !important;
-                    opacity: 0.5 !important;
+                    opacity: 0.3 !important;
                     left: 27px;
                     animation: LeftDisplay 5s infinite linear !important;
                 }
@@ -265,7 +263,7 @@
                     height: 20px !important;
                     border-radius: 5px !important;
                     background: #B732FF !important;
-                    opacity: 0.5 !important;
+                    opacity: 0.3 !important;
                     right: 27px;
                     animation: RightDisplay 5s infinite linear !important;
                 }
