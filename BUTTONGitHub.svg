@@ -79,7 +79,7 @@
                 .UpperRightCorner::after {
                     border-left: 3px solid #DB98FF;
                     top: -3px;
-                    right: 9px;
+                    right: 8px;
                 }   
 
                 /* BUTTON BOTTOM-RIGHT CORNER STYLING */
@@ -105,7 +105,7 @@
                 .BottomRightCorner::after {
                     border-left: 3px solid #DB98FF;
                     bottom: -3px;
-                    right: 9px;
+                    right: 8px;
                 }  
 
                 /* BUTTON UPPER-LEFT CORNER STYLING */
@@ -131,7 +131,7 @@
                 .UpperLeftCorner::after {
                     border-right: 3px solid #DB98FF;
                     top: -3px;
-                    left: 9px;
+                    left: 8px;
                 }   
 
                 /* BUTTON BOTTOM-LEFT CORNER STYLING */
@@ -157,7 +157,7 @@
                 .BottomLeftCorner::after {
                     border-right: 3px solid #DB98FF;
                     bottom: -3px;
-                    left: 9px;
+                    left: 8px;
                 } 
 
                 /* APPEAR ANIMATION KEYFRAME */
