@@ -63,8 +63,8 @@
                     width: 9px;
                     height: 9px;
                     border-radius: 0px 7.5px 0px 0px;
-                    border-top: 3px solid #7E00D6;
-                    border-right: 3px solid #7E00D6;
+                    border-top: 3px solid #DB98FF;
+                    border-right: 3px solid #DB98FF;
                     top: 0px;
                     right: 0px;
                     background-color: transparent;
@@ -72,12 +72,12 @@
                     animation: Appear 5s infinite linear;
                 }
                 .UpperRightCorner::before {
-                    border-bottom: 3px solid #7E00D6;
+                    border-bottom: 3px solid #DB98FF;
                     top: 1px;
                     right: -3px;
                 }
                 .UpperRightCorner::after {
-                    border-left: 3px solid #7E00D6;
+                    border-left: 3px solid #DB98FF;
                     top: -3px;
                     right: 1px;
                 }   
@@ -89,8 +89,8 @@
                     width: 9px;
                     height: 9px;
                     border-radius: 0px 0px 7.5px 0px;
-                    border-bottom: 3px solid #7E00D6;
-                    border-right: 3px solid #7E00D6;
+                    border-bottom: 3px solid #DB98FF;
+                    border-right: 3px solid #DB98FF;
                     bottom: 0px;
                     right: 0px;
                     background-color: transparent;
@@ -98,12 +98,12 @@
                     animation: Appear 5s infinite linear;
                 }
                 .BottomRightCorner::before {
-                    border-top: 3px solid #7E00D6;
+                    border-top: 3px solid #DB98FF;
                     bottom: 1px;
                     right: -3px;
                 }
                 .BottomRightCorner::after {
-                    border-left: 3px solid #7E00D6;
+                    border-left: 3px solid #DB98FF;
                     bottom: -3px;
                     right: 1px;
                 }  
@@ -115,8 +115,8 @@
                     width: 9px;
                     height: 9px;
                     border-radius: 7.5px 0px 0px 0px;
-                    border-top: 3px solid #7E00D6;
-                    border-left: 3px solid #7E00D6;
+                    border-top: 3px solid #DB98FF;
+                    border-left: 3px solid #DB98FF;
                     top: 0px;
                     left: 0px;
                     background-color: transparent;
@@ -124,12 +124,12 @@
                     animation: Appear 5s infinite linear;
                 }
                 .UpperLeftCorner::before {
-                    border-bottom: 3px solid #7E00D6;
+                    border-bottom: 3px solid #DB98FF;
                     top: 1px;
                     left: -3px;
                 }
                 .UpperLeftCorner::after {
-                    border-right: 3px solid #7E00D6;
+                    border-right: 3px solid #DB98FF;
                     top: -3px;
                     left: 1px;
                 }   
@@ -141,8 +141,8 @@
                     width: 9px;
                     height: 9px;
                     border-radius: 0px 0px 0px 7.5px;
-                    border-bottom: 3px solid #7E00D6;
-                    border-left: 3px solid #7E00D6;
+                    border-bottom: 3px solid #DB98FF;
+                    border-left: 3px solid #DB98FF;
                     bottom: 0px;
                     left: 0px;
                     background-color: transparent;
@@ -150,29 +150,29 @@
                     animation: Appear 5s infinite linear;
                 }
                 .BottomLeftCorner::before {
-                    border-top: 3px solid #7E00D6;
+                    border-top: 3px solid #DB98FF;
                     bottom: 1px;
                     left: -3px;
                 }
                 .BottomLeftCorner::after {
-                    border-right: 3px solid #7E00D6;
+                    border-right: 3px solid #DB98FF;
                     bottom: -3px;
                     left: 1px;
                 } 
 
                 /* APPEAR ANIMATION KEYFRAME */
                 @keyframes Appear {
-                    00.00% {opacity: 0;}
-                    10.00% {opacity: 0;}
-                    20.00% {opacity: 0;}
-                    30.00% {opacity: 0;}
-                    40.00% {opacity: 0;}
-                    50.00% {opacity: 1;}
-                    60.00% {opacity: 1;}
-                    70.00% {opacity: 1;}
-                    80.00% {opacity: 1;}
-                    90.00% {opacity: 1;}
-                    100.0% {opacity: 0;}
+                    00.00% {opacity: 1;}
+                    10.00% {opacity: 1;}
+                    20.00% {opacity: 1;}
+                    30.00% {opacity: 1;}
+                    40.00% {opacity: 1;}
+                    50.00% {opacity: 0;}
+                    60.00% {opacity: 0;}
+                    70.00% {opacity: 0;}
+                    80.00% {opacity: 0;}
+                    90.00% {opacity: 0;}
+                    100.0% {opacity: 1;}
                 }                
 
                 /* BUTTON BOX STYLING */
@@ -279,61 +279,7 @@
                     90.00% {transform: translateX(75.00%);}
                     100.0% {transform: translateX(00.00%);}
                 }
-
-                /* BUTTON LIGHTUP STYLING */
-                .container .button::before {
-                    content: "";
-                    position: absolute;
-                    left: 50%;
-                    top: -10%;
-                    height: 2.5px;
-                    border-radius: 4px;
-                    transform: translateX(-50%);
-                    animation: LightUp 5s infinite linear;
-                }
-
-                /* LIGHTUP ANIMATION KEYFRAME */
-                @keyframes LightUp {
-                    00.00% {width: 90%; background: #DB98FF;}
-                    10.00% {width: 90%; background: #DB98FF;}
-                    20.00% {width: 90%; background: #DB98FF;}
-                    30.00% {width: 90%; background: #DB98FF;}
-                    40.00% {width: 90%; background: #DB98FF;}
-                    50.00% {width: 15%; background: #B732FF;}
-                    60.00% {width: 15%; background: #B732FF;}
-                    70.00% {width: 15%; background: #B732FF;}
-                    80.00% {width: 15%; background: #B732FF;}
-                    90.00% {width: 15%; background: #B732FF;}
-                    100.0% {width: 90%; background: #DB98FF;}
-                }
-
-                /* BUTTON LIGHTDOWN STYLING */
-                .container .button::after {
-                    content: "";
-                    position: absolute;
-                    left: 50%;
-                    bottom: -10%;
-                    height: 2.5px;
-                    border-radius: 4px;
-                    transform: translateX(-50%);
-                    animation: LightDown 5s infinite linear;
-                }
-
-                /* LIGHTDOWN ANIMATION KEYFRAME */
-                @keyframes LightDown {
-                    00.00% {width: 80%; background: #DB98FF;}
-                    10.00% {width: 80%; background: #DB98FF;}
-                    20.00% {width: 80%; background: #DB98FF;}
-                    30.00% {width: 80%; background: #DB98FF;}
-                    40.00% {width: 80%; background: #DB98FF;}
-                    50.00% {width: 15%; background: #B732FF;}
-                    60.00% {width: 15%; background: #B732FF;}
-                    70.00% {width: 15%; background: #B732FF;}
-                    80.00% {width: 15%; background: #B732FF;}
-                    90.00% {width: 15%; background: #B732FF;}
-                    100.0% {width: 80%; background: #DB98FF;}
-                }
-
+                
                 /* BUTTON CENTER ICON DISPLAY STYLING */
                 .button img {
                     position: absolute;
