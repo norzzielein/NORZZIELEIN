@@ -35,7 +35,7 @@
                 .container {
                     display: flex;
                     position: relative;
-                    width: 98%;
+                    width: 96%;
                     height: 100%;
                     justify-content: center;
                     align-items: center;
@@ -50,8 +50,8 @@
                 .BottomLeftCorner::before, .BottomLeftCorner::after {
                     content: "";
                     position: absolute;
-                    width: 3px;
-                    height: 3px;
+                    width: 2.5px;
+                    height: 2.5px;
                     border-radius: 3px;
                     z-index: 2;
                 }
@@ -63,23 +63,23 @@
                     width: 9px;
                     height: 9px;
                     border-radius: 0px 7.5px 0px 0px;
-                    border-top: 3px solid #B732FF;
-                    border-right: 3px solid #B732FF;
-                    top: 0px;
-                    right: 0px;
+                    border-top: 2.7px solid #B732FF;
+                    border-right: 2.7px solid #B732FF;
+                    top: 0.5px;
+                    right: 0.5px;
                     background-color: transparent;
                     z-index: 2;
                     animation: Appear 5s infinite linear;
                 }
                 .UpperRightCorner::before {
-                    border-bottom: 3px solid #B732FF;
-                    top: 1px;
-                    right: -3px;
+                    border-bottom: 2.5px solid #B732FF;
+                    top: 3px;
+                    right: -2.5px;
                 }
                 .UpperRightCorner::after {
-                    border-left: 3px solid #B732FF;
-                    top: -3px;
-                    right: 1px;
+                    border-left: 2.5px solid #B732FF;
+                    top: -2.5px;
+                    right: 3px;
                 }   
 
                 /* BUTTON BOTTOM-RIGHT CORNER STYLING */
@@ -89,23 +89,23 @@
                     width: 9px;
                     height: 9px;
                     border-radius: 0px 0px 7.5px 0px;
-                    border-bottom: 3px solid #B732FF;
-                    border-right: 3px solid #B732FF;
-                    bottom: 0px;
-                    right: 0px;
+                    border-bottom: 2.7px solid #B732FF;
+                    border-right: 2.7px solid #B732FF;
+                    bottom: 0.5px;
+                    right: 0.5px;
                     background-color: transparent;
                     z-index: 2;
                     animation: Appear 5s infinite linear;
                 }
                 .BottomRightCorner::before {
-                    border-top: 3px solid #B732FF;
-                    bottom: 1px;
-                    right: -3px;
+                    border-top: 2.5px solid #B732FF;
+                    bottom: 3px;
+                    right: -2.5px;
                 }
                 .BottomRightCorner::after {
-                    border-left: 3px solid #B732FF;
-                    bottom: -3px;
-                    right: 1px;
+                    border-left: 2.5px solid #B732FF;
+                    bottom: -2.5px;
+                    right: 3px;
                 }  
 
                 /* BUTTON UPPER-LEFT CORNER STYLING */
@@ -115,23 +115,23 @@
                     width: 9px;
                     height: 9px;
                     border-radius: 7.5px 0px 0px 0px;
-                    border-top: 3px solid #B732FF;
-                    border-left: 3px solid #B732FF;
-                    top: 0px;
-                    left: 0px;
+                    border-top: 2.7px solid #B732FF;
+                    border-left: 2.77px solid #B732FF;
+                    top: 0.5px;
+                    left: 0.5px;
                     background-color: transparent;
                     z-index: 2;
                     animation: Appear 5s infinite linear;
                 }
                 .UpperLeftCorner::before {
-                    border-bottom: 3px solid #B732FF;
-                    top: 1px;
-                    left: -3px;
+                    border-bottom: 2.5px solid #B732FF;
+                    top: 3px;
+                    left: -2.5px;
                 }
                 .UpperLeftCorner::after {
-                    border-right: 3px solid #B732FF;
-                    top: -3px;
-                    left: 1px;
+                    border-right: 2.5px solid #B732FF;
+                    top: -2.5px;
+                    left: 3px;
                 }   
 
                 /* BUTTON BOTTOM-LEFT CORNER STYLING */
@@ -141,23 +141,23 @@
                     width: 9px;
                     height: 9px;
                     border-radius: 0px 0px 0px 7.5px;
-                    border-bottom: 3px solid #B732FF;
-                    border-left: 3px solid #B732FF;
-                    bottom: 0px;
-                    left: 0px;
+                    border-bottom: 2.7px solid #B732FF;
+                    border-left: 2.7px solid #B732FF;
+                    bottom: 0.5px;
+                    left: 0.5px;
                     background-color: transparent;
                     z-index: 2;
                     animation: Appear 5s infinite linear;
                 }
                 .BottomLeftCorner::before {
-                    border-top: 3px solid #B732FF;
-                    bottom: 1px;
-                    left: -3px;
+                    border-top: 2.5px solid #B732FF;
+                    bottom: 3px;
+                    left: -2.5px;
                 }
                 .BottomLeftCorner::after {
-                    border-right: 3px solid #B732FF;
-                    bottom: -3px;
-                    left: 1px;
+                    border-right: 2.5px solid #B732FF;
+                    bottom: -2.5px;
+                    left: 3px;
                 } 
 
                 /* APPEAR ANIMATION KEYFRAME */
@@ -285,8 +285,8 @@
                     content: "";
                     position: absolute;
                     left: 50%;
-                    top: -13%;
-                    height: 3px;
+                    top: -10%;
+                    height: 2.5px;
                     border-radius: 4px;
                     transform: translateX(-50%);
                     animation: LightUp 5s infinite linear;
@@ -312,8 +312,8 @@
                     content: "";
                     position: absolute;
                     left: 50%;
-                    bottom: -13%;
-                    height: 3px;
+                    bottom: -10%;
+                    height: 2.5px;
                     border-radius: 4px;
                     transform: translateX(-50%);
                     animation: LightDown 5s infinite linear;
