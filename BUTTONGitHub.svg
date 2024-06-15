@@ -50,8 +50,8 @@
                 .BottomLeftCorner::before, .BottomLeftCorner::after {
                     content: "";
                     position: absolute;
-                    width: 2.5px;
-                    height: 2.5px;
+                    width: 3px;
+                    height: 3px;
                     border-radius: 3px;
                     z-index: 2;
                 }
@@ -63,23 +63,23 @@
                     width: 9px;
                     height: 9px;
                     border-radius: 0px 7.5px 0px 0px;
-                    border-top: 2.7px solid #B732FF;
-                    border-right: 2.7px solid #B732FF;
-                    top: 0.5px;
-                    right: 0.5px;
+                    border-top: 3px solid #B732FF;
+                    border-right: 3px solid #B732FF;
+                    top: 0px;
+                    right: 0px;
                     background-color: transparent;
                     z-index: 2;
                     animation: Appear 5s infinite linear;
                 }
                 .UpperRightCorner::before {
-                    border-bottom: 2.5px solid #B732FF;
-                    top: 3px;
-                    right: -2.5px;
+                    border-bottom: 3px solid #B732FF;
+                    top: 1px;
+                    right: -3px;
                 }
                 .UpperRightCorner::after {
-                    border-left: 2.5px solid #B732FF;
-                    top: -2.5px;
-                    right: 3px;
+                    border-left: 3px solid #B732FF;
+                    top: -3px;
+                    right: 1px;
                 }   
 
                 /* BUTTON BOTTOM-RIGHT CORNER STYLING */
